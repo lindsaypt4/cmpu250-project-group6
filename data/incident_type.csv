@@ -1,0 +1,5883 @@
+,Incident,Type
+0,4163,Disruption
+1,4163,Hijacking with Misuse
+2,4161,Data theft
+3,4161,Hijacking with Misuse
+4,4160,Data theft
+5,4160,Hijacking with Misuse
+6,4159,Data theft
+7,4159,Hijacking with Misuse
+8,4158,Data theft & Doxing
+9,4158,Hijacking with Misuse
+10,4157,Disruption
+11,4157,Hijacking with Misuse
+12,4156,Data theft
+13,4156,Hijacking with Misuse
+14,4156,Ransomware
+15,4155,Disruption
+16,4154,Data theft
+17,4154,Disruption
+18,4154,Hijacking with Misuse
+19,4153,Data theft & Doxing
+20,4153,Hijacking with Misuse
+21,4152,Hijacking without Misuse
+22,4151,Data theft
+23,4151,Hijacking with Misuse
+24,4150,Data theft
+25,4150,Disruption
+26,4150,Hijacking with Misuse
+27,4150,Ransomware
+28,4149,Data theft & Doxing
+29,4149,Ransomware
+30,4148,Data theft
+31,4148,Hijacking with Misuse
+32,4147,Data theft
+33,4147,Hijacking with Misuse
+34,4146,Data theft
+35,4146,Hijacking with Misuse
+36,4145,Data theft
+37,4145,Hijacking with Misuse
+38,4144,Data theft
+39,4144,Hijacking with Misuse
+40,4143,Data theft
+41,4143,Disruption
+42,4142,Data theft
+43,4142,Hijacking with Misuse
+44,4142,Ransomware
+45,4141,Data theft
+46,4141,Hijacking with Misuse
+47,4141,Ransomware
+48,4140,Data theft
+49,4140,Hijacking with Misuse
+50,4140,Ransomware
+51,4138,Data theft & Doxing
+52,4138,Hijacking with Misuse
+53,4138,Ransomware
+54,4136,Data theft
+55,4136,Hijacking with Misuse
+56,4135,Hijacking without Misuse
+57,4134,Data theft
+58,4134,Hijacking with Misuse
+59,4132,Disruption
+60,4132,Hijacking with Misuse
+61,4130,Data theft
+62,4130,Hijacking with Misuse
+63,4129,Hijacking with Misuse
+64,4128,Hijacking without Misuse
+65,4127,Data theft
+66,4127,Hijacking with Misuse
+67,4125,Hijacking with Misuse
+68,4124,Data theft
+69,4124,Hijacking with Misuse
+70,4124,Ransomware
+71,4122,Data theft
+72,4122,Hijacking with Misuse
+73,4121,Data theft
+74,4121,Hijacking with Misuse
+75,4121,Ransomware
+76,4120,Disruption
+77,4120,Hijacking with Misuse
+78,4120,Ransomware
+79,4118,Disruption
+80,4117,Disruption
+81,4116,Data theft
+82,4116,Hijacking with Misuse
+83,4115,Data theft
+84,4115,Hijacking with Misuse
+85,4115,Ransomware
+86,4114,Disruption
+87,4114,Hijacking with Misuse
+88,4113,Disruption
+89,4113,Hijacking with Misuse
+90,4113,Ransomware
+91,4111,Disruption
+92,4111,Hijacking with Misuse
+93,4110,Hijacking with Misuse
+94,4110,Ransomware
+95,4108,Data theft
+96,4108,Hijacking with Misuse
+97,4107,Data theft
+98,4107,Hijacking with Misuse
+99,4106,Data theft & Doxing
+100,4106,Disruption
+101,4106,Hijacking with Misuse
+102,4105,Data theft
+103,4105,Disruption
+104,4105,Hijacking with Misuse
+105,4103,Hijacking with Misuse
+106,4103,Ransomware
+107,4101,Data theft
+108,4101,Disruption
+109,4101,Hijacking with Misuse
+110,4101,Ransomware
+111,4100,Disruption
+112,4100,Hijacking with Misuse
+113,4099,Data theft & Doxing
+114,4099,Hijacking with Misuse
+115,4098,Disruption
+116,4097,Hijacking with Misuse
+117,4095,Hijacking with Misuse
+118,4093,Disruption
+119,4092,Data theft
+120,4092,Hijacking with Misuse
+121,4091,Disruption
+122,4091,Hijacking with Misuse
+123,4091,Ransomware
+124,4090,Disruption
+125,4090,Hijacking with Misuse
+126,4090,Ransomware
+127,4087,Data theft
+128,4087,Hijacking with Misuse
+129,4086,Data theft & Doxing
+130,4086,Disruption
+131,4086,Hijacking with Misuse
+132,4086,Ransomware
+133,4084,Data theft
+134,4084,Hijacking with Misuse
+135,4084,Data theft
+136,4084,Hijacking with Misuse
+137,4084,Data theft
+138,4084,Hijacking with Misuse
+139,4083,Hijacking with Misuse
+140,4082,Data theft
+141,4082,Hijacking with Misuse
+142,4082,Ransomware
+143,4081,Data theft
+144,4081,Hijacking with Misuse
+145,4080,Data theft
+146,4080,Hijacking with Misuse
+147,4079,Data theft & Doxing
+148,4079,Hijacking with Misuse
+149,4076,Disruption
+150,4075,Data theft
+151,4075,Disruption
+152,4074,Data theft
+153,4074,Disruption
+154,4074,Hijacking with Misuse
+155,4073,Disruption
+156,4072,Data theft
+157,4072,Disruption
+158,4072,Hijacking with Misuse
+159,4071,Hijacking with Misuse
+160,4071,Ransomware
+161,4069,Hijacking with Misuse
+162,4064,Disruption
+163,4064,Hijacking without Misuse
+164,4063,Data theft
+165,4061,Data theft
+166,4061,Hijacking with Misuse
+167,4061,Ransomware
+168,4057,Hijacking with Misuse
+169,4057,Ransomware
+170,4056,Data theft & Doxing
+171,4056,Hijacking with Misuse
+172,4056,Ransomware
+173,4055,Disruption
+174,4055,Hijacking with Misuse
+175,4054,Data theft
+176,4054,Hijacking with Misuse
+177,4054,Ransomware
+178,4053,Data theft
+179,4053,Hijacking with Misuse
+180,4053,Ransomware
+181,4052,Data theft
+182,4051,Data theft
+183,4051,Hijacking with Misuse
+184,4050,Data theft
+185,4049,Hijacking without Misuse
+186,4049,Hijacking without Misuse
+187,4049,Hijacking without Misuse
+188,4049,Hijacking without Misuse
+189,4048,Disruption
+190,4045,Data theft
+191,4045,Hijacking with Misuse
+192,4043,Hijacking with Misuse
+193,4043,Ransomware
+194,4041,Data theft
+195,4039,Data theft
+196,4039,Hijacking with Misuse
+197,4038,Data theft
+198,4037,Data theft & Doxing
+199,4037,Hijacking with Misuse
+200,4037,Ransomware
+201,4033,Data theft
+202,4033,Hijacking with Misuse
+203,4029,Hijacking with Misuse
+204,4029,Ransomware
+205,4026,Disruption
+206,4025,Data theft & Doxing
+207,4025,Hijacking with Misuse
+208,4022,Data theft
+209,4022,Hijacking with Misuse
+210,4022,Ransomware
+211,4021,Disruption
+212,4021,Hijacking with Misuse
+213,4020,Data theft & Doxing
+214,4020,Hijacking with Misuse
+215,4018,Data theft
+216,4018,Hijacking without Misuse
+217,4018,Ransomware
+218,4017,Hijacking with Misuse
+219,4014,Disruption
+220,4012,Disruption
+221,4012,Hijacking with Misuse
+222,4012,Ransomware
+223,4011,Data theft
+224,4011,Hijacking without Misuse
+225,4010,Data theft
+226,4010,Hijacking without Misuse
+227,4009,Data theft
+228,4009,Hijacking with Misuse
+229,4007,Data theft & Doxing
+230,4007,Hijacking with Misuse
+231,4007,Ransomware
+232,4007,Data theft & Doxing
+233,4007,Hijacking with Misuse
+234,4007,Ransomware
+235,4005,Data theft
+236,4005,Hijacking without Misuse
+237,4005,Data theft
+238,4005,Hijacking without Misuse
+239,4004,Disruption
+240,4004,Hijacking with Misuse
+241,4004,Disruption
+242,4004,Hijacking with Misuse
+243,4003,Disruption
+244,4002,Data theft
+245,4002,Hijacking with Misuse
+246,4002,Ransomware
+247,3992,Hijacking with Misuse
+248,3992,Ransomware
+249,3990,Data theft
+250,3990,Disruption
+251,3990,Hijacking with Misuse
+252,3990,Ransomware
+253,3989,Data theft
+254,3989,Hijacking with Misuse
+255,3988,Hijacking without Misuse
+256,3987,Disruption
+257,3987,Hijacking with Misuse
+258,3987,Ransomware
+259,3986,Data theft
+260,3986,Hijacking with Misuse
+261,3985,Hijacking with Misuse
+262,3984,Data theft & Doxing
+263,3984,Hijacking with Misuse
+264,3984,Ransomware
+265,3979,Data theft
+266,3979,Hijacking with Misuse
+267,3978,Data theft
+268,3978,Hijacking with Misuse
+269,3977,Hijacking with Misuse
+270,3976,Hijacking with Misuse
+271,3975,Hijacking without Misuse
+272,3974,Disruption
+273,3974,Hijacking without Misuse
+274,3974,Ransomware
+275,3972,Data theft & Doxing
+276,3972,Ransomware
+277,3971,Hijacking without Misuse
+278,3970,Hijacking without Misuse
+279,3969,Hijacking without Misuse
+280,3968,Hijacking without Misuse
+281,3967,Hijacking without Misuse
+282,3966,Hijacking without Misuse
+283,3965,Data theft
+284,3965,Hijacking with Misuse
+285,3964,Data theft
+286,3964,Hijacking with Misuse
+287,3963,Disruption
+288,3963,Hijacking with Misuse
+289,3963,Ransomware
+290,3962,Hijacking without Misuse
+291,3961,Hijacking with Misuse
+292,3960,Hijacking with Misuse
+293,3960,Ransomware
+294,3958,Data theft
+295,3957,Disruption
+296,3956,Disruption
+297,3955,Disruption
+298,3955,Hijacking without Misuse
+299,3954,Data theft & Doxing
+300,3953,Data theft
+301,3953,Hijacking with Misuse
+302,3952,Disruption
+303,3952,Hijacking with Misuse
+304,3952,Ransomware
+305,3951,Disruption
+306,3951,Hijacking with Misuse
+307,3950,Disruption
+308,3950,Hijacking with Misuse
+309,3950,Ransomware
+310,3949,Data theft & Doxing
+311,3949,Hijacking with Misuse
+312,3949,Ransomware
+313,3948,Data theft
+314,3948,Hijacking with Misuse
+315,3947,Data theft & Doxing
+316,3947,Hijacking with Misuse
+317,3947,Ransomware
+318,3946,Hijacking with Misuse
+319,3945,Hijacking with Misuse
+320,3943,Disruption
+321,3943,Hijacking with Misuse
+322,3943,Ransomware
+323,3941,Data theft
+324,3941,Hijacking with Misuse
+325,3938,Hijacking without Misuse
+326,3937,Disruption
+327,3937,Hijacking with Misuse
+328,3937,Ransomware
+329,3936,Data theft
+330,3936,Hijacking with Misuse
+331,3927,Data theft & Doxing
+332,3926,Hijacking without Misuse
+333,3925,Hijacking with Misuse
+334,3924,Hijacking with Misuse
+335,3923,Data theft
+336,3923,Hijacking with Misuse
+337,3922,Not available
+338,3919,Hijacking without Misuse
+339,3918,Hijacking with Misuse
+340,3918,Ransomware
+341,3917,Data theft
+342,3917,Disruption
+343,3917,Hijacking with Misuse
+344,3915,Hijacking without Misuse
+345,3913,Data theft
+346,3913,Hijacking with Misuse
+347,3912,Data theft
+348,3912,Disruption
+349,3912,Hijacking with Misuse
+350,3911,Data theft
+351,3911,Hijacking with Misuse
+352,3909,Disruption
+353,3908,Data theft
+354,3908,Hijacking with Misuse
+355,3907,Data theft
+356,3907,Hijacking with Misuse
+357,3906,Disruption
+358,3906,Hijacking with Misuse
+359,3905,Data theft & Doxing
+360,3905,Hijacking with Misuse
+361,3904,Hijacking without Misuse
+362,3903,Disruption
+363,3903,Hijacking with Misuse
+364,3903,Ransomware
+365,3902,Disruption
+366,3901,Data theft
+367,3901,Hijacking with Misuse
+368,3900,Disruption
+369,3900,Hijacking with Misuse
+370,3899,Hijacking without Misuse
+371,3898,Hijacking with Misuse
+372,3897,Disruption
+373,3897,Hijacking with Misuse
+374,3897,Ransomware
+375,3896,Data theft
+376,3895,Hijacking without Misuse
+377,3894,Disruption
+378,3894,Hijacking with Misuse
+379,3892,Hijacking without Misuse
+380,3890,Data theft
+381,3890,Hijacking with Misuse
+382,3889,Disruption
+383,3889,Hijacking with Misuse
+384,3889,Ransomware
+385,3886,Hijacking with Misuse
+386,3886,Ransomware
+387,3886,Hijacking with Misuse
+388,3886,Ransomware
+389,3885,Data theft
+390,3885,Hijacking with Misuse
+391,3884,Disruption
+392,3884,Hijacking with Misuse
+393,3881,Data theft
+394,3881,Hijacking with Misuse
+395,3880,Disruption
+396,3880,Hijacking without Misuse
+397,3877,Data theft
+398,3877,Hijacking with Misuse
+399,3876,Disruption
+400,3876,Hijacking with Misuse
+401,3876,Ransomware
+402,3873,Disruption
+403,3873,Hijacking with Misuse
+404,3872,Data theft
+405,3872,Hijacking with Misuse
+406,3869,Disruption
+407,3869,Hijacking with Misuse
+408,3869,Ransomware
+409,3853,Hijacking without Misuse
+410,3852,Disruption
+411,3851,Disruption
+412,3841,Hijacking with Misuse
+413,3841,Ransomware
+414,3839,Hijacking with Misuse
+415,3831,Hijacking with Misuse
+416,3830,Data theft
+417,3830,Disruption
+418,3830,Hijacking with Misuse
+419,3829,Disruption
+420,3828,Data theft
+421,3828,Hijacking with Misuse
+422,3827,Disruption
+423,3827,Hijacking without Misuse
+424,3827,Ransomware
+425,3823,Hijacking with Misuse
+426,3822,Disruption
+427,3822,Hijacking with Misuse
+428,3822,Ransomware
+429,3818,Disruption
+430,3817,Hijacking with Misuse
+431,3815,Hijacking with Misuse
+432,3796,Hijacking without Misuse
+433,3795,Data theft
+434,3795,Hijacking without Misuse
+435,3794,Hijacking with Misuse
+436,3792,Disruption
+437,3789,Disruption
+438,3788,Disruption
+439,3788,Hijacking with Misuse
+440,3788,Ransomware
+441,3787,Disruption
+442,3786,Hijacking with Misuse
+443,3785,Data theft
+444,3785,Hijacking with Misuse
+445,3784,Data theft
+446,3784,Hijacking with Misuse
+447,3781,Disruption
+448,3780,Hijacking with Misuse
+449,3779,Disruption
+450,3779,Hijacking with Misuse
+451,3778,Data theft
+452,3778,Hijacking with Misuse
+453,3777,Hijacking with Misuse
+454,3776,Hijacking without Misuse
+455,3775,Disruption
+456,3775,Hijacking with Misuse
+457,3775,Ransomware
+458,3774,Data theft
+459,3774,Hijacking with Misuse
+460,3774,Ransomware
+461,3773,Data theft & Doxing
+462,3773,Hijacking with Misuse
+463,3771,Hijacking without Misuse
+464,3770,Data theft
+465,3769,Data theft & Doxing
+466,3769,Hijacking with Misuse
+467,3768,Hijacking without Misuse
+468,3767,Disruption
+469,3767,Hijacking with Misuse
+470,3767,Ransomware
+471,3766,Hijacking without Misuse
+472,3765,Data theft
+473,3765,Hijacking with Misuse
+474,3764,Hijacking without Misuse
+475,3763,Hijacking without Misuse
+476,3762,Hijacking without Misuse
+477,3761,Data theft
+478,3761,Hijacking with Misuse
+479,3761,Ransomware
+480,3760,Data theft & Doxing
+481,3760,Hijacking with Misuse
+482,3760,Ransomware
+483,3759,Disruption
+484,3758,Disruption
+485,3757,Data theft
+486,3757,Hijacking with Misuse
+487,3757,Ransomware
+488,3756,Disruption
+489,3756,Hijacking with Misuse
+490,3756,Ransomware
+491,3754,Disruption
+492,3753,Disruption
+493,3753,Hijacking with Misuse
+494,3753,Ransomware
+495,3751,Hijacking with Misuse
+496,3750,Disruption
+497,3750,Hijacking without Misuse
+498,3749,Hijacking without Misuse
+499,3748,Data theft
+500,3748,Hijacking with Misuse
+501,3747,Data theft
+502,3747,Disruption
+503,3747,Hijacking with Misuse
+504,3747,Ransomware
+505,3746,Hijacking without Misuse
+506,3745,Data theft
+507,3745,Hijacking with Misuse
+508,3744,Disruption
+509,3744,Hijacking with Misuse
+510,3743,Data theft
+511,3743,Hijacking with Misuse
+512,3742,Data theft
+513,3742,Hijacking with Misuse
+514,3741,Data theft
+515,3741,Hijacking with Misuse
+516,3740,Hijacking without Misuse
+517,3739,Data theft & Doxing
+518,3739,Hijacking with Misuse
+519,3738,Disruption
+520,3737,Data theft
+521,3737,Hijacking with Misuse
+522,3736,Disruption
+523,3735,Disruption
+524,3734,Disruption
+525,3733,Disruption
+526,3732,Disruption
+527,3732,Hijacking with Misuse
+528,3732,Ransomware
+529,3731,Data theft
+530,3731,Disruption
+531,3731,Hijacking with Misuse
+532,3731,Ransomware
+533,3730,Hijacking without Misuse
+534,3729,Disruption
+535,3729,Hijacking with Misuse
+536,3728,Disruption
+537,3727,Data theft
+538,3727,Hijacking with Misuse
+539,3727,Ransomware
+540,3726,Data theft
+541,3726,Hijacking with Misuse
+542,3725,Disruption
+543,3725,Hijacking with Misuse
+544,3725,Ransomware
+545,3724,Hijacking without Misuse
+546,3723,Hijacking with Misuse
+547,3722,Hijacking without Misuse
+548,3721,Data theft
+549,3721,Hijacking with Misuse
+550,3720,Hijacking with Misuse
+551,3719,Data theft
+552,3719,Disruption
+553,3719,Hijacking with Misuse
+554,3719,Ransomware
+555,3718,Hijacking with Misuse
+556,3717,Data theft
+557,3717,Disruption
+558,3717,Hijacking with Misuse
+559,3717,Ransomware
+560,3716,Disruption
+561,3716,Hijacking with Misuse
+562,3715,Disruption
+563,3714,Hijacking without Misuse
+564,3711,Disruption
+565,3711,Hijacking with Misuse
+566,3708,Data theft
+567,3708,Hijacking with Misuse
+568,3707,Disruption
+569,3707,Hijacking with Misuse
+570,3707,Disruption
+571,3707,Hijacking with Misuse
+572,3706,Data theft
+573,3706,Hijacking with Misuse
+574,3705,Disruption
+575,3704,Data theft
+576,3704,Hijacking with Misuse
+577,3703,Data theft
+578,3703,Disruption
+579,3703,Hijacking without Misuse
+580,3702,Disruption
+581,3702,Hijacking with Misuse
+582,3702,Ransomware
+583,3701,Data theft & Doxing
+584,3701,Disruption
+585,3701,Hijacking with Misuse
+586,3701,Ransomware
+587,3700,Data theft
+588,3700,Disruption
+589,3700,Hijacking with Misuse
+590,3699,Data theft & Doxing
+591,3699,Hijacking with Misuse
+592,3698,Hijacking with Misuse
+593,3697,Hijacking without Misuse
+594,3696,Disruption
+595,3696,Hijacking with Misuse
+596,3696,Ransomware
+597,3695,Data theft
+598,3695,Disruption
+599,3695,Hijacking with Misuse
+600,3695,Ransomware
+601,3694,Data theft
+602,3694,Disruption
+603,3694,Hijacking with Misuse
+604,3694,Ransomware
+605,3693,Data theft
+606,3693,Hijacking with Misuse
+607,3692,Disruption
+608,3692,Hijacking with Misuse
+609,3691,Disruption
+610,3690,Hijacking with Misuse
+611,3689,Disruption
+612,3688,Hijacking with Misuse
+613,3686,Data theft
+614,3686,Disruption
+615,3686,Hijacking with Misuse
+616,3686,Ransomware
+617,3685,Data theft & Doxing
+618,3685,Hijacking with Misuse
+619,3685,Ransomware
+620,3683,Hijacking with Misuse
+621,3682,Hijacking with Misuse
+622,3681,Disruption
+623,3681,Hijacking with Misuse
+624,3681,Ransomware
+625,3680,Disruption
+626,3680,Hijacking with Misuse
+627,3679,Data theft
+628,3679,Disruption
+629,3679,Hijacking with Misuse
+630,3679,Ransomware
+631,3678,Disruption
+632,3677,Disruption
+633,3677,Hijacking with Misuse
+634,3677,Ransomware
+635,3675,Data theft
+636,3675,Hijacking with Misuse
+637,3674,Data theft
+638,3674,Hijacking with Misuse
+639,3674,Ransomware
+640,3673,Hijacking without Misuse
+641,3672,Data theft
+642,3672,Hijacking with Misuse
+643,3671,Data theft
+644,3671,Hijacking with Misuse
+645,3670,Hijacking with Misuse
+646,3669,Disruption
+647,3669,Hijacking with Misuse
+648,3668,Disruption
+649,3668,Hijacking with Misuse
+650,3668,Ransomware
+651,3667,Disruption
+652,3666,Hijacking without Misuse
+653,3665,Disruption
+654,3664,Disruption
+655,3663,Data theft
+656,3663,Hijacking with Misuse
+657,3662,Hijacking with Misuse
+658,3661,Data theft
+659,3661,Hijacking with Misuse
+660,3660,Data theft
+661,3660,Hijacking with Misuse
+662,3659,Disruption
+663,3659,Hijacking with Misuse
+664,3659,Ransomware
+665,3658,Disruption
+666,3658,Hijacking with Misuse
+667,3658,Ransomware
+668,3657,Disruption
+669,3657,Hijacking with Misuse
+670,3657,Ransomware
+671,3655,Data theft
+672,3655,Hijacking with Misuse
+673,3653,Disruption
+674,3652,Data theft
+675,3652,Disruption
+676,3652,Hijacking with Misuse
+677,3652,Ransomware
+678,3651,Data theft & Doxing
+679,3651,Disruption
+680,3651,Hijacking with Misuse
+681,3650,Data theft
+682,3650,Hijacking with Misuse
+683,3649,Disruption
+684,3649,Hijacking with Misuse
+685,3649,Ransomware
+686,3648,Data theft
+687,3648,Hijacking with Misuse
+688,3647,Data theft
+689,3647,Hijacking with Misuse
+690,3646,Disruption
+691,3646,Ransomware
+692,3645,Hijacking with Misuse
+693,3644,Hijacking with Misuse
+694,3643,Hijacking with Misuse
+695,3642,Disruption
+696,3640,Disruption
+697,3640,Hijacking with Misuse
+698,3640,Ransomware
+699,3639,Hijacking without Misuse
+700,3638,Disruption
+701,3638,Hijacking with Misuse
+702,3637,Disruption
+703,3637,Hijacking with Misuse
+704,3635,Disruption
+705,3635,Hijacking with Misuse
+706,3635,Ransomware
+707,3634,Hijacking with Misuse
+708,3633,Data theft & Doxing
+709,3633,Hijacking with Misuse
+710,3633,Ransomware
+711,3632,Disruption
+712,3632,Hijacking with Misuse
+713,3632,Ransomware
+714,3631,Data theft
+715,3631,Hijacking with Misuse
+716,3630,Hijacking with Misuse
+717,3629,Data theft
+718,3629,Hijacking with Misuse
+719,3628,Hijacking without Misuse
+720,3627,Disruption
+721,3627,Hijacking with Misuse
+722,3626,Hijacking with Misuse
+723,3625,Disruption
+724,3625,Hijacking with Misuse
+725,3625,Ransomware
+726,3624,Data theft
+727,3624,Disruption
+728,3624,Hijacking with Misuse
+729,3624,Ransomware
+730,3623,Hijacking with Misuse
+731,3622,Data theft
+732,3622,Hijacking with Misuse
+733,3622,Ransomware
+734,3621,Hijacking without Misuse
+735,3620,Data theft
+736,3620,Hijacking with Misuse
+737,3619,Disruption
+738,3619,Hijacking with Misuse
+739,3619,Ransomware
+740,3617,Disruption
+741,3616,Hijacking with Misuse
+742,3615,Hijacking with Misuse
+743,3614,Data theft & Doxing
+744,3614,Hijacking with Misuse
+745,3613,Disruption
+746,3612,Disruption
+747,3612,Hijacking with Misuse
+748,3612,Ransomware
+749,3611,Disruption
+750,3611,Hijacking with Misuse
+751,3611,Ransomware
+752,3610,Data theft & Doxing
+753,3610,Hijacking with Misuse
+754,3609,Hijacking without Misuse
+755,3608,Data theft
+756,3608,Hijacking with Misuse
+757,3607,Disruption
+758,3606,Disruption
+759,3606,Hijacking with Misuse
+760,3605,Disruption
+761,3605,Hijacking with Misuse
+762,3603,Data theft
+763,3603,Disruption
+764,3603,Hijacking with Misuse
+765,3603,Ransomware
+766,3600,Hijacking with Misuse
+767,3599,Data theft
+768,3599,Hijacking with Misuse
+769,3598,Data theft
+770,3598,Hijacking with Misuse
+771,3598,Ransomware
+772,3597,Data theft
+773,3597,Disruption
+774,3597,Hijacking with Misuse
+775,3596,Data theft
+776,3596,Hijacking with Misuse
+777,3595,Data theft
+778,3595,Hijacking with Misuse
+779,3594,Data theft
+780,3594,Disruption
+781,3594,Hijacking with Misuse
+782,3594,Ransomware
+783,3593,Data theft
+784,3593,Hijacking with Misuse
+785,3592,Data theft
+786,3592,Disruption
+787,3592,Hijacking with Misuse
+788,3592,Ransomware
+789,3591,Disruption
+790,3591,Hijacking with Misuse
+791,3590,Disruption
+792,3590,Hijacking with Misuse
+793,3589,Hijacking without Misuse
+794,3588,Hijacking without Misuse
+795,3586,Disruption
+796,3586,Hijacking with Misuse
+797,3585,Data theft & Doxing
+798,3585,Disruption
+799,3585,Hijacking with Misuse
+800,3585,Ransomware
+801,3584,Hijacking without Misuse
+802,3583,Data theft & Doxing
+803,3583,Disruption
+804,3583,Hijacking with Misuse
+805,3583,Ransomware
+806,3582,Data theft
+807,3582,Disruption
+808,3582,Hijacking with Misuse
+809,3582,Ransomware
+810,3580,Disruption
+811,3580,Hijacking with Misuse
+812,3580,Ransomware
+813,3579,Data theft
+814,3579,Hijacking with Misuse
+815,3577,Disruption
+816,3577,Hijacking with Misuse
+817,3577,Ransomware
+818,3576,Data theft
+819,3576,Hijacking with Misuse
+820,3575,Hijacking with Misuse
+821,3574,Data theft
+822,3574,Disruption
+823,3574,Hijacking with Misuse
+824,3574,Ransomware
+825,3573,Disruption
+826,3573,Hijacking with Misuse
+827,3573,Ransomware
+828,3572,Hijacking with Misuse
+829,3571,Data theft
+830,3571,Hijacking with Misuse
+831,3570,Disruption
+832,3570,Hijacking with Misuse
+833,3570,Ransomware
+834,3568,Data theft
+835,3568,Disruption
+836,3568,Hijacking with Misuse
+837,3568,Ransomware
+838,3567,Disruption
+839,3567,Hijacking with Misuse
+840,3566,Data theft
+841,3566,Disruption
+842,3566,Hijacking with Misuse
+843,3566,Ransomware
+844,3565,Data theft
+845,3565,Disruption
+846,3565,Hijacking with Misuse
+847,3565,Ransomware
+848,3564,Data theft & Doxing
+849,3564,Hijacking with Misuse
+850,3563,Disruption
+851,3562,Data theft
+852,3562,Hijacking with Misuse
+853,3559,Data theft
+854,3559,Hijacking with Misuse
+855,3558,Data theft
+856,3558,Hijacking with Misuse
+857,3558,Ransomware
+858,3557,Disruption
+859,3557,Hijacking with Misuse
+860,3557,Ransomware
+861,3557,Disruption
+862,3557,Hijacking with Misuse
+863,3557,Ransomware
+864,3556,Hijacking without Misuse
+865,3555,Hijacking with Misuse
+866,3554,Disruption
+867,3553,Disruption
+868,3553,Hijacking with Misuse
+869,3550,Disruption
+870,3549,Disruption
+871,3549,Hijacking with Misuse
+872,3548,Hijacking with Misuse
+873,3547,Data theft
+874,3547,Hijacking with Misuse
+875,3546,Hijacking with Misuse
+876,3545,Data theft
+877,3545,Disruption
+878,3545,Hijacking with Misuse
+879,3545,Ransomware
+880,3544,Disruption
+881,3544,Hijacking with Misuse
+882,3544,Ransomware
+883,3543,Data theft
+884,3543,Hijacking with Misuse
+885,3542,Disruption
+886,3542,Hijacking with Misuse
+887,3542,Ransomware
+888,3539,Disruption
+889,3539,Hijacking with Misuse
+890,3538,Hijacking without Misuse
+891,3537,Disruption
+892,3537,Hijacking with Misuse
+893,3537,Ransomware
+894,3536,Data theft & Doxing
+895,3536,Hijacking with Misuse
+896,3535,Data theft
+897,3535,Disruption
+898,3535,Hijacking with Misuse
+899,3535,Ransomware
+900,3533,Hijacking without Misuse
+901,3532,Disruption
+902,3532,Hijacking with Misuse
+903,3532,Ransomware
+904,3531,Disruption
+905,3529,Hijacking with Misuse
+906,3528,Data theft & Doxing
+907,3528,Hijacking with Misuse
+908,3528,Ransomware
+909,3527,Data theft
+910,3527,Hijacking with Misuse
+911,3526,Data theft
+912,3526,Hijacking with Misuse
+913,3525,Hijacking without Misuse
+914,3524,Hijacking with Misuse
+915,3521,Data theft & Doxing
+916,3521,Disruption
+917,3521,Hijacking with Misuse
+918,3521,Ransomware
+919,3520,Hijacking with Misuse
+920,3519,Disruption
+921,3518,Data theft & Doxing
+922,3518,Hijacking with Misuse
+923,3517,Disruption
+924,3517,Hijacking with Misuse
+925,3517,Ransomware
+926,3516,Disruption
+927,3516,Hijacking with Misuse
+928,3515,Disruption
+929,3515,Hijacking with Misuse
+930,3514,Data theft
+931,3514,Hijacking with Misuse
+932,3512,Hijacking with Misuse
+933,3511,Data theft
+934,3511,Hijacking with Misuse
+935,3510,Disruption
+936,3510,Hijacking with Misuse
+937,3510,Ransomware
+938,3509,Hijacking without Misuse
+939,3508,Disruption
+940,3508,Hijacking with Misuse
+941,3508,Ransomware
+942,3507,Hijacking without Misuse
+943,3506,Data theft
+944,3506,Hijacking with Misuse
+945,3506,Ransomware
+946,3505,Disruption
+947,3505,Hijacking with Misuse
+948,3505,Ransomware
+949,3504,Hijacking without Misuse
+950,3503,Data theft
+951,3503,Hijacking with Misuse
+952,3502,Disruption
+953,3502,Hijacking with Misuse
+954,3502,Ransomware
+955,3501,Disruption
+956,3501,Hijacking with Misuse
+957,3501,Ransomware
+958,3500,Disruption
+959,3499,Data theft
+960,3499,Hijacking with Misuse
+961,3498,Data theft
+962,3498,Disruption
+963,3498,Hijacking with Misuse
+964,3498,Ransomware
+965,3497,Data theft
+966,3497,Hijacking with Misuse
+967,3496,Disruption
+968,3495,Data theft & Doxing
+969,3495,Hijacking with Misuse
+970,3495,Ransomware
+971,3494,Data theft & Doxing
+972,3494,Hijacking with Misuse
+973,3493,Data theft
+974,3493,Hijacking with Misuse
+975,3492,Disruption
+976,3491,Disruption
+977,3490,Hijacking without Misuse
+978,3489,Hijacking with Misuse
+979,3488,Data theft & Doxing
+980,3488,Hijacking with Misuse
+981,3488,Ransomware
+982,3487,Data theft
+983,3487,Disruption
+984,3487,Hijacking with Misuse
+985,3487,Ransomware
+986,3486,Data theft
+987,3486,Disruption
+988,3486,Hijacking with Misuse
+989,3486,Ransomware
+990,3485,Data theft
+991,3485,Hijacking with Misuse
+992,3484,Data theft & Doxing
+993,3484,Disruption
+994,3484,Hijacking with Misuse
+995,3484,Ransomware
+996,3481,Data theft
+997,3481,Hijacking with Misuse
+998,3480,Hijacking with Misuse
+999,3479,Data theft & Doxing
+1000,3479,Hijacking with Misuse
+1001,3479,Ransomware
+1002,3478,Hijacking without Misuse
+1003,3477,Disruption
+1004,3476,Data theft
+1005,3476,Disruption
+1006,3476,Hijacking with Misuse
+1007,3476,Ransomware
+1008,3475,Data theft
+1009,3475,Hijacking with Misuse
+1010,3475,Ransomware
+1011,3474,Hijacking with Misuse
+1012,3473,Disruption
+1013,3473,Hijacking with Misuse
+1014,3471,Disruption
+1015,3471,Hijacking with Misuse
+1016,3468,Hijacking with Misuse
+1017,3467,Data theft
+1018,3467,Hijacking with Misuse
+1019,3466,Data theft
+1020,3466,Hijacking with Misuse
+1021,3466,Ransomware
+1022,3465,Data theft
+1023,3465,Hijacking with Misuse
+1024,3464,Data theft
+1025,3464,Hijacking with Misuse
+1026,3464,Data theft
+1027,3464,Hijacking with Misuse
+1028,3463,Hijacking without Misuse
+1029,3462,Disruption
+1030,3461,Disruption
+1031,3461,Hijacking with Misuse
+1032,3460,Disruption
+1033,3459,Data theft & Doxing
+1034,3459,Hijacking with Misuse
+1035,3458,Hijacking with Misuse
+1036,3457,Hijacking with Misuse
+1037,3456,Hijacking with Misuse
+1038,3455,Data theft
+1039,3455,Disruption
+1040,3455,Hijacking with Misuse
+1041,3455,Ransomware
+1042,3454,Data theft
+1043,3454,Hijacking with Misuse
+1044,3453,Hijacking with Misuse
+1045,3451,Data theft
+1046,3451,Disruption
+1047,3451,Hijacking with Misuse
+1048,3451,Ransomware
+1049,3450,Hijacking without Misuse
+1050,3449,Data theft
+1051,3449,Hijacking with Misuse
+1052,3448,Disruption
+1053,3448,Hijacking with Misuse
+1054,3448,Ransomware
+1055,3446,Data theft
+1056,3446,Hijacking with Misuse
+1057,3445,Disruption
+1058,3444,Data theft
+1059,3444,Hijacking with Misuse
+1060,3443,Data theft
+1061,3443,Disruption
+1062,3443,Hijacking with Misuse
+1063,3443,Ransomware
+1064,3440,Data theft & Doxing
+1065,3440,Hijacking with Misuse
+1066,3439,Data theft
+1067,3439,Hijacking with Misuse
+1068,3438,Disruption
+1069,3437,Hijacking without Misuse
+1070,3436,Data theft & Doxing
+1071,3436,Hijacking with Misuse
+1072,3436,Ransomware
+1073,3435,Disruption
+1074,3435,Hijacking with Misuse
+1075,3435,Ransomware
+1076,3433,Hijacking with Misuse
+1077,3432,Disruption
+1078,3432,Hijacking with Misuse
+1079,3431,Data theft
+1080,3431,Hijacking with Misuse
+1081,3430,Data theft
+1082,3430,Hijacking with Misuse
+1083,3429,Hijacking without Misuse
+1084,3428,Data theft
+1085,3428,Hijacking with Misuse
+1086,3427,Data theft & Doxing
+1087,3427,Disruption
+1088,3427,Hijacking with Misuse
+1089,3427,Ransomware
+1090,3426,Data theft
+1091,3426,Hijacking with Misuse
+1092,3425,Disruption
+1093,3425,Hijacking with Misuse
+1094,3424,Data theft & Doxing
+1095,3424,Hijacking with Misuse
+1096,3423,Hijacking without Misuse
+1097,3422,Disruption
+1098,3422,Hijacking with Misuse
+1099,3422,Ransomware
+1100,3421,Hijacking with Misuse
+1101,3420,Disruption
+1102,3420,Hijacking with Misuse
+1103,3420,Ransomware
+1104,3419,Disruption
+1105,3419,Hijacking with Misuse
+1106,3419,Ransomware
+1107,3418,Disruption
+1108,3418,Hijacking with Misuse
+1109,3418,Ransomware
+1110,3417,Hijacking with Misuse
+1111,3415,Disruption
+1112,3415,Hijacking with Misuse
+1113,3414,Data theft
+1114,3414,Hijacking with Misuse
+1115,3414,Ransomware
+1116,3413,Data theft
+1117,3413,Hijacking with Misuse
+1118,3412,Hijacking without Misuse
+1119,3411,Data theft
+1120,3411,Hijacking with Misuse
+1121,3410,Hijacking with Misuse
+1122,3406,Disruption
+1123,3406,Hijacking with Misuse
+1124,3404,Hijacking without Misuse
+1125,3403,Data theft
+1126,3403,Hijacking with Misuse
+1127,3402,Hijacking with Misuse
+1128,3401,Data theft
+1129,3401,Hijacking with Misuse
+1130,3400,Data theft
+1131,3400,Hijacking with Misuse
+1132,3399,Data theft
+1133,3399,Hijacking with Misuse
+1134,3398,Data theft & Doxing
+1135,3398,Disruption
+1136,3398,Hijacking with Misuse
+1137,3398,Ransomware
+1138,3397,Data theft
+1139,3397,Hijacking with Misuse
+1140,3396,Hijacking with Misuse
+1141,3395,Disruption
+1142,3395,Hijacking with Misuse
+1143,3394,Data theft
+1144,3394,Hijacking with Misuse
+1145,3393,Hijacking with Misuse
+1146,3391,Data theft & Doxing
+1147,3391,Hijacking with Misuse
+1148,3391,Ransomware
+1149,3390,Data theft & Doxing
+1150,3390,Disruption
+1151,3390,Hijacking with Misuse
+1152,3390,Ransomware
+1153,3388,Data theft
+1154,3388,Hijacking with Misuse
+1155,3387,Data theft
+1156,3387,Hijacking with Misuse
+1157,3386,Disruption
+1158,3385,Data theft
+1159,3385,Disruption
+1160,3385,Hijacking with Misuse
+1161,3384,Data theft
+1162,3384,Hijacking with Misuse
+1163,3383,Data theft
+1164,3383,Hijacking with Misuse
+1165,3382,Data theft
+1166,3382,Hijacking with Misuse
+1167,3382,Ransomware
+1168,3378,Hijacking without Misuse
+1169,3377,Data theft & Doxing
+1170,3377,Hijacking with Misuse
+1171,3376,Data theft
+1172,3376,Disruption
+1173,3376,Hijacking with Misuse
+1174,3376,Ransomware
+1175,3375,Data theft
+1176,3375,Hijacking with Misuse
+1177,3374,Data theft
+1178,3374,Hijacking with Misuse
+1179,3373,Data theft
+1180,3373,Hijacking with Misuse
+1181,3373,Ransomware
+1182,3372,Data theft
+1183,3372,Hijacking with Misuse
+1184,3372,Ransomware
+1185,3371,Data theft
+1186,3371,Hijacking with Misuse
+1187,3369,Data theft
+1188,3369,Hijacking with Misuse
+1189,3368,Disruption
+1190,3368,Hijacking with Misuse
+1191,3366,Data theft
+1192,3366,Hijacking with Misuse
+1193,3362,Data theft & Doxing
+1194,3362,Disruption
+1195,3362,Hijacking with Misuse
+1196,3362,Ransomware
+1197,3361,Data theft
+1198,3361,Hijacking with Misuse
+1199,3360,Data theft & Doxing
+1200,3360,Hijacking with Misuse
+1201,3360,Ransomware
+1202,3359,Data theft
+1203,3359,Hijacking with Misuse
+1204,3358,Disruption
+1205,3357,Disruption
+1206,3357,Hijacking with Misuse
+1207,3357,Ransomware
+1208,3356,Disruption
+1209,3356,Hijacking with Misuse
+1210,3356,Ransomware
+1211,3355,Disruption
+1212,3355,Hijacking with Misuse
+1213,3354,Disruption
+1214,3354,Hijacking with Misuse
+1215,3354,Ransomware
+1216,3353,Hijacking without Misuse
+1217,3352,Hijacking without Misuse
+1218,3349,Data theft
+1219,3349,Hijacking with Misuse
+1220,3349,Ransomware
+1221,3348,Data theft
+1222,3348,Hijacking with Misuse
+1223,3346,Hijacking without Misuse
+1224,3345,Data theft & Doxing
+1225,3345,Hijacking with Misuse
+1226,3344,Data theft
+1227,3344,Hijacking with Misuse
+1228,3343,Hijacking with Misuse
+1229,3342,Data theft & Doxing
+1230,3342,Hijacking with Misuse
+1231,3341,Data theft
+1232,3341,Hijacking with Misuse
+1233,3340,Data theft
+1234,3340,Disruption
+1235,3340,Hijacking with Misuse
+1236,3339,Disruption
+1237,3339,Hijacking with Misuse
+1238,3336,Data theft
+1239,3336,Hijacking with Misuse
+1240,3326,Disruption
+1241,3326,Hijacking with Misuse
+1242,3326,Ransomware
+1243,3324,Data theft
+1244,3324,Hijacking with Misuse
+1245,3322,Disruption
+1246,3322,Hijacking with Misuse
+1247,3322,Ransomware
+1248,3321,Disruption
+1249,3320,Data theft
+1250,3320,Hijacking with Misuse
+1251,3320,Ransomware
+1252,3318,Hijacking without Misuse
+1253,3317,Data theft
+1254,3317,Hijacking with Misuse
+1255,3316,Disruption
+1256,3316,Hijacking with Misuse
+1257,3316,Ransomware
+1258,3315,Data theft & Doxing
+1259,3315,Disruption
+1260,3315,Hijacking with Misuse
+1261,3315,Ransomware
+1262,3314,Disruption
+1263,3314,Hijacking with Misuse
+1264,3314,Ransomware
+1265,3310,Disruption
+1266,3310,Hijacking with Misuse
+1267,3309,Disruption
+1268,3309,Hijacking with Misuse
+1269,3309,Ransomware
+1270,3308,Disruption
+1271,3308,Hijacking with Misuse
+1272,3306,Hijacking with Misuse
+1273,3305,Hijacking with Misuse
+1274,3304,Disruption
+1275,3304,Hijacking with Misuse
+1276,3304,Ransomware
+1277,3302,Data theft
+1278,3302,Hijacking with Misuse
+1279,3301,Data theft
+1280,3301,Hijacking with Misuse
+1281,3300,Disruption
+1282,3300,Hijacking with Misuse
+1283,3300,Ransomware
+1284,3299,Disruption
+1285,3298,Data theft
+1286,3298,Hijacking with Misuse
+1287,3296,Hijacking with Misuse
+1288,3295,Hijacking with Misuse
+1289,3294,Data theft
+1290,3294,Hijacking with Misuse
+1291,3293,Hijacking with Misuse
+1292,3292,Hijacking without Misuse
+1293,3291,Hijacking without Misuse
+1294,3290,Data theft
+1295,3290,Disruption
+1296,3290,Hijacking with Misuse
+1297,3290,Ransomware
+1298,3289,Disruption
+1299,3289,Hijacking with Misuse
+1300,3289,Ransomware
+1301,3288,Disruption
+1302,3288,Hijacking with Misuse
+1303,3287,Hijacking with Misuse
+1304,3286,Disruption
+1305,3285,Data theft
+1306,3285,Disruption
+1307,3285,Hijacking with Misuse
+1308,3285,Ransomware
+1309,3284,Disruption
+1310,3283,Hijacking without Misuse
+1311,3282,Hijacking with Misuse
+1312,3281,Disruption
+1313,3281,Hijacking with Misuse
+1314,3281,Ransomware
+1315,3280,Disruption
+1316,3280,Hijacking with Misuse
+1317,3280,Ransomware
+1318,3279,Data theft
+1319,3279,Disruption
+1320,3279,Hijacking with Misuse
+1321,3278,Data theft
+1322,3278,Hijacking with Misuse
+1323,3277,Hijacking with Misuse
+1324,3276,Data theft
+1325,3276,Hijacking with Misuse
+1326,3275,Data theft
+1327,3275,Hijacking with Misuse
+1328,3274,Hijacking with Misuse
+1329,3273,Data theft
+1330,3273,Hijacking with Misuse
+1331,3272,Disruption
+1332,3272,Hijacking with Misuse
+1333,3272,Ransomware
+1334,3271,Data theft
+1335,3271,Hijacking without Misuse
+1336,3270,Data theft & Doxing
+1337,3270,Hijacking with Misuse
+1338,3269,Hijacking without Misuse
+1339,3268,Hijacking with Misuse
+1340,3267,Disruption
+1341,3266,Disruption
+1342,3265,Data theft
+1343,3265,Hijacking with Misuse
+1344,3264,Data theft & Doxing
+1345,3264,Hijacking with Misuse
+1346,3263,Disruption
+1347,3262,Disruption
+1348,3261,Hijacking without Misuse
+1349,3260,Data theft
+1350,3260,Hijacking with Misuse
+1351,3260,Ransomware
+1352,3259,Hijacking without Misuse
+1353,3259,Ransomware
+1354,3258,Disruption
+1355,3256,Data theft
+1356,3256,Hijacking with Misuse
+1357,3256,Ransomware
+1358,3255,Data theft
+1359,3255,Hijacking with Misuse
+1360,3254,Hijacking without Misuse
+1361,3253,Hijacking with Misuse
+1362,3252,Hijacking without Misuse
+1363,3251,Hijacking without Misuse
+1364,3250,Data theft
+1365,3250,Hijacking with Misuse
+1366,3248,Disruption
+1367,3248,Hijacking with Misuse
+1368,3247,Disruption
+1369,3246,Data theft
+1370,3246,Disruption
+1371,3246,Hijacking with Misuse
+1372,3246,Ransomware
+1373,3245,Hijacking with Misuse
+1374,3244,Data theft
+1375,3244,Hijacking with Misuse
+1376,3243,Hijacking with Misuse
+1377,3242,Data theft
+1378,3242,Ransomware
+1379,3240,Disruption
+1380,3240,Hijacking with Misuse
+1381,3238,Disruption
+1382,3238,Hijacking with Misuse
+1383,3238,Ransomware
+1384,3237,Data theft
+1385,3237,Hijacking with Misuse
+1386,3235,Data theft & Doxing
+1387,3235,Hijacking with Misuse
+1388,3235,Data theft & Doxing
+1389,3235,Hijacking with Misuse
+1390,3235,Data theft & Doxing
+1391,3235,Hijacking with Misuse
+1392,3234,Hijacking without Misuse
+1393,3233,Data theft
+1394,3233,Hijacking with Misuse
+1395,3232,Hijacking with Misuse
+1396,3231,Hijacking with Misuse
+1397,3230,Data theft
+1398,3230,Hijacking with Misuse
+1399,3229,Disruption
+1400,3229,Hijacking with Misuse
+1401,3228,Data theft
+1402,3228,Hijacking with Misuse
+1403,3227,Hijacking with Misuse
+1404,3226,Hijacking with Misuse
+1405,3225,Data theft
+1406,3225,Hijacking with Misuse
+1407,3223,Hijacking with Misuse
+1408,3221,Data theft
+1409,3221,Hijacking with Misuse
+1410,3220,Hijacking with Misuse
+1411,3219,Data theft
+1412,3219,Hijacking with Misuse
+1413,3218,Data theft
+1414,3218,Hijacking with Misuse
+1415,3217,Disruption
+1416,3217,Hijacking with Misuse
+1417,3216,Hijacking without Misuse
+1418,3215,Data theft
+1419,3215,Hijacking with Misuse
+1420,3214,Data theft
+1421,3214,Hijacking with Misuse
+1422,3213,Disruption
+1423,3213,Hijacking with Misuse
+1424,3212,Data theft
+1425,3212,Hijacking with Misuse
+1426,3211,Disruption
+1427,3211,Hijacking without Misuse
+1428,3211,Ransomware
+1429,3210,Disruption
+1430,3210,Hijacking with Misuse
+1431,3210,Ransomware
+1432,3209,Data theft
+1433,3209,Disruption
+1434,3209,Hijacking with Misuse
+1435,3208,Disruption
+1436,3208,Hijacking with Misuse
+1437,3207,Disruption
+1438,3207,Hijacking with Misuse
+1439,3206,Data theft
+1440,3206,Hijacking with Misuse
+1441,3205,Disruption
+1442,3205,Hijacking with Misuse
+1443,3203,Hijacking without Misuse
+1444,3202,Disruption
+1445,3202,Hijacking with Misuse
+1446,3202,Ransomware
+1447,3200,Disruption
+1448,3199,Hijacking without Misuse
+1449,3198,Disruption
+1450,3198,Hijacking with Misuse
+1451,3198,Ransomware
+1452,3196,Data theft & Doxing
+1453,3196,Disruption
+1454,3196,Hijacking with Misuse
+1455,3196,Ransomware
+1456,3195,Disruption
+1457,3195,Hijacking with Misuse
+1458,3194,Data theft & Doxing
+1459,3194,Hijacking with Misuse
+1460,3193,Data theft
+1461,3193,Hijacking with Misuse
+1462,3192,Hijacking with Misuse
+1463,3192,Hijacking with Misuse
+1464,3191,Disruption
+1465,3191,Hijacking with Misuse
+1466,3191,Ransomware
+1467,3190,Hijacking with Misuse
+1468,3189,Data theft
+1469,3189,Hijacking with Misuse
+1470,3188,Disruption
+1471,3188,Hijacking with Misuse
+1472,3188,Ransomware
+1473,3187,Disruption
+1474,3187,Hijacking with Misuse
+1475,3187,Ransomware
+1476,3186,Disruption
+1477,3186,Hijacking with Misuse
+1478,3186,Ransomware
+1479,3185,Hijacking with Misuse
+1480,3184,Data theft
+1481,3184,Disruption
+1482,3184,Hijacking with Misuse
+1483,3183,Data theft & Doxing
+1484,3183,Hijacking with Misuse
+1485,3181,Disruption
+1486,3180,Disruption
+1487,3177,Disruption
+1488,3177,Hijacking with Misuse
+1489,3177,Disruption
+1490,3177,Hijacking with Misuse
+1491,3176,Data theft
+1492,3176,Disruption
+1493,3176,Hijacking with Misuse
+1494,3176,Ransomware
+1495,3175,Data theft
+1496,3175,Hijacking with Misuse
+1497,3172,Data theft & Doxing
+1498,3172,Hijacking with Misuse
+1499,3171,Disruption
+1500,3171,Hijacking with Misuse
+1501,3171,Ransomware
+1502,3170,Hijacking without Misuse
+1503,3169,Hijacking without Misuse
+1504,3168,Hijacking without Misuse
+1505,3168,Hijacking without Misuse
+1506,3167,Hijacking with Misuse
+1507,3166,Data theft
+1508,3166,Hijacking with Misuse
+1509,3165,Disruption
+1510,3165,Hijacking with Misuse
+1511,3164,Data theft
+1512,3164,Hijacking with Misuse
+1513,3163,Data theft & Doxing
+1514,3163,Hijacking with Misuse
+1515,3163,Data theft & Doxing
+1516,3163,Hijacking with Misuse
+1517,3163,Data theft & Doxing
+1518,3163,Hijacking with Misuse
+1519,3163,Data theft & Doxing
+1520,3163,Hijacking with Misuse
+1521,3162,Data theft
+1522,3162,Disruption
+1523,3162,Hijacking with Misuse
+1524,3160,Disruption
+1525,3160,Hijacking with Misuse
+1526,3160,Ransomware
+1527,3158,Data theft
+1528,3158,Hijacking with Misuse
+1529,3157,Data theft
+1530,3157,Hijacking with Misuse
+1531,3156,Disruption
+1532,3156,Hijacking with Misuse
+1533,3156,Ransomware
+1534,3155,Data theft
+1535,3155,Disruption
+1536,3155,Hijacking with Misuse
+1537,3154,Data theft
+1538,3154,Disruption
+1539,3154,Hijacking with Misuse
+1540,3153,Disruption
+1541,3153,Hijacking with Misuse
+1542,3152,Disruption
+1543,3152,Hijacking with Misuse
+1544,3152,Ransomware
+1545,3151,Data theft
+1546,3151,Disruption
+1547,3151,Hijacking with Misuse
+1548,3151,Ransomware
+1549,3150,Data theft & Doxing
+1550,3150,Disruption
+1551,3150,Hijacking with Misuse
+1552,3150,Ransomware
+1553,3148,Disruption
+1554,3147,Disruption
+1555,3147,Hijacking with Misuse
+1556,3147,Ransomware
+1557,3146,Disruption
+1558,3146,Hijacking with Misuse
+1559,3145,Hijacking without Misuse
+1560,3143,Hijacking with Misuse
+1561,3142,Disruption
+1562,3142,Hijacking with Misuse
+1563,3142,Ransomware
+1564,3141,Disruption
+1565,3140,Data theft
+1566,3140,Hijacking with Misuse
+1567,3139,Disruption
+1568,3139,Hijacking with Misuse
+1569,3138,Data theft
+1570,3138,Hijacking with Misuse
+1571,3138,Ransomware
+1572,3137,Disruption
+1573,3137,Hijacking without Misuse
+1574,3136,Hijacking without Misuse
+1575,3134,Disruption
+1576,3133,Disruption
+1577,3132,Disruption
+1578,3132,Hijacking with Misuse
+1579,3132,Ransomware
+1580,3131,Disruption
+1581,3130,Hijacking with Misuse
+1582,3129,Data theft
+1583,3129,Hijacking with Misuse
+1584,3129,Ransomware
+1585,3128,Disruption
+1586,3128,Hijacking with Misuse
+1587,3128,Ransomware
+1588,3127,Disruption
+1589,3127,Hijacking with Misuse
+1590,3126,Data theft
+1591,3126,Hijacking with Misuse
+1592,3125,Data theft & Doxing
+1593,3125,Hijacking with Misuse
+1594,3125,Ransomware
+1595,3124,Data theft
+1596,3124,Hijacking with Misuse
+1597,3119,Data theft
+1598,3119,Hijacking with Misuse
+1599,3115,Data theft & Doxing
+1600,3115,Hijacking with Misuse
+1601,3115,Ransomware
+1602,3114,Data theft
+1603,3114,Hijacking with Misuse
+1604,3113,Disruption
+1605,3113,Hijacking with Misuse
+1606,3112,Disruption
+1607,3112,Hijacking with Misuse
+1608,3111,Data theft
+1609,3111,Hijacking with Misuse
+1610,3108,Data theft
+1611,3108,Hijacking with Misuse
+1612,3107,Disruption
+1613,3106,Data theft
+1614,3106,Disruption
+1615,3106,Hijacking with Misuse
+1616,3106,Ransomware
+1617,3105,Hijacking with Misuse
+1618,3104,Data theft & Doxing
+1619,3104,Disruption
+1620,3104,Hijacking with Misuse
+1621,3104,Ransomware
+1622,3103,Disruption
+1623,3103,Disruption
+1624,3102,Data theft & Doxing
+1625,3102,Disruption
+1626,3102,Hijacking with Misuse
+1627,3102,Ransomware
+1628,3101,Data theft
+1629,3101,Hijacking with Misuse
+1630,3101,Data theft
+1631,3101,Hijacking with Misuse
+1632,3101,Data theft
+1633,3101,Hijacking with Misuse
+1634,3099,Disruption
+1635,3099,Hijacking with Misuse
+1636,3099,Ransomware
+1637,3098,Data theft
+1638,3098,Disruption
+1639,3098,Hijacking with Misuse
+1640,3098,Ransomware
+1641,3097,Hijacking without Misuse
+1642,3096,Disruption
+1643,3096,Hijacking with Misuse
+1644,3095,Data theft
+1645,3095,Hijacking with Misuse
+1646,3094,Hijacking without Misuse
+1647,3093,Data theft
+1648,3093,Hijacking with Misuse
+1649,3093,Ransomware
+1650,3092,Data theft
+1651,3092,Hijacking with Misuse
+1652,3092,Ransomware
+1653,3091,Disruption
+1654,3091,Hijacking with Misuse
+1655,3090,Data theft
+1656,3090,Hijacking with Misuse
+1657,3089,Disruption
+1658,3089,Hijacking with Misuse
+1659,3088,Data theft & Doxing
+1660,3088,Disruption
+1661,3088,Hijacking with Misuse
+1662,3088,Ransomware
+1663,3087,Disruption
+1664,3087,Hijacking with Misuse
+1665,3085,Disruption
+1666,3085,Hijacking with Misuse
+1667,3085,Ransomware
+1668,3084,Data theft & Doxing
+1669,3084,Hijacking with Misuse
+1670,3083,Disruption
+1671,3082,Data theft
+1672,3082,Disruption
+1673,3082,Hijacking without Misuse
+1674,3081,Disruption
+1675,3081,Ransomware
+1676,3080,Data theft
+1677,3080,Disruption
+1678,3080,Hijacking with Misuse
+1679,3080,Ransomware
+1680,3079,Data theft
+1681,3079,Hijacking with Misuse
+1682,3079,Ransomware
+1683,3078,Data theft
+1684,3078,Disruption
+1685,3078,Hijacking with Misuse
+1686,3077,Disruption
+1687,3077,Ransomware
+1688,3076,Data theft & Doxing
+1689,3076,Hijacking with Misuse
+1690,3076,Ransomware
+1691,3075,Hijacking without Misuse
+1692,3074,Data theft
+1693,3074,Disruption
+1694,3074,Hijacking with Misuse
+1695,3074,Ransomware
+1696,3073,Data theft
+1697,3073,Disruption
+1698,3073,Hijacking with Misuse
+1699,3073,Ransomware
+1700,3070,Disruption
+1701,3070,Hijacking with Misuse
+1702,3058,Disruption
+1703,3058,Hijacking with Misuse
+1704,3057,Disruption
+1705,3056,Data theft
+1706,3056,Disruption
+1707,3056,Hijacking with Misuse
+1708,3056,Ransomware
+1709,3055,Data theft
+1710,3055,Hijacking with Misuse
+1711,3054,Disruption
+1712,3054,Hijacking with Misuse
+1713,3053,Hijacking with Misuse
+1714,3052,Data theft
+1715,3052,Hijacking with Misuse
+1716,3051,Disruption
+1717,3051,Hijacking with Misuse
+1718,3050,Data theft
+1719,3050,Disruption
+1720,3050,Hijacking with Misuse
+1721,3050,Ransomware
+1722,3047,Disruption
+1723,3047,Hijacking with Misuse
+1724,3046,Hijacking without Misuse
+1725,3045,Data theft
+1726,3045,Hijacking with Misuse
+1727,3044,Disruption
+1728,3043,Data theft
+1729,3043,Disruption
+1730,3043,Hijacking with Misuse
+1731,3040,Disruption
+1732,3039,Data theft & Doxing
+1733,3039,Disruption
+1734,3039,Ransomware
+1735,3038,Data theft
+1736,3038,Hijacking with Misuse
+1737,3038,Ransomware
+1738,3037,Disruption
+1739,3037,Hijacking with Misuse
+1740,3037,Ransomware
+1741,3036,Data theft
+1742,3036,Hijacking with Misuse
+1743,3035,Disruption
+1744,3034,Hijacking with Misuse
+1745,3033,Data theft
+1746,3033,Hijacking with Misuse
+1747,3032,Disruption
+1748,3032,Hijacking with Misuse
+1749,3030,Data theft
+1750,3030,Hijacking with Misuse
+1751,3029,Data theft
+1752,3029,Disruption
+1753,3029,Hijacking with Misuse
+1754,3029,Ransomware
+1755,3028,Data theft
+1756,3028,Hijacking with Misuse
+1757,3028,Ransomware
+1758,3027,Data theft
+1759,3027,Disruption
+1760,3027,Hijacking with Misuse
+1761,3027,Ransomware
+1762,3026,Disruption
+1763,3022,Disruption
+1764,3021,Disruption
+1765,3021,Hijacking with Misuse
+1766,3021,Ransomware
+1767,3020,Disruption
+1768,3020,Hijacking with Misuse
+1769,3020,Ransomware
+1770,3018,Data theft
+1771,3018,Hijacking with Misuse
+1772,3014,Hijacking without Misuse
+1773,3013,Data theft
+1774,3013,Hijacking with Misuse
+1775,3013,Ransomware
+1776,3013,Data theft
+1777,3013,Hijacking with Misuse
+1778,3013,Ransomware
+1779,3011,Data theft
+1780,3011,Hijacking with Misuse
+1781,3010,Data theft
+1782,3010,Disruption
+1783,3010,Hijacking with Misuse
+1784,3008,Hijacking with Misuse
+1785,3007,Data theft
+1786,3007,Hijacking with Misuse
+1787,3004,Data theft
+1788,3004,Disruption
+1789,3004,Hijacking with Misuse
+1790,3003,Disruption
+1791,3002,Disruption
+1792,3002,Hijacking with Misuse
+1793,3002,Ransomware
+1794,3001,Data theft
+1795,3001,Hijacking with Misuse
+1796,3001,Ransomware
+1797,2998,Data theft
+1798,2998,Hijacking with Misuse
+1799,2997,Data theft & Doxing
+1800,2997,Hijacking with Misuse
+1801,2996,Hijacking with Misuse
+1802,2995,Hijacking with Misuse
+1803,2993,Data theft
+1804,2993,Disruption
+1805,2993,Hijacking with Misuse
+1806,2993,Ransomware
+1807,2992,Disruption
+1808,2992,Hijacking with Misuse
+1809,2992,Ransomware
+1810,2992,Disruption
+1811,2992,Hijacking with Misuse
+1812,2992,Ransomware
+1813,2992,Disruption
+1814,2992,Hijacking with Misuse
+1815,2992,Ransomware
+1816,2991,Disruption
+1817,2991,Hijacking with Misuse
+1818,2991,Ransomware
+1819,2990,Disruption
+1820,2990,Hijacking with Misuse
+1821,2990,Ransomware
+1822,2989,Data theft
+1823,2989,Disruption
+1824,2989,Hijacking with Misuse
+1825,2988,Hijacking with Misuse
+1826,2988,Ransomware
+1827,2987,Hijacking without Misuse
+1828,2986,Data theft
+1829,2986,Hijacking with Misuse
+1830,2985,Hijacking with Misuse
+1831,2984,Disruption
+1832,2984,Hijacking with Misuse
+1833,2983,Hijacking without Misuse
+1834,2982,Data theft
+1835,2982,Hijacking with Misuse
+1836,2981,Disruption
+1837,2981,Hijacking with Misuse
+1838,2981,Ransomware
+1839,2980,Disruption
+1840,2980,Hijacking with Misuse
+1841,2978,Data theft
+1842,2978,Disruption
+1843,2978,Hijacking with Misuse
+1844,2978,Ransomware
+1845,2976,Disruption
+1846,2976,Hijacking with Misuse
+1847,2975,Hijacking with Misuse
+1848,2972,Disruption
+1849,2972,Hijacking with Misuse
+1850,2972,Ransomware
+1851,2970,Data theft
+1852,2970,Hijacking with Misuse
+1853,2970,Ransomware
+1854,2968,Hijacking with Misuse
+1855,2967,Data theft
+1856,2967,Hijacking with Misuse
+1857,2962,Data theft
+1858,2962,Hijacking with Misuse
+1859,2961,Data theft
+1860,2961,Hijacking with Misuse
+1861,2960,Disruption
+1862,2960,Hijacking with Misuse
+1863,2960,Ransomware
+1864,2958,Disruption
+1865,2958,Hijacking with Misuse
+1866,2958,Ransomware
+1867,2957,Data theft
+1868,2957,Disruption
+1869,2957,Hijacking with Misuse
+1870,2957,Ransomware
+1871,2957,Data theft
+1872,2957,Disruption
+1873,2957,Hijacking with Misuse
+1874,2957,Ransomware
+1875,2956,Data theft
+1876,2956,Hijacking with Misuse
+1877,2955,Disruption
+1878,2955,Hijacking with Misuse
+1879,2954,Hijacking without Misuse
+1880,2953,Disruption
+1881,2953,Hijacking with Misuse
+1882,2953,Ransomware
+1883,2949,Data theft
+1884,2949,Hijacking with Misuse
+1885,2948,Disruption
+1886,2948,Hijacking with Misuse
+1887,2948,Ransomware
+1888,2946,Data theft
+1889,2946,Hijacking with Misuse
+1890,2945,Data theft
+1891,2945,Hijacking with Misuse
+1892,2944,Data theft
+1893,2944,Hijacking with Misuse
+1894,2944,Ransomware
+1895,2940,Data theft
+1896,2940,Hijacking with Misuse
+1897,2938,Hijacking without Misuse
+1898,2937,Data theft
+1899,2937,Disruption
+1900,2937,Hijacking with Misuse
+1901,2936,Disruption
+1902,2936,Hijacking with Misuse
+1903,2935,Data theft
+1904,2935,Hijacking with Misuse
+1905,2935,Ransomware
+1906,2933,Data theft
+1907,2933,Disruption
+1908,2933,Hijacking with Misuse
+1909,2933,Ransomware
+1910,2931,Disruption
+1911,2931,Hijacking with Misuse
+1912,2930,Data theft
+1913,2930,Hijacking with Misuse
+1914,2929,Hijacking without Misuse
+1915,2928,Hijacking without Misuse
+1916,2927,Hijacking without Misuse
+1917,2926,Hijacking without Misuse
+1918,2925,Data theft
+1919,2925,Hijacking with Misuse
+1920,2902,Disruption
+1921,2902,Hijacking with Misuse
+1922,2901,Disruption
+1923,2900,Hijacking without Misuse
+1924,2899,Hijacking without Misuse
+1925,2898,Data theft
+1926,2898,Disruption
+1927,2898,Hijacking with Misuse
+1928,2897,Data theft
+1929,2897,Disruption
+1930,2897,Hijacking with Misuse
+1931,2896,Data theft
+1932,2896,Hijacking with Misuse
+1933,2895,Disruption
+1934,2895,Hijacking with Misuse
+1935,2895,Ransomware
+1936,2894,Data theft
+1937,2894,Hijacking with Misuse
+1938,2894,Ransomware
+1939,2892,Data theft
+1940,2892,Hijacking with Misuse
+1941,2890,Data theft & Doxing
+1942,2890,Hijacking with Misuse
+1943,2886,Data theft
+1944,2886,Hijacking with Misuse
+1945,2885,Data theft
+1946,2885,Hijacking with Misuse
+1947,2883,Data theft
+1948,2883,Disruption
+1949,2883,Hijacking with Misuse
+1950,2883,Ransomware
+1951,2882,Data theft
+1952,2882,Hijacking with Misuse
+1953,2881,Disruption
+1954,2881,Hijacking with Misuse
+1955,2881,Ransomware
+1956,2879,Disruption
+1957,2879,Hijacking with Misuse
+1958,2878,Disruption
+1959,2878,Hijacking with Misuse
+1960,2877,Data theft
+1961,2877,Hijacking with Misuse
+1962,2874,Data theft
+1963,2874,Hijacking with Misuse
+1964,2873,Data theft
+1965,2873,Hijacking with Misuse
+1966,2871,Data theft & Doxing
+1967,2871,Hijacking with Misuse
+1968,2871,Ransomware
+1969,2870,Disruption
+1970,2870,Hijacking with Misuse
+1971,2869,Hijacking without Misuse
+1972,2868,Data theft
+1973,2868,Hijacking with Misuse
+1974,2868,Ransomware
+1975,2867,Data theft
+1976,2867,Disruption
+1977,2867,Hijacking with Misuse
+1978,2866,Data theft & Doxing
+1979,2866,Hijacking with Misuse
+1980,2865,Data theft
+1981,2865,Hijacking with Misuse
+1982,2864,Hijacking without Misuse
+1983,2861,Disruption
+1984,2861,Hijacking with Misuse
+1985,2860,Data theft & Doxing
+1986,2860,Hijacking with Misuse
+1987,2859,Disruption
+1988,2859,Hijacking with Misuse
+1989,2858,Disruption
+1990,2858,Hijacking with Misuse
+1991,2858,Ransomware
+1992,2857,Data theft
+1993,2857,Hijacking with Misuse
+1994,2850,Disruption
+1995,2850,Hijacking with Misuse
+1996,2845,Hijacking without Misuse
+1997,2844,Disruption
+1998,2844,Hijacking with Misuse
+1999,2843,Data theft
+2000,2843,Disruption
+2001,2843,Hijacking with Misuse
+2002,2842,Data theft
+2003,2842,Hijacking with Misuse
+2004,2841,Data theft & Doxing
+2005,2841,Hijacking with Misuse
+2006,2836,Hijacking without Misuse
+2007,2835,Disruption
+2008,2834,Hijacking without Misuse
+2009,2833,Data theft
+2010,2833,Hijacking with Misuse
+2011,2832,Disruption
+2012,2832,Hijacking with Misuse
+2013,2832,Ransomware
+2014,2831,Hijacking with Misuse
+2015,2830,Disruption
+2016,2830,Hijacking with Misuse
+2017,2830,Ransomware
+2018,2828,Data theft
+2019,2828,Hijacking with Misuse
+2020,2827,Data theft
+2021,2827,Hijacking with Misuse
+2022,2827,Ransomware
+2023,2826,Disruption
+2024,2826,Hijacking with Misuse
+2025,2825,Hijacking without Misuse
+2026,2823,Disruption
+2027,2823,Hijacking with Misuse
+2028,2823,Ransomware
+2029,2821,Data theft & Doxing
+2030,2821,Hijacking with Misuse
+2031,2821,Ransomware
+2032,2819,Hijacking with Misuse
+2033,2818,Hijacking without Misuse
+2034,2817,Disruption
+2035,2816,Data theft & Doxing
+2036,2816,Hijacking with Misuse
+2037,2815,Disruption
+2038,2815,Hijacking with Misuse
+2039,2813,Data theft & Doxing
+2040,2813,Hijacking with Misuse
+2041,2812,Data theft
+2042,2812,Hijacking with Misuse
+2043,2811,Data theft
+2044,2811,Hijacking with Misuse
+2045,2810,Data theft
+2046,2810,Disruption
+2047,2810,Hijacking with Misuse
+2048,2809,Disruption
+2049,2809,Hijacking with Misuse
+2050,2808,Hijacking without Misuse
+2051,2806,Data theft & Doxing
+2052,2806,Hijacking with Misuse
+2053,2806,Ransomware
+2054,2805,Hijacking without Misuse
+2055,2804,Disruption
+2056,2804,Hijacking with Misuse
+2057,2803,Data theft & Doxing
+2058,2803,Hijacking with Misuse
+2059,2803,Ransomware
+2060,2802,Data theft
+2061,2802,Disruption
+2062,2802,Hijacking with Misuse
+2063,2802,Ransomware
+2064,2801,Hijacking without Misuse
+2065,2798,Hijacking without Misuse
+2066,2797,Data theft
+2067,2797,Disruption
+2068,2797,Hijacking with Misuse
+2069,2796,Hijacking with Misuse
+2070,2795,Disruption
+2071,2795,Hijacking with Misuse
+2072,2793,Hijacking with Misuse
+2073,2793,Ransomware
+2074,2792,Data theft
+2075,2792,Disruption
+2076,2792,Hijacking with Misuse
+2077,2791,Hijacking with Misuse
+2078,2789,Disruption
+2079,2788,Disruption
+2080,2787,Hijacking with Misuse
+2081,2786,Data theft & Doxing
+2082,2786,Hijacking with Misuse
+2083,2784,Disruption
+2084,2783,Data theft
+2085,2783,Hijacking with Misuse
+2086,2782,Disruption
+2087,2781,Hijacking with Misuse
+2088,2780,Data theft
+2089,2780,Hijacking with Misuse
+2090,2780,Ransomware
+2091,2779,Data theft & Doxing
+2092,2779,Disruption
+2093,2779,Hijacking with Misuse
+2094,2779,Ransomware
+2095,2778,Data theft & Doxing
+2096,2778,Disruption
+2097,2778,Hijacking with Misuse
+2098,2778,Ransomware
+2099,2776,Disruption
+2100,2776,Hijacking with Misuse
+2101,2775,Disruption
+2102,2774,Data theft
+2103,2774,Disruption
+2104,2774,Hijacking with Misuse
+2105,2774,Ransomware
+2106,2773,Disruption
+2107,2773,Hijacking with Misuse
+2108,2773,Ransomware
+2109,2772,Disruption
+2110,2772,Hijacking with Misuse
+2111,2771,Data theft
+2112,2771,Disruption
+2113,2771,Hijacking with Misuse
+2114,2770,Hijacking without Misuse
+2115,2769,Data theft & Doxing
+2116,2769,Disruption
+2117,2769,Hijacking with Misuse
+2118,2769,Ransomware
+2119,2768,Hijacking without Misuse
+2120,2767,Data theft & Doxing
+2121,2767,Hijacking with Misuse
+2122,2767,Ransomware
+2123,2766,Disruption
+2124,2766,Hijacking with Misuse
+2125,2765,Data theft & Doxing
+2126,2765,Disruption
+2127,2765,Hijacking with Misuse
+2128,2764,Disruption
+2129,2764,Hijacking with Misuse
+2130,2763,Data theft & Doxing
+2131,2763,Disruption
+2132,2763,Hijacking with Misuse
+2133,2762,Disruption
+2134,2762,Hijacking with Misuse
+2135,2761,Disruption
+2136,2760,Disruption
+2137,2759,Data theft & Doxing
+2138,2759,Disruption
+2139,2759,Hijacking with Misuse
+2140,2759,Ransomware
+2141,2757,Data theft & Doxing
+2142,2757,Hijacking with Misuse
+2143,2757,Ransomware
+2144,2756,Data theft
+2145,2756,Hijacking with Misuse
+2146,2755,Data theft
+2147,2755,Disruption
+2148,2755,Hijacking with Misuse
+2149,2755,Ransomware
+2150,2753,Data theft
+2151,2753,Hijacking with Misuse
+2152,2752,Disruption
+2153,2751,Disruption
+2154,2751,Hijacking with Misuse
+2155,2750,Disruption
+2156,2750,Hijacking with Misuse
+2157,2749,Disruption
+2158,2749,Hijacking with Misuse
+2159,2749,Ransomware
+2160,2748,Data theft
+2161,2748,Disruption
+2162,2748,Hijacking with Misuse
+2163,2748,Ransomware
+2164,2747,Disruption
+2165,2747,Hijacking with Misuse
+2166,2746,Data theft
+2167,2746,Disruption
+2168,2746,Hijacking with Misuse
+2169,2746,Ransomware
+2170,2745,Data theft
+2171,2745,Disruption
+2172,2745,Hijacking with Misuse
+2173,2745,Ransomware
+2174,2744,Data theft
+2175,2744,Hijacking with Misuse
+2176,2744,Ransomware
+2177,2743,Hijacking without Misuse
+2178,2742,Data theft & Doxing
+2179,2742,Hijacking with Misuse
+2180,2742,Ransomware
+2181,2741,Data theft
+2182,2741,Hijacking with Misuse
+2183,2741,Ransomware
+2184,2740,Disruption
+2185,2739,Disruption
+2186,2739,Hijacking with Misuse
+2187,2739,Ransomware
+2188,2737,Data theft
+2189,2737,Hijacking with Misuse
+2190,2735,Disruption
+2191,2734,Data theft
+2192,2734,Hijacking with Misuse
+2193,2733,Disruption
+2194,2732,Disruption
+2195,2729,Data theft
+2196,2729,Hijacking with Misuse
+2197,2726,Disruption
+2198,2725,Data theft
+2199,2725,Hijacking with Misuse
+2200,2724,Data theft
+2201,2724,Hijacking with Misuse
+2202,2723,Data theft
+2203,2723,Hijacking with Misuse
+2204,2721,Data theft
+2205,2721,Disruption
+2206,2721,Hijacking with Misuse
+2207,2720,Data theft
+2208,2720,Hijacking with Misuse
+2209,2719,Hijacking without Misuse
+2210,2717,Data theft
+2211,2717,Hijacking with Misuse
+2212,2716,Hijacking without Misuse
+2213,2715,Hijacking without Misuse
+2214,2714,Hijacking without Misuse
+2215,2713,Hijacking without Misuse
+2216,2711,Data theft
+2217,2711,Hijacking with Misuse
+2218,2710,Data theft
+2219,2710,Hijacking with Misuse
+2220,2709,Data theft
+2221,2709,Hijacking with Misuse
+2222,2708,Disruption
+2223,2708,Hijacking with Misuse
+2224,2707,Data theft
+2225,2707,Hijacking with Misuse
+2226,2706,Disruption
+2227,2705,Disruption
+2228,2705,Hijacking without Misuse
+2229,2704,Disruption
+2230,2703,Disruption
+2231,2702,Disruption
+2232,2702,Hijacking with Misuse
+2233,2701,Data theft
+2234,2701,Disruption
+2235,2701,Hijacking with Misuse
+2236,2701,Ransomware
+2237,2700,Disruption
+2238,2699,Data theft & Doxing
+2239,2699,Hijacking with Misuse
+2240,2698,Disruption
+2241,2698,Hijacking with Misuse
+2242,2697,Disruption
+2243,2692,Hijacking with Misuse
+2244,2691,Hijacking without Misuse
+2245,2690,Disruption
+2246,2690,Hijacking with Misuse
+2247,2689,Disruption
+2248,2688,Hijacking without Misuse
+2249,2686,Data theft
+2250,2686,Hijacking with Misuse
+2251,2684,Hijacking with Misuse
+2252,2683,Disruption
+2253,2682,Data theft
+2254,2682,Hijacking with Misuse
+2255,2681,Not available
+2256,2679,Disruption
+2257,2678,Disruption
+2258,2677,Data theft
+2259,2677,Hijacking with Misuse
+2260,2677,Ransomware
+2261,2676,Data theft
+2262,2676,Hijacking with Misuse
+2263,2675,Data theft
+2264,2675,Disruption
+2265,2675,Hijacking with Misuse
+2266,2675,Ransomware
+2267,2674,Hijacking without Misuse
+2268,2673,Disruption
+2269,2672,Hijacking with Misuse
+2270,2671,Data theft
+2271,2671,Hijacking with Misuse
+2272,2670,Data theft
+2273,2670,Hijacking with Misuse
+2274,2669,Disruption
+2275,2669,Hijacking with Misuse
+2276,2668,Data theft
+2277,2668,Hijacking with Misuse
+2278,2667,Disruption
+2279,2667,Hijacking with Misuse
+2280,2667,Ransomware
+2281,2666,Disruption
+2282,2665,Data theft
+2283,2665,Hijacking with Misuse
+2284,2665,Ransomware
+2285,2664,Hijacking without Misuse
+2286,2663,Data theft
+2287,2663,Hijacking with Misuse
+2288,2662,Data theft
+2289,2662,Hijacking with Misuse
+2290,2662,Ransomware
+2291,2661,Hijacking without Misuse
+2292,2660,Disruption
+2293,2659,Disruption
+2294,2658,Hijacking without Misuse
+2295,2657,Data theft
+2296,2657,Disruption
+2297,2657,Hijacking with Misuse
+2298,2657,Ransomware
+2299,2656,Hijacking without Misuse
+2300,2655,Disruption
+2301,2654,Data theft
+2302,2654,Disruption
+2303,2654,Hijacking with Misuse
+2304,2654,Ransomware
+2305,2653,Hijacking without Misuse
+2306,2652,Hijacking with Misuse
+2307,2651,Disruption
+2308,2650,Disruption
+2309,2649,Disruption
+2310,2649,Hijacking with Misuse
+2311,2649,Ransomware
+2312,2648,Disruption
+2313,2647,Disruption
+2314,2646,Disruption
+2315,2645,Hijacking with Misuse
+2316,2644,Data theft
+2317,2644,Hijacking with Misuse
+2318,2643,Hijacking without Misuse
+2319,2642,Data theft
+2320,2642,Hijacking with Misuse
+2321,2641,Disruption
+2322,2641,Hijacking with Misuse
+2323,2639,Data theft
+2324,2639,Hijacking with Misuse
+2325,2639,Ransomware
+2326,2638,Data theft
+2327,2638,Hijacking with Misuse
+2328,2636,Hijacking without Misuse
+2329,2635,Data theft
+2330,2635,Hijacking with Misuse
+2331,2634,Disruption
+2332,2634,Hijacking with Misuse
+2333,2633,Hijacking with Misuse
+2334,2632,Disruption
+2335,2631,Data theft & Doxing
+2336,2631,Hijacking with Misuse
+2337,2631,Ransomware
+2338,2630,Disruption
+2339,2629,Data theft
+2340,2629,Hijacking with Misuse
+2341,2628,Disruption
+2342,2628,Hijacking with Misuse
+2343,2626,Data theft
+2344,2626,Hijacking with Misuse
+2345,2625,Hijacking without Misuse
+2346,2624,Data theft
+2347,2624,Hijacking with Misuse
+2348,2624,Ransomware
+2349,2623,Data theft
+2350,2623,Hijacking with Misuse
+2351,2622,Hijacking with Misuse
+2352,2621,Data theft & Doxing
+2353,2621,Hijacking with Misuse
+2354,2620,Data theft
+2355,2620,Disruption
+2356,2620,Hijacking with Misuse
+2357,2620,Ransomware
+2358,2619,Data theft
+2359,2619,Hijacking with Misuse
+2360,2618,Hijacking without Misuse
+2361,2616,Disruption
+2362,2613,Disruption
+2363,2613,Hijacking with Misuse
+2364,2610,Hijacking with Misuse
+2365,2608,Hijacking without Misuse
+2366,2607,Disruption
+2367,2607,Hijacking with Misuse
+2368,2607,Ransomware
+2369,2606,Data theft
+2370,2606,Hijacking with Misuse
+2371,2603,Disruption
+2372,2601,Hijacking without Misuse
+2373,2600,Disruption
+2374,2600,Hijacking with Misuse
+2375,2600,Ransomware
+2376,2596,Hijacking with Misuse
+2377,2595,Disruption
+2378,2595,Hijacking with Misuse
+2379,2592,Disruption
+2380,2591,Hijacking without Misuse
+2381,2590,Hijacking without Misuse
+2382,2589,Hijacking without Misuse
+2383,2588,Data theft
+2384,2588,Hijacking with Misuse
+2385,2587,Disruption
+2386,2587,Hijacking with Misuse
+2387,2586,Disruption
+2388,2586,Hijacking with Misuse
+2389,2585,Hijacking without Misuse
+2390,2584,Hijacking without Misuse
+2391,2582,Data theft
+2392,2582,Hijacking with Misuse
+2393,2581,Data theft & Doxing
+2394,2581,Hijacking with Misuse
+2395,2581,Ransomware
+2396,2580,Disruption
+2397,2580,Hijacking with Misuse
+2398,2580,Ransomware
+2399,2579,Data theft
+2400,2579,Hijacking with Misuse
+2401,2578,Data theft & Doxing
+2402,2578,Hijacking with Misuse
+2403,2577,Hijacking with Misuse
+2404,2576,Disruption
+2405,2575,Disruption
+2406,2574,Disruption
+2407,2574,Hijacking with Misuse
+2408,2574,Ransomware
+2409,2573,Hijacking without Misuse
+2410,2572,Disruption
+2411,2571,Data theft
+2412,2571,Disruption
+2413,2571,Hijacking with Misuse
+2414,2571,Ransomware
+2415,2570,Disruption
+2416,2570,Hijacking with Misuse
+2417,2567,Disruption
+2418,2566,Disruption
+2419,2566,Hijacking with Misuse
+2420,2565,Hijacking with Misuse
+2421,2565,Ransomware
+2422,2564,Hijacking with Misuse
+2423,2564,Ransomware
+2424,2563,Disruption
+2425,2563,Hijacking with Misuse
+2426,2562,Disruption
+2427,2562,Hijacking with Misuse
+2428,2562,Ransomware
+2429,2561,Data theft & Doxing
+2430,2561,Hijacking with Misuse
+2431,2559,Hijacking without Misuse
+2432,2558,Data theft
+2433,2558,Hijacking with Misuse
+2434,2557,Data theft & Doxing
+2435,2557,Hijacking with Misuse
+2436,2557,Ransomware
+2437,2556,Hijacking without Misuse
+2438,2555,Data theft
+2439,2555,Hijacking with Misuse
+2440,2554,Data theft
+2441,2554,Hijacking with Misuse
+2442,2548,Disruption
+2443,2547,Data theft
+2444,2547,Hijacking with Misuse
+2445,2546,Disruption
+2446,2546,Hijacking with Misuse
+2447,2544,Data theft & Doxing
+2448,2544,Disruption
+2449,2544,Ransomware
+2450,2543,Data theft
+2451,2543,Disruption
+2452,2543,Hijacking with Misuse
+2453,2543,Ransomware
+2454,2542,Data theft
+2455,2542,Hijacking with Misuse
+2456,2542,Ransomware
+2457,2541,Disruption
+2458,2541,Hijacking with Misuse
+2459,2541,Ransomware
+2460,2540,Hijacking without Misuse
+2461,2539,Hijacking without Misuse
+2462,2535,Disruption
+2463,2535,Hijacking with Misuse
+2464,2535,Ransomware
+2465,2534,Disruption
+2466,2534,Hijacking with Misuse
+2467,2534,Ransomware
+2468,2532,Hijacking with Misuse
+2469,2529,Hijacking with Misuse
+2470,2528,Disruption
+2471,2528,Hijacking with Misuse
+2472,2528,Ransomware
+2473,2527,Disruption
+2474,2527,Hijacking with Misuse
+2475,2527,Ransomware
+2476,2523,Disruption
+2477,2522,Disruption
+2478,2521,Disruption
+2479,2521,Hijacking with Misuse
+2480,2521,Ransomware
+2481,2520,Disruption
+2482,2520,Hijacking with Misuse
+2483,2520,Ransomware
+2484,2519,Hijacking without Misuse
+2485,2518,Data theft & Doxing
+2486,2518,Hijacking with Misuse
+2487,2518,Ransomware
+2488,2516,Data theft & Doxing
+2489,2516,Hijacking with Misuse
+2490,2516,Ransomware
+2491,2515,Hijacking without Misuse
+2492,2514,Hijacking with Misuse
+2493,2513,Data theft
+2494,2513,Disruption
+2495,2513,Hijacking with Misuse
+2496,2513,Ransomware
+2497,2511,Data theft
+2498,2511,Hijacking with Misuse
+2499,2511,Ransomware
+2500,2510,Disruption
+2501,2510,Hijacking with Misuse
+2502,2510,Ransomware
+2503,2509,Data theft
+2504,2509,Hijacking with Misuse
+2505,2508,Disruption
+2506,2508,Hijacking with Misuse
+2507,2506,Data theft
+2508,2506,Disruption
+2509,2506,Hijacking with Misuse
+2510,2506,Ransomware
+2511,2504,Hijacking with Misuse
+2512,2503,Data theft & Doxing
+2513,2503,Hijacking with Misuse
+2514,2500,Data theft
+2515,2500,Hijacking with Misuse
+2516,2499,Disruption
+2517,2499,Hijacking with Misuse
+2518,2498,Data theft
+2519,2498,Hijacking with Misuse
+2520,2498,Ransomware
+2521,2497,Data theft & Doxing
+2522,2497,Hijacking with Misuse
+2523,2496,Hijacking without Misuse
+2524,2495,Hijacking with Misuse
+2525,2493,Hijacking with Misuse
+2526,2492,Hijacking without Misuse
+2527,2491,Data theft & Doxing
+2528,2491,Disruption
+2529,2491,Hijacking with Misuse
+2530,2490,Data theft & Doxing
+2531,2490,Hijacking with Misuse
+2532,2489,Disruption
+2533,2488,Disruption
+2534,2487,Disruption
+2535,2484,Hijacking without Misuse
+2536,2483,Data theft
+2537,2483,Hijacking with Misuse
+2538,2482,Hijacking without Misuse
+2539,2481,Data theft
+2540,2481,Hijacking with Misuse
+2541,2480,Data theft & Doxing
+2542,2480,Disruption
+2543,2480,Hijacking with Misuse
+2544,2479,Disruption
+2545,2479,Hijacking with Misuse
+2546,2478,Hijacking without Misuse
+2547,2477,Disruption
+2548,2477,Hijacking with Misuse
+2549,2477,Ransomware
+2550,2476,Data theft
+2551,2476,Hijacking with Misuse
+2552,2476,Ransomware
+2553,2475,Data theft & Doxing
+2554,2475,Hijacking with Misuse
+2555,2475,Ransomware
+2556,2474,Data theft
+2557,2474,Disruption
+2558,2474,Hijacking with Misuse
+2559,2474,Ransomware
+2560,2473,Disruption
+2561,2473,Hijacking with Misuse
+2562,2472,Hijacking without Misuse
+2563,2471,Disruption
+2564,2470,Data theft
+2565,2470,Hijacking with Misuse
+2566,2469,Disruption
+2567,2468,Data theft
+2568,2468,Hijacking with Misuse
+2569,2463,Hijacking with Misuse
+2570,2462,Disruption
+2571,2461,Data theft
+2572,2461,Disruption
+2573,2461,Hijacking with Misuse
+2574,2461,Ransomware
+2575,2460,Disruption
+2576,2459,Disruption
+2577,2459,Hijacking with Misuse
+2578,2458,Disruption
+2579,2458,Hijacking with Misuse
+2580,2457,Disruption
+2581,2457,Hijacking with Misuse
+2582,2456,Hijacking with Misuse
+2583,2455,Hijacking without Misuse
+2584,2454,Disruption
+2585,2454,Hijacking with Misuse
+2586,2453,Hijacking without Misuse
+2587,2451,Disruption
+2588,2450,Hijacking without Misuse
+2589,2449,Data theft
+2590,2449,Hijacking with Misuse
+2591,2448,Data theft
+2592,2448,Hijacking with Misuse
+2593,2446,Disruption
+2594,2446,Hijacking with Misuse
+2595,2445,Data theft
+2596,2445,Hijacking with Misuse
+2597,2441,Data theft
+2598,2441,Hijacking with Misuse
+2599,2440,Data theft
+2600,2440,Hijacking with Misuse
+2601,2438,Data theft & Doxing
+2602,2438,Hijacking with Misuse
+2603,2437,Hijacking without Misuse
+2604,2436,Disruption
+2605,2436,Hijacking with Misuse
+2606,2436,Ransomware
+2607,2435,Data theft
+2608,2435,Disruption
+2609,2435,Hijacking with Misuse
+2610,2434,Hijacking without Misuse
+2611,2433,Data theft
+2612,2433,Hijacking with Misuse
+2613,2431,Disruption
+2614,2431,Hijacking with Misuse
+2615,2430,Disruption
+2616,2430,Hijacking with Misuse
+2617,2429,Hijacking without Misuse
+2618,2427,Data theft
+2619,2427,Hijacking with Misuse
+2620,2425,Data theft
+2621,2425,Hijacking with Misuse
+2622,2425,Ransomware
+2623,2423,Data theft & Doxing
+2624,2423,Hijacking with Misuse
+2625,2423,Ransomware
+2626,2422,Data theft & Doxing
+2627,2422,Disruption
+2628,2422,Hijacking with Misuse
+2629,2422,Ransomware
+2630,2421,Hijacking with Misuse
+2631,2421,Hijacking with Misuse
+2632,2420,Data theft
+2633,2420,Disruption
+2634,2420,Hijacking with Misuse
+2635,2420,Ransomware
+2636,2419,Hijacking without Misuse
+2637,2418,Disruption
+2638,2418,Hijacking with Misuse
+2639,2418,Ransomware
+2640,2417,Hijacking with Misuse
+2641,2416,Hijacking without Misuse
+2642,2415,Disruption
+2643,2414,Data theft & Doxing
+2644,2414,Hijacking with Misuse
+2645,2414,Ransomware
+2646,2413,Disruption
+2647,2413,Hijacking with Misuse
+2648,2413,Ransomware
+2649,2412,Hijacking with Misuse
+2650,2411,Data theft & Doxing
+2651,2411,Disruption
+2652,2411,Hijacking with Misuse
+2653,2411,Ransomware
+2654,2410,Disruption
+2655,2410,Hijacking with Misuse
+2656,2410,Ransomware
+2657,2409,Data theft
+2658,2409,Disruption
+2659,2409,Hijacking with Misuse
+2660,2409,Ransomware
+2661,2407,Disruption
+2662,2407,Hijacking with Misuse
+2663,2405,Disruption
+2664,2405,Hijacking without Misuse
+2665,2404,Hijacking without Misuse
+2666,2403,Hijacking without Misuse
+2667,2402,Hijacking without Misuse
+2668,2401,Hijacking without Misuse
+2669,2400,Data theft
+2670,2400,Hijacking with Misuse
+2671,2400,Ransomware
+2672,2399,Disruption
+2673,2399,Hijacking with Misuse
+2674,2398,Data theft & Doxing
+2675,2398,Disruption
+2676,2398,Hijacking with Misuse
+2677,2397,Data theft
+2678,2397,Hijacking with Misuse
+2679,2397,Ransomware
+2680,2395,Hijacking without Misuse
+2681,2393,Disruption
+2682,2392,Disruption
+2683,2392,Hijacking with Misuse
+2684,2391,Data theft
+2685,2391,Hijacking with Misuse
+2686,2390,Disruption
+2687,2389,Data theft
+2688,2389,Hijacking with Misuse
+2689,2389,Ransomware
+2690,2388,Data theft
+2691,2388,Hijacking without Misuse
+2692,2387,Disruption
+2693,2387,Hijacking with Misuse
+2694,2386,Data theft
+2695,2386,Hijacking with Misuse
+2696,2385,Data theft & Doxing
+2697,2385,Hijacking with Misuse
+2698,2384,Disruption
+2699,2384,Hijacking with Misuse
+2700,2383,Data theft
+2701,2383,Disruption
+2702,2383,Hijacking with Misuse
+2703,2383,Ransomware
+2704,2382,Data theft
+2705,2382,Hijacking with Misuse
+2706,2382,Ransomware
+2707,2381,Data theft
+2708,2381,Hijacking with Misuse
+2709,2380,Data theft
+2710,2380,Hijacking with Misuse
+2711,2379,Data theft
+2712,2379,Hijacking with Misuse
+2713,2378,Data theft
+2714,2378,Disruption
+2715,2378,Hijacking with Misuse
+2716,2376,Hijacking without Misuse
+2717,2374,Hijacking without Misuse
+2718,2373,Data theft
+2719,2373,Hijacking with Misuse
+2720,2372,Data theft & Doxing
+2721,2372,Hijacking with Misuse
+2722,2372,Ransomware
+2723,2371,Data theft
+2724,2371,Hijacking with Misuse
+2725,2371,Ransomware
+2726,2370,Data theft
+2727,2370,Hijacking with Misuse
+2728,2369,Data theft & Doxing
+2729,2369,Disruption
+2730,2369,Hijacking with Misuse
+2731,2369,Ransomware
+2732,2368,Disruption
+2733,2368,Hijacking with Misuse
+2734,2367,Disruption
+2735,2366,Disruption
+2736,2365,Hijacking without Misuse
+2737,2363,Data theft
+2738,2363,Hijacking with Misuse
+2739,2362,Disruption
+2740,2361,Disruption
+2741,2361,Hijacking with Misuse
+2742,2361,Ransomware
+2743,2360,Data theft
+2744,2360,Hijacking with Misuse
+2745,2358,Data theft
+2746,2358,Hijacking with Misuse
+2747,2358,Ransomware
+2748,2357,Hijacking without Misuse
+2749,2356,Hijacking with Misuse
+2750,2355,Disruption
+2751,2354,Data theft
+2752,2354,Hijacking with Misuse
+2753,2353,Data theft
+2754,2353,Hijacking with Misuse
+2755,2352,Data theft & Doxing
+2756,2352,Hijacking with Misuse
+2757,2350,Hijacking without Misuse
+2758,2349,Disruption
+2759,2347,Data theft
+2760,2347,Disruption
+2761,2347,Hijacking with Misuse
+2762,2347,Ransomware
+2763,2346,Data theft & Doxing
+2764,2346,Disruption
+2765,2346,Hijacking with Misuse
+2766,2346,Ransomware
+2767,2345,Disruption
+2768,2344,Disruption
+2769,2343,Hijacking without Misuse
+2770,2342,Hijacking without Misuse
+2771,2341,Data theft & Doxing
+2772,2341,Disruption
+2773,2341,Hijacking with Misuse
+2774,2341,Ransomware
+2775,2340,Disruption
+2776,2340,Hijacking with Misuse
+2777,2339,Data theft
+2778,2339,Hijacking with Misuse
+2779,2338,Hijacking without Misuse
+2780,2337,Data theft
+2781,2337,Hijacking with Misuse
+2782,2336,Hijacking with Misuse
+2783,2335,Disruption
+2784,2335,Hijacking with Misuse
+2785,2335,Ransomware
+2786,2331,Disruption
+2787,2331,Hijacking with Misuse
+2788,2330,Disruption
+2789,2330,Hijacking with Misuse
+2790,2328,Hijacking without Misuse
+2791,2327,Disruption
+2792,2327,Hijacking with Misuse
+2793,2325,Hijacking without Misuse
+2794,2325,Ransomware
+2795,2324,Disruption
+2796,2323,Data theft
+2797,2323,Hijacking with Misuse
+2798,2323,Ransomware
+2799,2322,Hijacking without Misuse
+2800,2321,Disruption
+2801,2321,Hijacking with Misuse
+2802,2320,Data theft
+2803,2320,Disruption
+2804,2320,Hijacking with Misuse
+2805,2320,Ransomware
+2806,2319,Data theft
+2807,2319,Hijacking with Misuse
+2808,2318,Data theft
+2809,2318,Hijacking with Misuse
+2810,2318,Ransomware
+2811,2317,Disruption
+2812,2316,Data theft
+2813,2316,Hijacking with Misuse
+2814,2314,Data theft
+2815,2314,Hijacking with Misuse
+2816,2314,Ransomware
+2817,2313,Disruption
+2818,2313,Hijacking with Misuse
+2819,2313,Ransomware
+2820,2312,Data theft
+2821,2312,Hijacking with Misuse
+2822,2311,Data theft
+2823,2311,Hijacking with Misuse
+2824,2311,Ransomware
+2825,2310,Disruption
+2826,2309,Disruption
+2827,2309,Hijacking with Misuse
+2828,2309,Ransomware
+2829,2308,Disruption
+2830,2302,Hijacking without Misuse
+2831,2301,Disruption
+2832,2301,Hijacking with Misuse
+2833,2300,Disruption
+2834,2299,Data theft
+2835,2299,Disruption
+2836,2299,Hijacking with Misuse
+2837,2298,Disruption
+2838,2297,Disruption
+2839,2296,Data theft
+2840,2296,Hijacking with Misuse
+2841,2295,Data theft
+2842,2295,Disruption
+2843,2294,Disruption
+2844,2293,Disruption
+2845,2292,Data theft & Doxing
+2846,2292,Disruption
+2847,2292,Hijacking with Misuse
+2848,2292,Ransomware
+2849,2291,Disruption
+2850,2290,Disruption
+2851,2289,Data theft
+2852,2289,Hijacking with Misuse
+2853,2288,Data theft & Doxing
+2854,2288,Hijacking with Misuse
+2855,2288,Ransomware
+2856,2287,Data theft
+2857,2287,Hijacking with Misuse
+2858,2286,Data theft
+2859,2286,Hijacking with Misuse
+2860,2285,Hijacking without Misuse
+2861,2284,Data theft & Doxing
+2862,2284,Hijacking with Misuse
+2863,2284,Ransomware
+2864,2283,Disruption
+2865,2282,Disruption
+2866,2282,Hijacking with Misuse
+2867,2282,Ransomware
+2868,2281,Data theft & Doxing
+2869,2281,Disruption
+2870,2281,Hijacking with Misuse
+2871,2281,Ransomware
+2872,2280,Hijacking with Misuse
+2873,2279,Hijacking with Misuse
+2874,2278,Hijacking without Misuse
+2875,2277,Data theft
+2876,2277,Hijacking without Misuse
+2877,2276,Data theft
+2878,2276,Hijacking with Misuse
+2879,2275,Disruption
+2880,2275,Hijacking without Misuse
+2881,2275,Ransomware
+2882,2274,Data theft
+2883,2274,Hijacking with Misuse
+2884,2273,Data theft
+2885,2273,Disruption
+2886,2273,Hijacking with Misuse
+2887,2273,Ransomware
+2888,2272,Hijacking without Misuse
+2889,2271,Data theft
+2890,2271,Hijacking with Misuse
+2891,2270,Disruption
+2892,2270,Hijacking with Misuse
+2893,2270,Ransomware
+2894,2269,Disruption
+2895,2269,Hijacking with Misuse
+2896,2268,Disruption
+2897,2268,Hijacking with Misuse
+2898,2268,Ransomware
+2899,2266,Data theft & Doxing
+2900,2266,Hijacking with Misuse
+2901,2265,Disruption
+2902,2265,Hijacking with Misuse
+2903,2264,Data theft
+2904,2264,Hijacking with Misuse
+2905,2263,Data theft
+2906,2263,Hijacking with Misuse
+2907,2263,Ransomware
+2908,2262,Data theft
+2909,2262,Hijacking with Misuse
+2910,2262,Ransomware
+2911,2261,Disruption
+2912,2261,Hijacking with Misuse
+2913,2261,Ransomware
+2914,2260,Disruption
+2915,2259,Disruption
+2916,2259,Hijacking with Misuse
+2917,2259,Ransomware
+2918,2258,Disruption
+2919,2258,Hijacking with Misuse
+2920,2257,Disruption
+2921,2257,Hijacking with Misuse
+2922,2257,Ransomware
+2923,2256,Disruption
+2924,2255,Data theft
+2925,2255,Disruption
+2926,2255,Hijacking with Misuse
+2927,2255,Ransomware
+2928,2254,Data theft
+2929,2254,Hijacking with Misuse
+2930,2253,Data theft & Doxing
+2931,2253,Disruption
+2932,2253,Hijacking with Misuse
+2933,2253,Ransomware
+2934,2251,Hijacking without Misuse
+2935,2250,Hijacking without Misuse
+2936,2246,Hijacking without Misuse
+2937,2245,Data theft & Doxing
+2938,2245,Disruption
+2939,2245,Hijacking with Misuse
+2940,2245,Ransomware
+2941,2244,Disruption
+2942,2244,Hijacking with Misuse
+2943,2244,Ransomware
+2944,2243,Disruption
+2945,2242,Data theft & Doxing
+2946,2242,Disruption
+2947,2242,Hijacking with Misuse
+2948,2242,Ransomware
+2949,2241,Data theft & Doxing
+2950,2241,Disruption
+2951,2241,Hijacking with Misuse
+2952,2241,Ransomware
+2953,2240,Data theft
+2954,2240,Disruption
+2955,2240,Hijacking with Misuse
+2956,2240,Ransomware
+2957,2239,Data theft
+2958,2239,Disruption
+2959,2239,Hijacking with Misuse
+2960,2239,Ransomware
+2961,2238,Disruption
+2962,2237,Disruption
+2963,2237,Hijacking with Misuse
+2964,2236,Data theft
+2965,2236,Hijacking with Misuse
+2966,2235,Data theft
+2967,2235,Hijacking with Misuse
+2968,2235,Ransomware
+2969,2234,Disruption
+2970,2233,Disruption
+2971,2233,Hijacking with Misuse
+2972,2233,Ransomware
+2973,2232,Data theft
+2974,2232,Disruption
+2975,2232,Hijacking with Misuse
+2976,2232,Ransomware
+2977,2231,Data theft
+2978,2231,Hijacking with Misuse
+2979,2230,Data theft
+2980,2230,Hijacking with Misuse
+2981,2229,Data theft & Doxing
+2982,2229,Hijacking with Misuse
+2983,2229,Ransomware
+2984,2228,Data theft
+2985,2228,Hijacking with Misuse
+2986,2227,Hijacking without Misuse
+2987,2226,Data theft
+2988,2226,Hijacking with Misuse
+2989,2225,Disruption
+2990,2225,Hijacking with Misuse
+2991,2224,Data theft
+2992,2224,Hijacking with Misuse
+2993,2223,Data theft
+2994,2223,Hijacking with Misuse
+2995,2222,Disruption
+2996,2222,Hijacking with Misuse
+2997,2222,Ransomware
+2998,2221,Hijacking without Misuse
+2999,2220,Hijacking without Misuse
+3000,2219,Data theft & Doxing
+3001,2219,Hijacking with Misuse
+3002,2219,Ransomware
+3003,2218,Data theft
+3004,2218,Disruption
+3005,2218,Hijacking with Misuse
+3006,2218,Ransomware
+3007,2217,Data theft
+3008,2217,Hijacking with Misuse
+3009,2216,Disruption
+3010,2215,Disruption
+3011,2214,Data theft
+3012,2214,Hijacking with Misuse
+3013,2213,Data theft
+3014,2213,Disruption
+3015,2213,Hijacking with Misuse
+3016,2213,Ransomware
+3017,2212,Data theft
+3018,2212,Disruption
+3019,2212,Hijacking with Misuse
+3020,2212,Ransomware
+3021,2211,Disruption
+3022,2211,Hijacking with Misuse
+3023,2211,Ransomware
+3024,2210,Hijacking without Misuse
+3025,2209,Disruption
+3026,2208,Data theft
+3027,2208,Hijacking with Misuse
+3028,2208,Ransomware
+3029,2207,Data theft & Doxing
+3030,2207,Hijacking with Misuse
+3031,2207,Ransomware
+3032,2206,Data theft
+3033,2206,Hijacking with Misuse
+3034,2206,Ransomware
+3035,2205,Data theft
+3036,2205,Disruption
+3037,2205,Hijacking with Misuse
+3038,2205,Ransomware
+3039,2204,Data theft & Doxing
+3040,2204,Disruption
+3041,2204,Hijacking with Misuse
+3042,2204,Ransomware
+3043,2203,Disruption
+3044,2202,Disruption
+3045,2202,Hijacking with Misuse
+3046,2200,Disruption
+3047,2200,Hijacking with Misuse
+3048,2199,Hijacking without Misuse
+3049,2198,Data theft
+3050,2198,Hijacking with Misuse
+3051,2198,Data theft
+3052,2198,Hijacking with Misuse
+3053,2197,Data theft
+3054,2197,Disruption
+3055,2197,Hijacking with Misuse
+3056,2197,Ransomware
+3057,2196,Data theft
+3058,2196,Hijacking with Misuse
+3059,2196,Ransomware
+3060,2195,Hijacking without Misuse
+3061,2194,Data theft
+3062,2194,Hijacking with Misuse
+3063,2193,Disruption
+3064,2193,Hijacking with Misuse
+3065,2193,Ransomware
+3066,2192,Data theft
+3067,2192,Hijacking with Misuse
+3068,2191,Hijacking with Misuse
+3069,2190,Disruption
+3070,2190,Hijacking with Misuse
+3071,2190,Ransomware
+3072,2189,Disruption
+3073,2189,Hijacking with Misuse
+3074,2189,Ransomware
+3075,2188,Hijacking without Misuse
+3076,2187,Disruption
+3077,2187,Hijacking with Misuse
+3078,2187,Ransomware
+3079,2185,Hijacking without Misuse
+3080,2184,Data theft
+3081,2184,Hijacking with Misuse
+3082,2183,Disruption
+3083,2183,Hijacking with Misuse
+3084,2182,Disruption
+3085,2181,Disruption
+3086,2181,Hijacking with Misuse
+3087,2181,Ransomware
+3088,2180,Data theft
+3089,2180,Hijacking with Misuse
+3090,2179,Disruption
+3091,2179,Hijacking with Misuse
+3092,2172,Hijacking without Misuse
+3093,2171,Data theft
+3094,2171,Hijacking with Misuse
+3095,2170,Data theft & Doxing
+3096,2170,Hijacking with Misuse
+3097,2169,Hijacking with Misuse
+3098,2168,Disruption
+3099,2168,Hijacking with Misuse
+3100,2168,Ransomware
+3101,2167,Data theft
+3102,2167,Hijacking with Misuse
+3103,2166,Disruption
+3104,2166,Hijacking with Misuse
+3105,2165,Data theft
+3106,2165,Hijacking with Misuse
+3107,2164,Disruption
+3108,2163,Data theft
+3109,2163,Hijacking with Misuse
+3110,2163,Ransomware
+3111,2161,Hijacking without Misuse
+3112,2160,Data theft
+3113,2160,Hijacking with Misuse
+3114,2159,Data theft
+3115,2159,Hijacking with Misuse
+3116,2157,Disruption
+3117,2156,Data theft
+3118,2156,Hijacking with Misuse
+3119,2156,Ransomware
+3120,2155,Hijacking without Misuse
+3121,2154,Data theft & Doxing
+3122,2154,Hijacking with Misuse
+3123,2154,Ransomware
+3124,2153,Data theft
+3125,2153,Hijacking with Misuse
+3126,2153,Ransomware
+3127,2152,Disruption
+3128,2152,Hijacking with Misuse
+3129,2151,Disruption
+3130,2150,Disruption
+3131,2150,Hijacking with Misuse
+3132,2149,Data theft
+3133,2149,Hijacking with Misuse
+3134,2147,Data theft
+3135,2147,Hijacking with Misuse
+3136,2146,Hijacking without Misuse
+3137,2146,Ransomware
+3138,2145,Disruption
+3139,2145,Hijacking with Misuse
+3140,2145,Ransomware
+3141,2143,Data theft
+3142,2143,Hijacking with Misuse
+3143,2142,Disruption
+3144,2141,Data theft
+3145,2141,Disruption
+3146,2141,Hijacking with Misuse
+3147,2141,Ransomware
+3148,2140,Disruption
+3149,2140,Hijacking with Misuse
+3150,2139,Data theft & Doxing
+3151,2139,Disruption
+3152,2139,Hijacking with Misuse
+3153,2139,Ransomware
+3154,2138,Data theft & Doxing
+3155,2138,Hijacking with Misuse
+3156,2138,Ransomware
+3157,2137,Data theft & Doxing
+3158,2137,Disruption
+3159,2137,Hijacking with Misuse
+3160,2136,Disruption
+3161,2136,Hijacking with Misuse
+3162,2134,Disruption
+3163,2134,Hijacking with Misuse
+3164,2132,Disruption
+3165,2132,Hijacking with Misuse
+3166,2132,Ransomware
+3167,2131,Data theft & Doxing
+3168,2131,Hijacking with Misuse
+3169,2131,Ransomware
+3170,2129,Disruption
+3171,2129,Hijacking with Misuse
+3172,2128,Data theft
+3173,2128,Disruption
+3174,2128,Hijacking with Misuse
+3175,2128,Ransomware
+3176,2127,Data theft
+3177,2127,Hijacking with Misuse
+3178,2126,Disruption
+3179,2125,Hijacking with Misuse
+3180,2124,Hijacking with Misuse
+3181,2123,Data theft
+3182,2123,Hijacking with Misuse
+3183,2122,Hijacking without Misuse
+3184,2121,Disruption
+3185,2120,Data theft
+3186,2120,Hijacking with Misuse
+3187,2119,Data theft
+3188,2119,Hijacking with Misuse
+3189,2118,Data theft & Doxing
+3190,2118,Disruption
+3191,2118,Hijacking with Misuse
+3192,2118,Ransomware
+3193,2117,Disruption
+3194,2117,Hijacking with Misuse
+3195,2116,Data theft
+3196,2116,Hijacking with Misuse
+3197,2115,Data theft & Doxing
+3198,2115,Hijacking with Misuse
+3199,2114,Data theft
+3200,2114,Hijacking with Misuse
+3201,2113,Data theft & Doxing
+3202,2113,Hijacking with Misuse
+3203,2113,Ransomware
+3204,2112,Data theft & Doxing
+3205,2112,Hijacking with Misuse
+3206,2111,Data theft
+3207,2110,Data theft
+3208,2110,Disruption
+3209,2110,Hijacking with Misuse
+3210,2110,Ransomware
+3211,2109,Disruption
+3212,2109,Hijacking with Misuse
+3213,2109,Ransomware
+3214,2108,Hijacking with Misuse
+3215,2107,Data theft
+3216,2107,Hijacking without Misuse
+3217,2105,Hijacking without Misuse
+3218,2104,Data theft
+3219,2104,Hijacking with Misuse
+3220,2103,Data theft
+3221,2103,Hijacking with Misuse
+3222,2102,Disruption
+3223,2102,Hijacking with Misuse
+3224,2102,Ransomware
+3225,2101,Data theft & Doxing
+3226,2101,Disruption
+3227,2101,Hijacking with Misuse
+3228,2101,Ransomware
+3229,2100,Disruption
+3230,2099,Hijacking without Misuse
+3231,2097,Data theft
+3232,2097,Hijacking with Misuse
+3233,2096,Hijacking without Misuse
+3234,2095,Data theft
+3235,2095,Disruption
+3236,2095,Hijacking with Misuse
+3237,2095,Ransomware
+3238,2093,Disruption
+3239,2093,Hijacking with Misuse
+3240,2093,Ransomware
+3241,2092,Disruption
+3242,2092,Hijacking with Misuse
+3243,2092,Ransomware
+3244,2089,Hijacking without Misuse
+3245,2088,Hijacking without Misuse
+3246,2087,Data theft
+3247,2087,Hijacking with Misuse
+3248,2086,Data theft
+3249,2086,Hijacking with Misuse
+3250,2085,Hijacking without Misuse
+3251,2084,Hijacking without Misuse
+3252,2083,Data theft
+3253,2083,Disruption
+3254,2083,Hijacking with Misuse
+3255,2083,Ransomware
+3256,2082,Data theft
+3257,2082,Hijacking with Misuse
+3258,2080,Data theft
+3259,2080,Hijacking with Misuse
+3260,2079,Data theft & Doxing
+3261,2079,Hijacking with Misuse
+3262,2077,Data theft
+3263,2076,Data theft
+3264,2076,Disruption
+3265,2076,Hijacking with Misuse
+3266,2076,Ransomware
+3267,2075,Data theft
+3268,2075,Hijacking with Misuse
+3269,2074,Hijacking without Misuse
+3270,2073,Disruption
+3271,2073,Hijacking with Misuse
+3272,2071,Data theft
+3273,2071,Hijacking with Misuse
+3274,2070,Data theft
+3275,2070,Hijacking with Misuse
+3276,2069,Data theft
+3277,2069,Hijacking with Misuse
+3278,2068,Not available
+3279,2068,Hijacking without Misuse
+3280,2067,Data theft
+3281,2067,Hijacking with Misuse
+3282,2066,Hijacking without Misuse
+3283,2065,Data theft
+3284,2065,Hijacking with Misuse
+3285,2064,Data theft
+3286,2064,Hijacking with Misuse
+3287,2063,Data theft
+3288,2063,Hijacking with Misuse
+3289,2061,Data theft & Doxing
+3290,2061,Hijacking with Misuse
+3291,2060,Disruption
+3292,2060,Hijacking with Misuse
+3293,2057,Disruption
+3294,2057,Hijacking with Misuse
+3295,2056,Data theft & Doxing
+3296,2056,Disruption
+3297,2056,Hijacking with Misuse
+3298,2056,Ransomware
+3299,2055,Data theft
+3300,2055,Disruption
+3301,2055,Hijacking with Misuse
+3302,2055,Ransomware
+3303,2053,Disruption
+3304,2053,Hijacking with Misuse
+3305,2053,Ransomware
+3306,2051,Data theft
+3307,2051,Hijacking with Misuse
+3308,2050,Data theft
+3309,2050,Hijacking with Misuse
+3310,2048,Hijacking without Misuse
+3311,2047,Data theft & Doxing
+3312,2047,Hijacking with Misuse
+3313,2046,Disruption
+3314,2045,Data theft & Doxing
+3315,2045,Disruption
+3316,2045,Hijacking with Misuse
+3317,2045,Ransomware
+3318,2044,Disruption
+3319,2044,Hijacking with Misuse
+3320,2043,Disruption
+3321,2042,Data theft & Doxing
+3322,2042,Hijacking with Misuse
+3323,2041,Data theft & Doxing
+3324,2041,Disruption
+3325,2041,Hijacking with Misuse
+3326,2041,Ransomware
+3327,2040,Data theft
+3328,2040,Hijacking without Misuse
+3329,2039,Data theft
+3330,2039,Hijacking with Misuse
+3331,2038,Data theft
+3332,2038,Hijacking with Misuse
+3333,2036,Data theft
+3334,2036,Hijacking with Misuse
+3335,2035,Disruption
+3336,2034,Data theft & Doxing
+3337,2034,Hijacking with Misuse
+3338,2033,Data theft & Doxing
+3339,2033,Hijacking with Misuse
+3340,2032,Data theft & Doxing
+3341,2032,Hijacking with Misuse
+3342,2031,Data theft & Doxing
+3343,2031,Hijacking with Misuse
+3344,2030,Disruption
+3345,2030,Hijacking with Misuse
+3346,2029,Data theft & Doxing
+3347,2029,Hijacking with Misuse
+3348,2028,Data theft & Doxing
+3349,2028,Hijacking with Misuse
+3350,2027,Data theft & Doxing
+3351,2027,Hijacking with Misuse
+3352,2026,Disruption
+3353,2026,Hijacking with Misuse
+3354,2025,Data theft & Doxing
+3355,2025,Hijacking with Misuse
+3356,2024,Data theft & Doxing
+3357,2024,Hijacking with Misuse
+3358,2023,Data theft
+3359,2023,Hijacking with Misuse
+3360,2022,Data theft
+3361,2022,Hijacking with Misuse
+3362,2021,Data theft
+3363,2021,Disruption
+3364,2021,Hijacking with Misuse
+3365,2021,Ransomware
+3366,2020,Disruption
+3367,2020,Hijacking with Misuse
+3368,2020,Ransomware
+3369,2019,Hijacking with Misuse
+3370,2017,Data theft & Doxing
+3371,2017,Disruption
+3372,2017,Hijacking with Misuse
+3373,2017,Ransomware
+3374,2016,Data theft & Doxing
+3375,2016,Hijacking with Misuse
+3376,2015,Data theft & Doxing
+3377,2015,Disruption
+3378,2015,Hijacking with Misuse
+3379,2015,Ransomware
+3380,2014,Disruption
+3381,2013,Hijacking without Misuse
+3382,2012,Disruption
+3383,2012,Hijacking with Misuse
+3384,2011,Data theft
+3385,2011,Disruption
+3386,2011,Hijacking with Misuse
+3387,2011,Ransomware
+3388,2010,Data theft
+3389,2010,Disruption
+3390,2010,Hijacking with Misuse
+3391,2009,Disruption
+3392,2009,Hijacking with Misuse
+3393,2008,Disruption
+3394,2008,Hijacking with Misuse
+3395,2008,Ransomware
+3396,2007,Data theft & Doxing
+3397,2007,Hijacking with Misuse
+3398,2007,Ransomware
+3399,2006,Data theft & Doxing
+3400,2006,Disruption
+3401,2006,Hijacking with Misuse
+3402,2006,Ransomware
+3403,2005,Disruption
+3404,2004,Data theft & Doxing
+3405,2004,Disruption
+3406,2004,Hijacking with Misuse
+3407,2004,Ransomware
+3408,2003,Hijacking without Misuse
+3409,2002,Hijacking without Misuse
+3410,2001,Data theft
+3411,2001,Disruption
+3412,2001,Hijacking with Misuse
+3413,2001,Ransomware
+3414,2000,Disruption
+3415,1997,Hijacking without Misuse
+3416,1996,Disruption
+3417,1995,Disruption
+3418,1994,Disruption
+3419,1993,Disruption
+3420,1988,Disruption
+3421,1987,Data theft & Doxing
+3422,1987,Hijacking with Misuse
+3423,1986,Data theft & Doxing
+3424,1986,Hijacking with Misuse
+3425,1984,Data theft & Doxing
+3426,1984,Hijacking with Misuse
+3427,1983,Data theft & Doxing
+3428,1983,Hijacking with Misuse
+3429,1982,Disruption
+3430,1981,Data theft & Doxing
+3431,1981,Hijacking with Misuse
+3432,1980,Data theft & Doxing
+3433,1980,Hijacking with Misuse
+3434,1979,Disruption
+3435,1978,Hijacking without Misuse
+3436,1977,Hijacking without Misuse
+3437,1976,Data theft
+3438,1976,Hijacking with Misuse
+3439,1975,Data theft
+3440,1975,Disruption
+3441,1975,Hijacking with Misuse
+3442,1975,Ransomware
+3443,1974,Data theft
+3444,1974,Hijacking with Misuse
+3445,1973,Hijacking with Misuse
+3446,1972,Disruption
+3447,1972,Hijacking with Misuse
+3448,1971,Disruption
+3449,1971,Hijacking without Misuse
+3450,1969,Hijacking with Misuse
+3451,1968,Data theft
+3452,1968,Hijacking with Misuse
+3453,1967,Hijacking without Misuse
+3454,1966,Disruption
+3455,1965,Data theft
+3456,1965,Hijacking with Misuse
+3457,1964,Hijacking without Misuse
+3458,1963,Disruption
+3459,1962,Disruption
+3460,1962,Hijacking with Misuse
+3461,1961,Data theft
+3462,1961,Hijacking with Misuse
+3463,1960,Disruption
+3464,1960,Hijacking with Misuse
+3465,1960,Ransomware
+3466,1959,Data theft
+3467,1959,Disruption
+3468,1959,Hijacking with Misuse
+3469,1959,Ransomware
+3470,1958,Data theft & Doxing
+3471,1958,Hijacking with Misuse
+3472,1957,Disruption
+3473,1957,Hijacking with Misuse
+3474,1956,Hijacking without Misuse
+3475,1953,Disruption
+3476,1952,Disruption
+3477,1951,Disruption
+3478,1951,Hijacking with Misuse
+3479,1951,Ransomware
+3480,1950,Disruption
+3481,1949,Data theft & Doxing
+3482,1949,Disruption
+3483,1949,Hijacking with Misuse
+3484,1949,Ransomware
+3485,1948,Hijacking with Misuse
+3486,1947,Disruption
+3487,1947,Hijacking with Misuse
+3488,1947,Ransomware
+3489,1946,Disruption
+3490,1945,Disruption
+3491,1944,Disruption
+3492,1943,Disruption
+3493,1942,Disruption
+3494,1942,Hijacking with Misuse
+3495,1941,Disruption
+3496,1940,Hijacking without Misuse
+3497,1939,Hijacking without Misuse
+3498,1938,Data theft
+3499,1938,Hijacking with Misuse
+3500,1937,Data theft & Doxing
+3501,1937,Hijacking with Misuse
+3502,1936,Disruption
+3503,1935,Data theft & Doxing
+3504,1935,Disruption
+3505,1935,Hijacking with Misuse
+3506,1935,Ransomware
+3507,1934,Disruption
+3508,1933,Data theft
+3509,1933,Hijacking with Misuse
+3510,1932,Data theft
+3511,1932,Hijacking with Misuse
+3512,1932,Ransomware
+3513,1931,Data theft & Doxing
+3514,1931,Hijacking with Misuse
+3515,1930,Data theft
+3516,1930,Hijacking with Misuse
+3517,1929,Hijacking without Misuse
+3518,1928,Disruption
+3519,1927,Disruption
+3520,1926,Data theft
+3521,1926,Hijacking with Misuse
+3522,1925,Disruption
+3523,1925,Hijacking with Misuse
+3524,1924,Hijacking with Misuse
+3525,1923,Hijacking without Misuse
+3526,1922,Hijacking without Misuse
+3527,1921,Hijacking without Misuse
+3528,1920,Hijacking without Misuse
+3529,1918,Hijacking without Misuse
+3530,1917,Data theft
+3531,1917,Hijacking with Misuse
+3532,1916,Data theft
+3533,1916,Hijacking with Misuse
+3534,1915,Disruption
+3535,1915,Hijacking with Misuse
+3536,1915,Ransomware
+3537,1914,Data theft
+3538,1914,Hijacking with Misuse
+3539,1913,Data theft
+3540,1913,Hijacking with Misuse
+3541,1912,Data theft
+3542,1912,Hijacking with Misuse
+3543,1911,Data theft
+3544,1911,Hijacking with Misuse
+3545,1910,Disruption
+3546,1910,Hijacking with Misuse
+3547,1910,Ransomware
+3548,1909,Data theft
+3549,1908,Data theft
+3550,1907,Disruption
+3551,1906,Disruption
+3552,1906,Hijacking with Misuse
+3553,1905,Data theft
+3554,1905,Hijacking with Misuse
+3555,1904,Disruption
+3556,1904,Hijacking with Misuse
+3557,1904,Ransomware
+3558,1903,Disruption
+3559,1903,Hijacking with Misuse
+3560,1902,Disruption
+3561,1901,Hijacking without Misuse
+3562,1899,Hijacking without Misuse
+3563,1898,Data theft
+3564,1898,Hijacking with Misuse
+3565,1894,Disruption
+3566,1894,Hijacking with Misuse
+3567,1894,Ransomware
+3568,1893,Disruption
+3569,1893,Hijacking with Misuse
+3570,1893,Ransomware
+3571,1892,Disruption
+3572,1892,Hijacking with Misuse
+3573,1892,Ransomware
+3574,1891,Data theft
+3575,1891,Disruption
+3576,1891,Hijacking with Misuse
+3577,1890,Data theft
+3578,1890,Hijacking with Misuse
+3579,1889,Disruption
+3580,1889,Hijacking with Misuse
+3581,1889,Ransomware
+3582,1888,Data theft
+3583,1888,Hijacking with Misuse
+3584,1887,Data theft
+3585,1887,Hijacking with Misuse
+3586,1886,Data theft
+3587,1886,Hijacking with Misuse
+3588,1885,Data theft
+3589,1885,Hijacking with Misuse
+3590,1884,Data theft
+3591,1884,Hijacking with Misuse
+3592,1883,Disruption
+3593,1882,Hijacking without Misuse
+3594,1881,Disruption
+3595,1881,Hijacking with Misuse
+3596,1881,Ransomware
+3597,1880,Data theft
+3598,1880,Hijacking with Misuse
+3599,1879,Hijacking without Misuse
+3600,1878,Data theft
+3601,1878,Hijacking with Misuse
+3602,1877,Hijacking without Misuse
+3603,1876,Disruption
+3604,1876,Hijacking with Misuse
+3605,1871,Disruption
+3606,1871,Hijacking with Misuse
+3607,1871,Ransomware
+3608,1868,Disruption
+3609,1867,Disruption
+3610,1865,Disruption
+3611,1865,Hijacking with Misuse
+3612,1864,Data theft
+3613,1864,Hijacking with Misuse
+3614,1863,Disruption
+3615,1862,Data theft
+3616,1862,Hijacking with Misuse
+3617,1861,Data theft & Doxing
+3618,1861,Hijacking with Misuse
+3619,1860,Hijacking with Misuse
+3620,1859,Data theft & Doxing
+3621,1859,Hijacking with Misuse
+3622,1858,Hijacking without Misuse
+3623,1855,Disruption
+3624,1855,Hijacking with Misuse
+3625,1854,Hijacking without Misuse
+3626,1853,Disruption
+3627,1852,Disruption
+3628,1852,Hijacking with Misuse
+3629,1851,Disruption
+3630,1851,Hijacking with Misuse
+3631,1850,Data theft
+3632,1849,Hijacking without Misuse
+3633,1847,Data theft
+3634,1847,Hijacking with Misuse
+3635,1843,Disruption
+3636,1842,Disruption
+3637,1836,Hijacking without Misuse
+3638,1835,Disruption
+3639,1834,Data theft & Doxing
+3640,1834,Hijacking with Misuse
+3641,1830,Hijacking without Misuse
+3642,1829,Disruption
+3643,1828,Data theft
+3644,1828,Hijacking with Misuse
+3645,1827,Hijacking without Misuse
+3646,1826,Disruption
+3647,1826,Hijacking with Misuse
+3648,1826,Ransomware
+3649,1825,Hijacking without Misuse
+3650,1824,Data theft
+3651,1824,Disruption
+3652,1824,Ransomware
+3653,1823,Data theft & Doxing
+3654,1822,Data theft & Doxing
+3655,1821,Hijacking with Misuse
+3656,1820,Not available
+3657,1819,Data theft & Doxing
+3658,1818,Disruption
+3659,1817,Disruption
+3660,1816,Hijacking without Misuse
+3661,1815,Hijacking without Misuse
+3662,1814,Data theft & Doxing
+3663,1814,Hijacking with Misuse
+3664,1813,Data theft
+3665,1813,Ransomware
+3666,1809,Data theft
+3667,1809,Hijacking with Misuse
+3668,1808,Hijacking without Misuse
+3669,1807,Hijacking without Misuse
+3670,1805,Hijacking without Misuse
+3671,1804,Data theft
+3672,1804,Disruption
+3673,1802,Data theft
+3674,1802,Hijacking with Misuse
+3675,1801,Hijacking without Misuse
+3676,1800,Data theft
+3677,1800,Hijacking with Misuse
+3678,1797,Disruption
+3679,1795,Hijacking without Misuse
+3680,1794,Disruption
+3681,1794,Hijacking with Misuse
+3682,1793,Disruption
+3683,1793,Hijacking with Misuse
+3684,1793,Ransomware
+3685,1792,Data theft
+3686,1792,Hijacking with Misuse
+3687,1792,Ransomware
+3688,1791,Data theft
+3689,1791,Hijacking with Misuse
+3690,1790,Hijacking without Misuse
+3691,1789,Data theft & Doxing
+3692,1789,Hijacking with Misuse
+3693,1788,Disruption
+3694,1786,Data theft & Doxing
+3695,1786,Disruption
+3696,1785,Disruption
+3697,1782,Hijacking without Misuse
+3698,1781,Disruption
+3699,1779,Data theft & Doxing
+3700,1779,Hijacking with Misuse
+3701,1777,Disruption
+3702,1757,Disruption
+3703,1757,Hijacking with Misuse
+3704,1756,Disruption
+3705,1756,Hijacking with Misuse
+3706,1754,Data theft
+3707,1754,Hijacking with Misuse
+3708,1753,Disruption
+3709,1752,Disruption
+3710,1752,Hijacking with Misuse
+3711,1752,Ransomware
+3712,1751,Hijacking without Misuse
+3713,1741,Disruption
+3714,1741,Hijacking with Misuse
+3715,1740,Disruption
+3716,1738,Disruption
+3717,1738,Hijacking with Misuse
+3718,1737,Disruption
+3719,1736,Hijacking with Misuse
+3720,1735,Disruption
+3721,1735,Hijacking with Misuse
+3722,1733,Hijacking without Misuse
+3723,1732,Disruption
+3724,1732,Hijacking with Misuse
+3725,1726,Disruption
+3726,1725,Data theft & Doxing
+3727,1725,Hijacking with Misuse
+3728,1722,Hijacking without Misuse
+3729,1720,Hijacking with Misuse
+3730,1716,Disruption
+3731,1715,Hijacking without Misuse
+3732,1709,Hijacking without Misuse
+3733,1704,Data theft & Doxing
+3734,1704,Disruption
+3735,1703,Disruption
+3736,1702,Data theft
+3737,1702,Hijacking with Misuse
+3738,1701,Hijacking with Misuse
+3739,1700,Disruption
+3740,1699,Hijacking without Misuse
+3741,1694,Data theft
+3742,1694,Hijacking with Misuse
+3743,1693,Data theft
+3744,1693,Hijacking with Misuse
+3745,1691,Hijacking without Misuse
+3746,1690,Disruption
+3747,1689,Disruption
+3748,1688,Disruption
+3749,1683,Data theft
+3750,1683,Hijacking with Misuse
+3751,1682,Hijacking without Misuse
+3752,1680,Data theft
+3753,1680,Disruption
+3754,1680,Hijacking with Misuse
+3755,1679,Data theft & Doxing
+3756,1676,Hijacking without Misuse
+3757,1674,Hijacking without Misuse
+3758,1673,Hijacking without Misuse
+3759,1672,Data theft
+3760,1672,Hijacking with Misuse
+3761,1671,Data theft
+3762,1671,Hijacking with Misuse
+3763,1670,Hijacking without Misuse
+3764,1669,Data theft
+3765,1669,Hijacking with Misuse
+3766,1668,Data theft
+3767,1668,Hijacking with Misuse
+3768,1667,Disruption
+3769,1667,Hijacking with Misuse
+3770,1667,Disruption
+3771,1667,Hijacking with Misuse
+3772,1665,Data theft
+3773,1665,Disruption
+3774,1665,Hijacking with Misuse
+3775,1665,Ransomware
+3776,1664,Data theft
+3777,1664,Hijacking with Misuse
+3778,1663,Disruption
+3779,1662,Disruption
+3780,1662,Hijacking without Misuse
+3781,1662,Hijacking with Misuse
+3782,1661,Disruption
+3783,1661,Hijacking without Misuse
+3784,1661,Hijacking with Misuse
+3785,1660,Disruption
+3786,1660,Hijacking with Misuse
+3787,1659,Disruption
+3788,1659,Hijacking with Misuse
+3789,1659,Ransomware
+3790,1658,Disruption
+3791,1658,Hijacking with Misuse
+3792,1657,Hijacking with Misuse
+3793,1654,Disruption
+3794,1653,Data theft & Doxing
+3795,1653,Hijacking with Misuse
+3796,1652,Hijacking without Misuse
+3797,1651,Disruption
+3798,1650,Hijacking with Misuse
+3799,1648,Disruption
+3800,1648,Hijacking with Misuse
+3801,1646,Disruption
+3802,1644,Disruption
+3803,1643,Data theft
+3804,1643,Hijacking with Misuse
+3805,1642,Data theft & Doxing
+3806,1641,Data theft & Doxing
+3807,1640,Data theft & Doxing
+3808,1639,Data theft
+3809,1637,Hijacking without Misuse
+3810,1635,Hijacking without Misuse
+3811,1631,Data theft & Doxing
+3812,1630,Hijacking with Misuse
+3813,1629,Hijacking with Misuse
+3814,1628,Data theft & Doxing
+3815,1628,Hijacking without Misuse
+3816,1627,Data theft
+3817,1627,Hijacking with Misuse
+3818,1626,Data theft & Doxing
+3819,1626,Disruption
+3820,1626,Hijacking with Misuse
+3821,1618,Disruption
+3822,1615,Data theft
+3823,1615,Disruption
+3824,1615,Hijacking with Misuse
+3825,1614,Disruption
+3826,1613,Data theft & Doxing
+3827,1613,Hijacking with Misuse
+3828,1611,Hijacking with Misuse
+3829,1610,Data theft & Doxing
+3830,1609,Disruption
+3831,1609,Hijacking with Misuse
+3832,1607,Data theft
+3833,1607,Hijacking without Misuse
+3834,1606,Hijacking without Misuse
+3835,1605,Hijacking without Misuse
+3836,1604,Disruption
+3837,1603,Disruption
+3838,1599,Disruption
+3839,1594,Disruption
+3840,1591,Disruption
+3841,1590,Disruption
+3842,1590,Hijacking with Misuse
+3843,1589,Hijacking without Misuse
+3844,1583,Data theft & Doxing
+3845,1581,Disruption
+3846,1581,Hijacking with Misuse
+3847,1580,Data theft
+3848,1580,Hijacking with Misuse
+3849,1577,Disruption
+3850,1577,Ransomware
+3851,1575,Disruption
+3852,1574,Disruption
+3853,1573,Disruption
+3854,1572,Disruption
+3855,1572,Hijacking with Misuse
+3856,1571,Disruption
+3857,1571,Hijacking without Misuse
+3858,1570,Disruption
+3859,1569,Data theft & Doxing
+3860,1569,Disruption
+3861,1567,Disruption
+3862,1566,Data theft
+3863,1565,Hijacking without Misuse
+3864,1563,Disruption
+3865,1562,Hijacking without Misuse
+3866,1561,Data theft & Doxing
+3867,1558,Data theft
+3868,1558,Hijacking with Misuse
+3869,1555,Data theft
+3870,1555,Disruption
+3871,1555,Hijacking with Misuse
+3872,1555,Ransomware
+3873,1554,Data theft
+3874,1554,Disruption
+3875,1554,Hijacking with Misuse
+3876,1554,Ransomware
+3877,1553,Hijacking with Misuse
+3878,1550,Disruption
+3879,1546,Data theft
+3880,1546,Hijacking with Misuse
+3881,1544,Disruption
+3882,1544,Hijacking with Misuse
+3883,1543,Data theft
+3884,1543,Ransomware
+3885,1542,Data theft
+3886,1542,Hijacking with Misuse
+3887,1541,Disruption
+3888,1541,Hijacking with Misuse
+3889,1539,Data theft
+3890,1539,Hijacking with Misuse
+3891,1538,Data theft
+3892,1538,Disruption
+3893,1538,Hijacking with Misuse
+3894,1538,Ransomware
+3895,1537,Hijacking without Misuse
+3896,1533,Data theft & Doxing
+3897,1529,Data theft
+3898,1529,Hijacking with Misuse
+3899,1523,Hijacking with Misuse
+3900,1522,Data theft
+3901,1522,Hijacking with Misuse
+3902,1520,Disruption
+3903,1520,Hijacking with Misuse
+3904,1519,Data theft & Doxing
+3905,1519,Disruption
+3906,1515,Hijacking without Misuse
+3907,1514,Disruption
+3908,1514,Hijacking with Misuse
+3909,1513,Hijacking with Misuse
+3910,1512,Data theft & Doxing
+3911,1512,Disruption
+3912,1512,Hijacking with Misuse
+3913,1511,Disruption
+3914,1511,Hijacking with Misuse
+3915,1509,Data theft & Doxing
+3916,1509,Hijacking with Misuse
+3917,1508,Data theft & Doxing
+3918,1507,Data theft
+3919,1507,Hijacking with Misuse
+3920,1506,Data theft
+3921,1506,Hijacking with Misuse
+3922,1505,Data theft
+3923,1505,Hijacking without Misuse
+3924,1504,Hijacking without Misuse
+3925,1503,Disruption
+3926,1502,Data theft & Doxing
+3927,1502,Disruption
+3928,1502,Hijacking with Misuse
+3929,1502,Ransomware
+3930,1501,Data theft & Doxing
+3931,1500,Data theft & Doxing
+3932,1499,Disruption
+3933,1499,Ransomware
+3934,1496,Hijacking without Misuse
+3935,1495,Hijacking without Misuse
+3936,1494,Data theft
+3937,1494,Hijacking with Misuse
+3938,1493,Data theft
+3939,1493,Hijacking with Misuse
+3940,1493,Ransomware
+3941,1491,Disruption
+3942,1491,Hijacking with Misuse
+3943,1491,Ransomware
+3944,1468,Data theft
+3945,1468,Hijacking with Misuse
+3946,1455,Data theft
+3947,1455,Hijacking with Misuse
+3948,1454,Data theft & Doxing
+3949,1452,Data theft & Doxing
+3950,1451,Data theft
+3951,1451,Hijacking with Misuse
+3952,1450,Data theft
+3953,1450,Hijacking with Misuse
+3954,1449,Disruption
+3955,1449,Hijacking with Misuse
+3956,1448,Disruption
+3957,1447,Disruption
+3958,1446,Data theft & Doxing
+3959,1445,Data theft & Doxing
+3960,1444,Disruption
+3961,1443,Data theft & Doxing
+3962,1441,Data theft & Doxing
+3963,1440,Data theft & Doxing
+3964,1439,Data theft
+3965,1439,Disruption
+3966,1438,Data theft & Doxing
+3967,1437,Data theft & Doxing
+3968,1436,Disruption
+3969,1435,Data theft & Doxing
+3970,1433,Disruption
+3971,1432,Disruption
+3972,1432,Hijacking without Misuse
+3973,1431,Data theft
+3974,1429,Disruption
+3975,1428,Data theft & Doxing
+3976,1427,Disruption
+3977,1426,Disruption
+3978,1425,Disruption
+3979,1422,Disruption
+3980,1421,Disruption
+3981,1420,Disruption
+3982,1418,Data theft
+3983,1418,Hijacking with Misuse
+3984,1417,Data theft
+3985,1417,Disruption
+3986,1417,Hijacking with Misuse
+3987,1417,Ransomware
+3988,1416,Data theft
+3989,1416,Hijacking with Misuse
+3990,1414,Data theft
+3991,1414,Hijacking with Misuse
+3992,1413,Data theft
+3993,1413,Hijacking with Misuse
+3994,1412,Data theft
+3995,1412,Hijacking with Misuse
+3996,1411,Hijacking with Misuse
+3997,1410,Data theft & Doxing
+3998,1409,Hijacking without Misuse
+3999,1408,Hijacking without Misuse
+4000,1407,Disruption
+4001,1407,Hijacking with Misuse
+4002,1406,Disruption
+4003,1405,Hijacking without Misuse
+4004,1404,Hijacking without Misuse
+4005,1403,Hijacking without Misuse
+4006,1402,Data theft
+4007,1402,Hijacking with Misuse
+4008,1401,Data theft
+4009,1401,Hijacking with Misuse
+4010,1400,Hijacking without Misuse
+4011,1399,Data theft
+4012,1399,Hijacking with Misuse
+4013,1398,Data theft
+4014,1398,Hijacking with Misuse
+4015,1397,Hijacking without Misuse
+4016,1396,Hijacking without Misuse
+4017,1395,Data theft
+4018,1395,Hijacking with Misuse
+4019,1394,Data theft
+4020,1394,Hijacking with Misuse
+4021,1393,Data theft
+4022,1393,Hijacking with Misuse
+4023,1392,Data theft
+4024,1392,Hijacking with Misuse
+4025,1391,Hijacking with Misuse
+4026,1390,Disruption
+4027,1390,Hijacking with Misuse
+4028,1390,Ransomware
+4029,1389,Data theft & Doxing
+4030,1389,Hijacking with Misuse
+4031,1388,Hijacking with Misuse
+4032,1387,Data theft
+4033,1387,Hijacking with Misuse
+4034,1386,Hijacking without Misuse
+4035,1385,Data theft & Doxing
+4036,1384,Data theft & Doxing
+4037,1383,Data theft & Doxing
+4038,1383,Disruption
+4039,1382,Hijacking without Misuse
+4040,1381,Data theft
+4041,1380,Hijacking without Misuse
+4042,1379,Disruption
+4043,1378,Data theft
+4044,1378,Hijacking with Misuse
+4045,1377,Data theft & Doxing
+4046,1376,Data theft
+4047,1376,Hijacking with Misuse
+4048,1375,Hijacking without Misuse
+4049,1374,Data theft
+4050,1374,Hijacking with Misuse
+4051,1373,Data theft
+4052,1373,Hijacking with Misuse
+4053,1372,Data theft & Doxing
+4054,1372,Hijacking with Misuse
+4055,1371,Disruption
+4056,1370,Disruption
+4057,1370,Hijacking with Misuse
+4058,1369,Disruption
+4059,1368,Data theft & Doxing
+4060,1367,Data theft & Doxing
+4061,1366,Disruption
+4062,1365,Hijacking without Misuse
+4063,1364,Data theft
+4064,1364,Hijacking with Misuse
+4065,1363,Data theft
+4066,1362,Hijacking without Misuse
+4067,1361,Data theft
+4068,1360,Hijacking without Misuse
+4069,1359,Data theft & Doxing
+4070,1359,Hijacking with Misuse
+4071,1358,Data theft
+4072,1358,Hijacking with Misuse
+4073,1357,Data theft & Doxing
+4074,1356,Hijacking without Misuse
+4075,1355,Data theft
+4076,1355,Hijacking with Misuse
+4077,1354,Data theft
+4078,1354,Hijacking with Misuse
+4079,1353,Disruption
+4080,1352,Data theft
+4081,1352,Hijacking with Misuse
+4082,1351,Data theft
+4083,1351,Hijacking with Misuse
+4084,1350,Disruption
+4085,1350,Hijacking with Misuse
+4086,1349,Disruption
+4087,1348,Disruption
+4088,1347,Hijacking without Misuse
+4089,1346,Disruption
+4090,1345,Data theft
+4091,1345,Hijacking with Misuse
+4092,1344,Disruption
+4093,1343,Hijacking without Misuse
+4094,1342,Hijacking without Misuse
+4095,1341,Hijacking without Misuse
+4096,1340,Data theft
+4097,1340,Hijacking with Misuse
+4098,1339,Disruption
+4099,1338,Data theft & Doxing
+4100,1338,Hijacking with Misuse
+4101,1337,Data theft
+4102,1337,Disruption
+4103,1336,Disruption
+4104,1335,Data theft & Doxing
+4105,1335,Hijacking with Misuse
+4106,1334,Hijacking without Misuse
+4107,1333,Data theft
+4108,1333,Hijacking with Misuse
+4109,1332,Hijacking without Misuse
+4110,1331,Data theft
+4111,1330,Data theft & Doxing
+4112,1329,Data theft
+4113,1329,Hijacking with Misuse
+4114,1328,Disruption
+4115,1327,Disruption
+4116,1326,Disruption
+4117,1325,Data theft & Doxing
+4118,1325,Disruption
+4119,1323,Data theft
+4120,1323,Hijacking with Misuse
+4121,1322,Data theft
+4122,1322,Hijacking with Misuse
+4123,1321,Data theft
+4124,1321,Hijacking with Misuse
+4125,1320,Disruption
+4126,1319,Disruption
+4127,1318,Data theft
+4128,1318,Hijacking with Misuse
+4129,1317,Hijacking without Misuse
+4130,1316,Data theft
+4131,1316,Hijacking with Misuse
+4132,1315,Hijacking without Misuse
+4133,1314,Hijacking without Misuse
+4134,1313,Data theft
+4135,1313,Hijacking with Misuse
+4136,1312,Hijacking without Misuse
+4137,1311,Data theft & Doxing
+4138,1310,Data theft
+4139,1310,Hijacking with Misuse
+4140,1309,Data theft
+4141,1309,Hijacking with Misuse
+4142,1308,Data theft
+4143,1308,Hijacking with Misuse
+4144,1307,Data theft
+4145,1307,Hijacking with Misuse
+4146,1306,Hijacking without Misuse
+4147,1305,Data theft
+4148,1305,Hijacking with Misuse
+4149,1304,Data theft
+4150,1304,Hijacking with Misuse
+4151,1303,Data theft
+4152,1303,Hijacking with Misuse
+4153,1302,Data theft
+4154,1302,Hijacking with Misuse
+4155,1301,Data theft
+4156,1301,Hijacking with Misuse
+4157,1300,Data theft
+4158,1300,Hijacking with Misuse
+4159,1299,Data theft
+4160,1299,Hijacking with Misuse
+4161,1298,Data theft & Doxing
+4162,1298,Hijacking with Misuse
+4163,1297,Hijacking without Misuse
+4164,1296,Hijacking without Misuse
+4165,1295,Data theft & Doxing
+4166,1295,Hijacking with Misuse
+4167,1294,Disruption
+4168,1293,Data theft & Doxing
+4169,1293,Hijacking with Misuse
+4170,1292,Hijacking without Misuse
+4171,1291,Data theft
+4172,1291,Hijacking with Misuse
+4173,1290,Disruption
+4174,1289,Disruption
+4175,1288,Data theft
+4176,1288,Hijacking with Misuse
+4177,1287,Hijacking with Misuse
+4178,1286,Hijacking without Misuse
+4179,1285,Data theft
+4180,1285,Hijacking with Misuse
+4181,1284,Data theft
+4182,1284,Hijacking with Misuse
+4183,1283,Data theft
+4184,1283,Hijacking with Misuse
+4185,1282,Data theft
+4186,1282,Hijacking with Misuse
+4187,1281,Hijacking without Misuse
+4188,1280,Hijacking without Misuse
+4189,1279,Hijacking with Misuse
+4190,1278,Data theft
+4191,1278,Hijacking with Misuse
+4192,1277,Data theft
+4193,1277,Hijacking with Misuse
+4194,1276,Data theft
+4195,1276,Hijacking with Misuse
+4196,1275,Hijacking with Misuse
+4197,1274,Data theft & Doxing
+4198,1274,Hijacking with Misuse
+4199,1273,Data theft
+4200,1273,Hijacking with Misuse
+4201,1272,Data theft
+4202,1272,Hijacking with Misuse
+4203,1271,Hijacking without Misuse
+4204,1270,Data theft
+4205,1270,Hijacking with Misuse
+4206,1269,Data theft
+4207,1268,Data theft
+4208,1268,Hijacking with Misuse
+4209,1267,Data theft
+4210,1267,Hijacking with Misuse
+4211,1266,Hijacking with Misuse
+4212,1265,Data theft
+4213,1265,Hijacking with Misuse
+4214,1264,Disruption
+4215,1264,Hijacking with Misuse
+4216,1264,Ransomware
+4217,1263,Disruption
+4218,1263,Hijacking with Misuse
+4219,1263,Ransomware
+4220,1262,Data theft
+4221,1261,Data theft & Doxing
+4222,1260,Data theft
+4223,1260,Hijacking with Misuse
+4224,1259,Data theft
+4225,1259,Hijacking with Misuse
+4226,1258,Data theft
+4227,1258,Hijacking with Misuse
+4228,1257,Data theft
+4229,1257,Hijacking with Misuse
+4230,1256,Data theft
+4231,1256,Hijacking with Misuse
+4232,1255,Data theft
+4233,1255,Hijacking with Misuse
+4234,1254,Data theft
+4235,1254,Hijacking with Misuse
+4236,1253,Data theft
+4237,1253,Hijacking with Misuse
+4238,1252,Data theft
+4239,1252,Hijacking with Misuse
+4240,1251,Data theft
+4241,1251,Hijacking with Misuse
+4242,1250,Data theft
+4243,1250,Hijacking with Misuse
+4244,1249,Data theft
+4245,1249,Hijacking with Misuse
+4246,1248,Data theft & Doxing
+4247,1247,Data theft
+4248,1247,Hijacking with Misuse
+4249,1246,Data theft
+4250,1246,Hijacking with Misuse
+4251,1245,Data theft
+4252,1245,Hijacking with Misuse
+4253,1244,Disruption
+4254,1244,Hijacking with Misuse
+4255,1243,Disruption
+4256,1242,Data theft
+4257,1242,Hijacking with Misuse
+4258,1241,Data theft
+4259,1241,Hijacking with Misuse
+4260,1240,Data theft
+4261,1240,Hijacking with Misuse
+4262,1239,Data theft
+4263,1239,Disruption
+4264,1239,Hijacking with Misuse
+4265,1238,Data theft
+4266,1238,Hijacking with Misuse
+4267,1237,Data theft
+4268,1237,Hijacking with Misuse
+4269,1236,Disruption
+4270,1236,Hijacking with Misuse
+4271,1235,Data theft
+4272,1235,Disruption
+4273,1235,Hijacking with Misuse
+4274,1234,Data theft
+4275,1234,Hijacking with Misuse
+4276,1233,Data theft
+4277,1233,Hijacking with Misuse
+4278,1232,Data theft
+4279,1231,Data theft
+4280,1231,Hijacking with Misuse
+4281,1230,Data theft
+4282,1230,Hijacking with Misuse
+4283,1229,Hijacking with Misuse
+4284,1228,Disruption
+4285,1228,Hijacking with Misuse
+4286,1227,Hijacking without Misuse
+4287,1226,Disruption
+4288,1226,Hijacking with Misuse
+4289,1225,Data theft
+4290,1224,Data theft
+4291,1223,Disruption
+4292,1222,Data theft
+4293,1222,Hijacking with Misuse
+4294,1221,Data theft
+4295,1220,Data theft
+4296,1219,Data theft
+4297,1219,Hijacking with Misuse
+4298,1218,Data theft
+4299,1217,Data theft
+4300,1217,Hijacking with Misuse
+4301,1216,Data theft
+4302,1215,Disruption
+4303,1214,Data theft
+4304,1213,Data theft
+4305,1212,Data theft
+4306,1212,Hijacking with Misuse
+4307,1211,Data theft
+4308,1211,Hijacking with Misuse
+4309,1210,Data theft
+4310,1209,Data theft
+4311,1208,Disruption
+4312,1208,Hijacking with Misuse
+4313,1207,Data theft
+4314,1207,Hijacking with Misuse
+4315,1206,Data theft
+4316,1206,Hijacking with Misuse
+4317,1205,Disruption
+4318,1205,Hijacking with Misuse
+4319,1205,Ransomware
+4320,1204,Data theft
+4321,1204,Hijacking with Misuse
+4322,1203,Disruption
+4323,1203,Hijacking with Misuse
+4324,1202,Data theft & Doxing
+4325,1202,Disruption
+4326,1201,Disruption
+4327,1201,Hijacking with Misuse
+4328,1200,Data theft
+4329,1200,Hijacking with Misuse
+4330,1199,Disruption
+4331,1199,Hijacking with Misuse
+4332,1198,Disruption
+4333,1198,Hijacking with Misuse
+4334,1197,Disruption
+4335,1197,Hijacking with Misuse
+4336,1196,Disruption
+4337,1195,Data theft
+4338,1195,Hijacking with Misuse
+4339,1194,Data theft
+4340,1194,Hijacking with Misuse
+4341,1193,Data theft
+4342,1193,Hijacking with Misuse
+4343,1192,Data theft
+4344,1192,Hijacking with Misuse
+4345,1191,Data theft
+4346,1191,Hijacking with Misuse
+4347,1190,Data theft
+4348,1190,Hijacking with Misuse
+4349,1189,Data theft
+4350,1189,Hijacking with Misuse
+4351,1188,Data theft
+4352,1188,Hijacking with Misuse
+4353,1187,Data theft
+4354,1187,Hijacking with Misuse
+4355,1186,Data theft
+4356,1186,Hijacking with Misuse
+4357,1185,Hijacking without Misuse
+4358,1184,Hijacking with Misuse
+4359,1183,Data theft
+4360,1183,Hijacking with Misuse
+4361,1182,Data theft
+4362,1182,Hijacking with Misuse
+4363,1181,Data theft
+4364,1181,Hijacking with Misuse
+4365,1180,Data theft
+4366,1180,Hijacking with Misuse
+4367,1179,Data theft
+4368,1179,Hijacking with Misuse
+4369,1178,Data theft
+4370,1178,Hijacking with Misuse
+4371,1177,Data theft
+4372,1177,Hijacking with Misuse
+4373,1176,Data theft
+4374,1176,Hijacking with Misuse
+4375,1175,Disruption
+4376,1174,Data theft
+4377,1174,Hijacking with Misuse
+4378,1173,Data theft & Doxing
+4379,1172,Disruption
+4380,1171,Data theft
+4381,1170,Data theft
+4382,1169,Data theft
+4383,1168,Disruption
+4384,1168,Hijacking with Misuse
+4385,1167,Data theft
+4386,1166,Data theft
+4387,1166,Hijacking with Misuse
+4388,1165,Data theft
+4389,1165,Hijacking with Misuse
+4390,1164,Data theft & Doxing
+4391,1163,Data theft
+4392,1162,Disruption
+4393,1162,Hijacking with Misuse
+4394,1161,Data theft
+4395,1161,Hijacking with Misuse
+4396,1160,Disruption
+4397,1159,Disruption
+4398,1158,Data theft
+4399,1158,Hijacking with Misuse
+4400,1157,Disruption
+4401,1156,Disruption
+4402,1155,Disruption
+4403,1154,Data theft
+4404,1153,Hijacking with Misuse
+4405,1152,Data theft
+4406,1152,Hijacking with Misuse
+4407,1151,Data theft
+4408,1150,Disruption
+4409,1149,Disruption
+4410,1148,Data theft
+4411,1147,Data theft
+4412,1147,Hijacking with Misuse
+4413,1146,Data theft
+4414,1146,Hijacking with Misuse
+4415,1145,Disruption
+4416,1144,Data theft
+4417,1144,Hijacking with Misuse
+4418,1143,Data theft
+4419,1142,Data theft
+4420,1142,Hijacking with Misuse
+4421,1141,Disruption
+4422,1140,Data theft
+4423,1139,Data theft
+4424,1139,Hijacking with Misuse
+4425,1138,Data theft
+4426,1138,Hijacking with Misuse
+4427,1137,Data theft
+4428,1137,Hijacking with Misuse
+4429,1136,Data theft
+4430,1135,Disruption
+4431,1134,Disruption
+4432,1134,Hijacking with Misuse
+4433,1133,Data theft
+4434,1133,Hijacking with Misuse
+4435,1132,Data theft & Doxing
+4436,1131,Data theft
+4437,1130,Hijacking with Misuse
+4438,1129,Data theft
+4439,1129,Hijacking with Misuse
+4440,1128,Disruption
+4441,1127,Disruption
+4442,1127,Hijacking with Misuse
+4443,1127,Ransomware
+4444,1126,Disruption
+4445,1125,Disruption
+4446,1124,Disruption
+4447,1123,Disruption
+4448,1122,Data theft
+4449,1122,Hijacking with Misuse
+4450,1121,Data theft
+4451,1121,Hijacking with Misuse
+4452,1120,Data theft
+4453,1120,Hijacking with Misuse
+4454,1119,Disruption
+4455,1118,Disruption
+4456,1117,Disruption
+4457,1117,Ransomware
+4458,1116,Disruption
+4459,1115,Disruption
+4460,1114,Data theft
+4461,1114,Hijacking with Misuse
+4462,1113,Data theft & Doxing
+4463,1112,Data theft
+4464,1112,Hijacking with Misuse
+4465,1111,Hijacking without Misuse
+4466,1110,Data theft
+4467,1110,Hijacking with Misuse
+4468,1109,Data theft
+4469,1109,Hijacking with Misuse
+4470,1108,Data theft
+4471,1108,Hijacking with Misuse
+4472,1107,Data theft
+4473,1107,Disruption
+4474,1107,Hijacking with Misuse
+4475,1106,Data theft & Doxing
+4476,1105,Data theft
+4477,1105,Hijacking with Misuse
+4478,1104,Data theft & Doxing
+4479,1104,Disruption
+4480,1103,Disruption
+4481,1102,Data theft
+4482,1102,Hijacking with Misuse
+4483,1101,Hijacking without Misuse
+4484,1100,Data theft
+4485,1099,Data theft
+4486,1098,Data theft
+4487,1098,Hijacking with Misuse
+4488,1097,Data theft
+4489,1096,Data theft
+4490,1096,Hijacking with Misuse
+4491,1095,Data theft
+4492,1095,Hijacking with Misuse
+4493,1094,Hijacking with Misuse
+4494,1093,Hijacking with Misuse
+4495,1092,Data theft
+4496,1091,Data theft & Doxing
+4497,1090,Hijacking with Misuse
+4498,1089,Data theft
+4499,1089,Hijacking with Misuse
+4500,1088,Data theft
+4501,1088,Hijacking with Misuse
+4502,1087,Data theft
+4503,1086,Data theft
+4504,1086,Hijacking with Misuse
+4505,1085,Data theft
+4506,1084,Data theft
+4507,1084,Hijacking with Misuse
+4508,1083,Data theft
+4509,1082,Data theft
+4510,1081,Data theft
+4511,1081,Hijacking with Misuse
+4512,1080,Data theft
+4513,1080,Hijacking with Misuse
+4514,1079,Data theft
+4515,1079,Hijacking with Misuse
+4516,1078,Data theft
+4517,1078,Hijacking with Misuse
+4518,1077,Data theft
+4519,1077,Hijacking with Misuse
+4520,1076,Data theft
+4521,1076,Hijacking with Misuse
+4522,1075,Data theft
+4523,1075,Hijacking with Misuse
+4524,1074,Data theft
+4525,1074,Hijacking with Misuse
+4526,1073,Data theft & Doxing
+4527,1072,Data theft
+4528,1072,Hijacking with Misuse
+4529,1071,Disruption
+4530,1070,Data theft & Doxing
+4531,1069,Data theft
+4532,1069,Hijacking with Misuse
+4533,1068,Disruption
+4534,1067,Data theft & Doxing
+4535,1066,Data theft
+4536,1066,Hijacking with Misuse
+4537,1065,Disruption
+4538,1065,Hijacking with Misuse
+4539,1065,Ransomware
+4540,1064,Disruption
+4541,1063,Data theft
+4542,1063,Hijacking with Misuse
+4543,1062,Hijacking with Misuse
+4544,1061,Data theft
+4545,1061,Hijacking with Misuse
+4546,1060,Hijacking without Misuse
+4547,1059,Data theft
+4548,1059,Hijacking with Misuse
+4549,1058,Data theft
+4550,1057,Data theft
+4551,1057,Hijacking with Misuse
+4552,1056,Hijacking with Misuse
+4553,1055,Disruption
+4554,1054,Data theft
+4555,1054,Hijacking with Misuse
+4556,1053,Hijacking with Misuse
+4557,1052,Disruption
+4558,1052,Disruption
+4559,1051,Disruption
+4560,1050,Data theft
+4561,1050,Hijacking with Misuse
+4562,1049,Disruption
+4563,1048,Data theft
+4564,1048,Hijacking with Misuse
+4565,1047,Data theft
+4566,1047,Hijacking with Misuse
+4567,1046,Data theft
+4568,1046,Hijacking with Misuse
+4569,1045,Disruption
+4570,1044,Disruption
+4571,1043,Disruption
+4572,1042,Disruption
+4573,1041,Data theft
+4574,1041,Hijacking with Misuse
+4575,1040,Data theft
+4576,1039,Data theft
+4577,1039,Hijacking with Misuse
+4578,1038,Data theft
+4579,1038,Hijacking with Misuse
+4580,1037,Data theft
+4581,1037,Disruption
+4582,1036,Data theft
+4583,1036,Hijacking with Misuse
+4584,1035,Data theft
+4585,1034,Data theft
+4586,1034,Hijacking with Misuse
+4587,1033,Data theft
+4588,1032,Disruption
+4589,1032,Hijacking with Misuse
+4590,1031,Disruption
+4591,1030,Data theft
+4592,1029,Disruption
+4593,1028,Data theft & Doxing
+4594,1027,Disruption
+4595,1026,Data theft
+4596,1026,Hijacking with Misuse
+4597,1025,Disruption
+4598,1024,Data theft
+4599,1024,Hijacking with Misuse
+4600,1023,Data theft & Doxing
+4601,1022,Data theft
+4602,1021,Disruption
+4603,1020,Data theft
+4604,1020,Hijacking with Misuse
+4605,1019,Hijacking with Misuse
+4606,1018,Data theft
+4607,1018,Hijacking with Misuse
+4608,1017,Data theft
+4609,1017,Hijacking with Misuse
+4610,1016,Disruption
+4611,1016,Hijacking with Misuse
+4612,1016,Ransomware
+4613,1015,Data theft
+4614,1014,Disruption
+4615,1013,Data theft
+4616,1013,Hijacking with Misuse
+4617,1011,Data theft
+4618,1010,Data theft
+4619,1010,Hijacking with Misuse
+4620,1009,Hijacking with Misuse
+4621,1008,Data theft
+4622,1008,Hijacking with Misuse
+4623,1007,Disruption
+4624,1006,Data theft
+4625,1006,Hijacking with Misuse
+4626,1005,Disruption
+4627,1005,Ransomware
+4628,1004,Disruption
+4629,1003,Disruption
+4630,1002,Disruption
+4631,1002,Hijacking with Misuse
+4632,1002,Ransomware
+4633,1001,Data theft
+4634,1000,Disruption
+4635,1000,Hijacking with Misuse
+4636,1000,Ransomware
+4637,999,Data theft
+4638,998,Data theft
+4639,997,Disruption
+4640,996,Disruption
+4641,995,Data theft & Doxing
+4642,994,Data theft & Doxing
+4643,994,Disruption
+4644,994,Ransomware
+4645,993,Hijacking without Misuse
+4646,992,Disruption
+4647,991,Data theft
+4648,991,Hijacking with Misuse
+4649,990,Disruption
+4650,989,Data theft
+4651,988,Data theft
+4652,988,Hijacking with Misuse
+4653,987,Data theft
+4654,987,Hijacking with Misuse
+4655,986,Data theft
+4656,986,Hijacking with Misuse
+4657,985,Data theft
+4658,984,Data theft
+4659,984,Hijacking with Misuse
+4660,983,Data theft
+4661,983,Hijacking with Misuse
+4662,982,Disruption
+4663,981,Data theft
+4664,981,Hijacking with Misuse
+4665,980,Data theft
+4666,980,Hijacking with Misuse
+4667,979,Data theft
+4668,979,Hijacking without Misuse
+4669,978,Data theft
+4670,978,Hijacking with Misuse
+4671,977,Data theft
+4672,977,Hijacking with Misuse
+4673,976,Data theft
+4674,975,Data theft & Doxing
+4675,974,Disruption
+4676,974,Ransomware
+4677,973,Disruption
+4678,972,Disruption
+4679,972,Hijacking with Misuse
+4680,971,Data theft
+4681,970,Data theft
+4682,970,Hijacking with Misuse
+4683,969,Data theft
+4684,969,Hijacking with Misuse
+4685,968,Data theft & Doxing
+4686,967,Data theft
+4687,967,Hijacking with Misuse
+4688,966,Data theft
+4689,966,Hijacking with Misuse
+4690,964,Data theft & Doxing
+4691,963,Data theft
+4692,963,Hijacking with Misuse
+4693,962,Data theft
+4694,962,Hijacking with Misuse
+4695,961,Hijacking with Misuse
+4696,960,Data theft
+4697,960,Hijacking with Misuse
+4698,959,Data theft
+4699,959,Hijacking with Misuse
+4700,958,Data theft
+4701,958,Hijacking with Misuse
+4702,957,Data theft
+4703,956,Data theft
+4704,955,Data theft & Doxing
+4705,954,Data theft
+4706,954,Hijacking with Misuse
+4707,953,Data theft
+4708,953,Hijacking with Misuse
+4709,952,Disruption
+4710,951,Disruption
+4711,950,Data theft
+4712,950,Hijacking with Misuse
+4713,949,Hijacking without Misuse
+4714,948,Disruption
+4715,947,Disruption
+4716,947,Hijacking with Misuse
+4717,946,Disruption
+4718,945,Data theft & Doxing
+4719,944,Data theft & Doxing
+4720,943,Disruption
+4721,942,Data theft & Doxing
+4722,941,Disruption
+4723,941,Hijacking with Misuse
+4724,940,Data theft & Doxing
+4725,939,Data theft & Doxing
+4726,938,Data theft
+4727,938,Hijacking with Misuse
+4728,937,Data theft
+4729,937,Hijacking with Misuse
+4730,936,Disruption
+4731,936,Hijacking with Misuse
+4732,935,Data theft & Doxing
+4733,934,Disruption
+4734,933,Disruption
+4735,932,Disruption
+4736,932,Hijacking with Misuse
+4737,931,Disruption
+4738,930,Data theft & Doxing
+4739,929,Disruption
+4740,928,Disruption
+4741,927,Data theft & Doxing
+4742,926,Data theft & Doxing
+4743,925,Data theft & Doxing
+4744,924,Disruption
+4745,924,Hijacking with Misuse
+4746,923,Disruption
+4747,922,Data theft
+4748,922,Hijacking with Misuse
+4749,921,Disruption
+4750,920,Disruption
+4751,919,Data theft & Doxing
+4752,918,Disruption
+4753,918,Hijacking with Misuse
+4754,917,Data theft
+4755,916,Disruption
+4756,915,Disruption
+4757,914,Data theft & Doxing
+4758,913,Disruption
+4759,912,Data theft & Doxing
+4760,911,Data theft
+4761,911,Hijacking with Misuse
+4762,910,Data theft
+4763,910,Hijacking with Misuse
+4764,909,Data theft & Doxing
+4765,909,Hijacking with Misuse
+4766,908,Data theft
+4767,908,Hijacking with Misuse
+4768,907,Disruption
+4769,906,Disruption
+4770,905,Disruption
+4771,904,Disruption
+4772,903,Disruption
+4773,902,Data theft & Doxing
+4774,902,Disruption
+4775,901,Disruption
+4776,900,Data theft & Doxing
+4777,900,Disruption
+4778,899,Data theft & Doxing
+4779,898,Hijacking without Misuse
+4780,897,Data theft & Doxing
+4781,896,Data theft & Doxing
+4782,896,Hijacking with Misuse
+4783,895,Disruption
+4784,894,Disruption
+4785,893,Disruption
+4786,892,Disruption
+4787,891,Disruption
+4788,890,Data theft & Doxing
+4789,889,Data theft
+4790,889,Hijacking with Misuse
+4791,888,Data theft
+4792,887,Data theft
+4793,887,Hijacking with Misuse
+4794,886,Data theft
+4795,886,Hijacking with Misuse
+4796,885,Disruption
+4797,884,Data theft & Doxing
+4798,884,Disruption
+4799,883,Disruption
+4800,882,Disruption
+4801,881,Disruption
+4802,880,Data theft
+4803,880,Hijacking with Misuse
+4804,879,Data theft & Doxing
+4805,878,Disruption
+4806,877,Data theft
+4807,876,Disruption
+4808,875,Data theft & Doxing
+4809,875,Disruption
+4810,874,Disruption
+4811,873,Disruption
+4812,872,Data theft & Doxing
+4813,871,Data theft
+4814,871,Hijacking with Misuse
+4815,870,Data theft
+4816,870,Hijacking with Misuse
+4817,869,Data theft
+4818,869,Hijacking with Misuse
+4819,868,Disruption
+4820,867,Disruption
+4821,866,Disruption
+4822,865,Data theft & Doxing
+4823,864,Disruption
+4824,863,Disruption
+4825,862,Data theft & Doxing
+4826,861,Data theft
+4827,860,Data theft
+4828,859,Disruption
+4829,858,Disruption
+4830,857,Data theft & Doxing
+4831,857,Disruption
+4832,856,Data theft
+4833,856,Disruption
+4834,855,Disruption
+4835,854,Disruption
+4836,853,Data theft & Doxing
+4837,852,Data theft
+4838,852,Hijacking with Misuse
+4839,851,Disruption
+4840,850,Data theft & Doxing
+4841,849,Data theft
+4842,848,Data theft & Doxing
+4843,847,Data theft & Doxing
+4844,847,Disruption
+4845,846,Data theft & Doxing
+4846,845,Disruption
+4847,844,Disruption
+4848,843,Data theft & Doxing
+4849,842,Hijacking with Misuse
+4850,841,Data theft
+4851,840,Data theft & Doxing
+4852,839,Data theft
+4853,838,Data theft
+4854,838,Hijacking with Misuse
+4855,837,Data theft & Doxing
+4856,837,Disruption
+4857,836,Data theft & Doxing
+4858,836,Disruption
+4859,835,Data theft & Doxing
+4860,834,Disruption
+4861,833,Data theft & Doxing
+4862,832,Disruption
+4863,831,Disruption
+4864,830,Disruption
+4865,829,Data theft
+4866,829,Disruption
+4867,828,Disruption
+4868,827,Disruption
+4869,826,Disruption
+4870,825,Disruption
+4871,824,Disruption
+4872,823,Disruption
+4873,822,Disruption
+4874,821,Data theft
+4875,821,Hijacking with Misuse
+4876,820,Data theft
+4877,819,Data theft
+4878,819,Hijacking with Misuse
+4879,818,Data theft
+4880,818,Hijacking with Misuse
+4881,817,Hijacking with Misuse
+4882,816,Data theft
+4883,816,Hijacking with Misuse
+4884,815,Data theft
+4885,814,Data theft
+4886,814,Hijacking with Misuse
+4887,813,Data theft
+4888,812,Data theft
+4889,812,Hijacking with Misuse
+4890,811,Data theft
+4891,811,Hijacking with Misuse
+4892,810,Data theft
+4893,809,Data theft
+4894,809,Hijacking with Misuse
+4895,808,Data theft
+4896,808,Hijacking with Misuse
+4897,807,Data theft
+4898,807,Hijacking with Misuse
+4899,806,Data theft
+4900,806,Disruption
+4901,806,Hijacking with Misuse
+4902,805,Data theft
+4903,805,Hijacking with Misuse
+4904,804,Data theft
+4905,803,Data theft
+4906,803,Hijacking with Misuse
+4907,802,Data theft
+4908,802,Hijacking with Misuse
+4909,801,Data theft
+4910,801,Hijacking with Misuse
+4911,800,Data theft
+4912,800,Hijacking with Misuse
+4913,799,Data theft
+4914,799,Hijacking with Misuse
+4915,798,Data theft & Doxing
+4916,797,Data theft & Doxing
+4917,796,Data theft
+4918,796,Hijacking with Misuse
+4919,795,Data theft
+4920,795,Hijacking with Misuse
+4921,794,Data theft & Doxing
+4922,793,Hijacking without Misuse
+4923,792,Data theft
+4924,792,Hijacking with Misuse
+4925,791,Data theft
+4926,791,Hijacking with Misuse
+4927,790,Data theft
+4928,790,Hijacking with Misuse
+4929,789,Data theft
+4930,789,Hijacking with Misuse
+4931,788,Data theft
+4932,788,Hijacking with Misuse
+4933,787,Disruption
+4934,786,Disruption
+4935,786,Hijacking with Misuse
+4936,785,Data theft & Doxing
+4937,784,Data theft
+4938,783,Disruption
+4939,782,Disruption
+4940,781,Data theft
+4941,781,Hijacking with Misuse
+4942,780,Disruption
+4943,779,Data theft
+4944,778,Disruption
+4945,778,Hijacking with Misuse
+4946,777,Data theft
+4947,777,Hijacking with Misuse
+4948,776,Disruption
+4949,776,Hijacking with Misuse
+4950,775,Data theft & Doxing
+4951,774,Disruption
+4952,773,Disruption
+4953,772,Disruption
+4954,771,Data theft
+4955,771,Hijacking with Misuse
+4956,770,Disruption
+4957,769,Data theft & Doxing
+4958,768,Disruption
+4959,767,Data theft & Doxing
+4960,766,Data theft & Doxing
+4961,765,Data theft
+4962,765,Hijacking with Misuse
+4963,764,Data theft
+4964,764,Hijacking with Misuse
+4965,763,Data theft & Doxing
+4966,762,Data theft
+4967,761,Disruption
+4968,760,Disruption
+4969,759,Data theft
+4970,759,Hijacking with Misuse
+4971,758,Data theft
+4972,757,Disruption
+4973,756,Data theft
+4974,755,Data theft
+4975,755,Hijacking with Misuse
+4976,754,Data theft & Doxing
+4977,753,Data theft
+4978,752,Hijacking with Misuse
+4979,751,Disruption
+4980,750,Disruption
+4981,749,Disruption
+4982,748,Disruption
+4983,747,Disruption
+4984,747,Hijacking with Misuse
+4985,746,Data theft
+4986,745,Disruption
+4987,744,Disruption
+4988,743,Disruption
+4989,742,Disruption
+4990,741,Disruption
+4991,740,Data theft
+4992,740,Hijacking with Misuse
+4993,739,Disruption
+4994,738,Hijacking without Misuse
+4995,737,Disruption
+4996,736,Data theft & Doxing
+4997,735,Data theft
+4998,734,Disruption
+4999,733,Data theft
+5000,732,Data theft & Doxing
+5001,731,Data theft & Doxing
+5002,730,Data theft
+5003,729,Disruption
+5004,728,Disruption
+5005,727,Disruption
+5006,726,Disruption
+5007,725,Disruption
+5008,724,Disruption
+5009,723,Data theft
+5010,723,Hijacking with Misuse
+5011,722,Data theft
+5012,722,Hijacking with Misuse
+5013,721,Data theft
+5014,721,Hijacking with Misuse
+5015,720,Disruption
+5016,719,Data theft
+5017,719,Hijacking with Misuse
+5018,718,Data theft & Doxing
+5019,717,Data theft & Doxing
+5020,716,Disruption
+5021,715,Data theft
+5022,714,Data theft & Doxing
+5023,714,Disruption
+5024,713,Disruption
+5025,712,Data theft
+5026,712,Hijacking with Misuse
+5027,711,Disruption
+5028,710,Disruption
+5029,709,Disruption
+5030,708,Disruption
+5031,707,Disruption
+5032,706,Disruption
+5033,705,Disruption
+5034,704,Disruption
+5035,703,Disruption
+5036,703,Hijacking with Misuse
+5037,702,Disruption
+5038,701,Disruption
+5039,700,Data theft & Doxing
+5040,699,Data theft
+5041,698,Data theft
+5042,697,Disruption
+5043,696,Disruption
+5044,695,Data theft
+5045,694,Disruption
+5046,693,Disruption
+5047,692,Disruption
+5048,691,Disruption
+5049,690,Disruption
+5050,689,Data theft
+5051,689,Hijacking with Misuse
+5052,688,Data theft
+5053,688,Hijacking with Misuse
+5054,687,Data theft
+5055,687,Hijacking with Misuse
+5056,686,Data theft & Doxing
+5057,685,Data theft
+5058,685,Hijacking with Misuse
+5059,684,Data theft
+5060,683,Data theft
+5061,682,Data theft
+5062,681,Data theft & Doxing
+5063,681,Disruption
+5064,680,Data theft
+5065,679,Data theft
+5066,679,Hijacking with Misuse
+5067,678,Data theft
+5068,678,Hijacking with Misuse
+5069,677,Data theft
+5070,676,Data theft
+5071,676,Hijacking with Misuse
+5072,675,Data theft
+5073,675,Hijacking with Misuse
+5074,674,Data theft
+5075,673,Data theft
+5076,673,Hijacking with Misuse
+5077,672,Data theft
+5078,672,Hijacking with Misuse
+5079,671,Data theft
+5080,671,Hijacking with Misuse
+5081,670,Data theft
+5082,670,Hijacking with Misuse
+5083,669,Data theft
+5084,669,Hijacking with Misuse
+5085,668,Data theft
+5086,668,Hijacking with Misuse
+5087,667,Data theft
+5088,667,Hijacking with Misuse
+5089,666,Data theft
+5090,666,Hijacking with Misuse
+5091,665,Data theft
+5092,665,Hijacking with Misuse
+5093,664,Data theft
+5094,664,Hijacking with Misuse
+5095,663,Data theft
+5096,663,Hijacking with Misuse
+5097,662,Data theft
+5098,661,Disruption
+5099,660,Data theft & Doxing
+5100,660,Hijacking with Misuse
+5101,659,Disruption
+5102,658,Disruption
+5103,657,Data theft & Doxing
+5104,656,Disruption
+5105,655,Data theft
+5106,654,Disruption
+5107,653,Disruption
+5108,652,Disruption
+5109,651,Data theft & Doxing
+5110,651,Disruption
+5111,650,Disruption
+5112,649,Disruption
+5113,648,Disruption
+5114,647,Disruption
+5115,646,Disruption
+5116,645,Disruption
+5117,644,Data theft & Doxing
+5118,644,Disruption
+5119,644,Hijacking with Misuse
+5120,643,Data theft
+5121,643,Hijacking with Misuse
+5122,642,Data theft & Doxing
+5123,642,Disruption
+5124,641,Disruption
+5125,640,Disruption
+5126,639,Disruption
+5127,638,Disruption
+5128,637,Disruption
+5129,637,Hijacking with Misuse
+5130,636,Data theft & Doxing
+5131,635,Data theft
+5132,634,Data theft & Doxing
+5133,634,Disruption
+5134,633,Disruption
+5135,632,Disruption
+5136,631,Data theft
+5137,631,Hijacking with Misuse
+5138,630,Disruption
+5139,629,Disruption
+5140,628,Data theft
+5141,627,Disruption
+5142,626,Disruption
+5143,625,Disruption
+5144,624,Hijacking without Misuse
+5145,623,Disruption
+5146,622,Disruption
+5147,621,Data theft
+5148,620,Data theft
+5149,620,Hijacking with Misuse
+5150,619,Data theft
+5151,618,Disruption
+5152,617,Disruption
+5153,616,Data theft & Doxing
+5154,616,Hijacking with Misuse
+5155,615,Data theft
+5156,615,Hijacking with Misuse
+5157,614,Disruption
+5158,613,Disruption
+5159,612,Disruption
+5160,611,Disruption
+5161,610,Disruption
+5162,609,Data theft
+5163,608,Disruption
+5164,607,Disruption
+5165,606,Disruption
+5166,605,Data theft & Doxing
+5167,604,Disruption
+5168,603,Disruption
+5169,602,Data theft & Doxing
+5170,602,Disruption
+5171,601,Data theft
+5172,601,Disruption
+5173,600,Disruption
+5174,599,Disruption
+5175,598,Disruption
+5176,597,Disruption
+5177,596,Data theft & Doxing
+5178,596,Disruption
+5179,595,Data theft
+5180,595,Hijacking with Misuse
+5181,594,Data theft
+5182,594,Hijacking without Misuse
+5183,593,Data theft
+5184,593,Hijacking with Misuse
+5185,592,Data theft
+5186,591,Data theft
+5187,591,Hijacking with Misuse
+5188,590,Data theft
+5189,590,Hijacking with Misuse
+5190,589,Data theft
+5191,588,Data theft
+5192,588,Hijacking with Misuse
+5193,587,Data theft
+5194,587,Hijacking with Misuse
+5195,586,Data theft
+5196,586,Hijacking with Misuse
+5197,585,Disruption
+5198,584,Data theft
+5199,584,Hijacking with Misuse
+5200,583,Data theft
+5201,583,Hijacking with Misuse
+5202,582,Data theft
+5203,582,Hijacking with Misuse
+5204,581,Data theft
+5205,581,Hijacking with Misuse
+5206,580,Data theft
+5207,579,Data theft
+5208,578,Data theft
+5209,578,Hijacking with Misuse
+5210,577,Disruption
+5211,576,Disruption
+5212,575,Data theft & Doxing
+5213,574,Data theft
+5214,573,Data theft
+5215,572,Data theft
+5216,572,Hijacking with Misuse
+5217,571,Data theft
+5218,570,Data theft
+5219,570,Hijacking with Misuse
+5220,569,Disruption
+5221,568,Disruption
+5222,567,Hijacking without Misuse
+5223,566,Data theft
+5224,565,Disruption
+5225,564,Data theft
+5226,564,Hijacking with Misuse
+5227,563,Data theft
+5228,563,Hijacking with Misuse
+5229,562,Data theft
+5230,562,Hijacking with Misuse
+5231,561,Disruption
+5232,560,Disruption
+5233,559,Data theft & Doxing
+5234,558,Disruption
+5235,557,Data theft & Doxing
+5236,556,Disruption
+5237,555,Disruption
+5238,554,Disruption
+5239,553,Data theft
+5240,552,Disruption
+5241,551,Disruption
+5242,550,Disruption
+5243,549,Data theft
+5244,548,Disruption
+5245,547,Disruption
+5246,546,Disruption
+5247,545,Disruption
+5248,544,Disruption
+5249,543,Data theft & Doxing
+5250,543,Disruption
+5251,542,Disruption
+5252,541,Disruption
+5253,540,Disruption
+5254,539,Data theft & Doxing
+5255,538,Disruption
+5256,537,Disruption
+5257,536,Disruption
+5258,535,Disruption
+5259,534,Data theft
+5260,534,Hijacking with Misuse
+5261,533,Data theft
+5262,533,Hijacking with Misuse
+5263,532,Disruption
+5264,531,Disruption
+5265,530,Data theft & Doxing
+5266,530,Disruption
+5267,529,Disruption
+5268,528,Data theft & Doxing
+5269,527,Disruption
+5270,526,Disruption
+5271,525,Disruption
+5272,524,Disruption
+5273,523,Disruption
+5274,522,Disruption
+5275,521,Data theft & Doxing
+5276,520,Data theft & Doxing
+5277,519,Data theft
+5278,519,Hijacking with Misuse
+5279,518,Disruption
+5280,517,Data theft & Doxing
+5281,517,Disruption
+5282,516,Disruption
+5283,515,Disruption
+5284,514,Disruption
+5285,514,Hijacking with Misuse
+5286,513,Disruption
+5287,512,Data theft & Doxing
+5288,511,Data theft & Doxing
+5289,511,Disruption
+5290,510,Hijacking without Misuse
+5291,509,Data theft
+5292,509,Hijacking with Misuse
+5293,508,Disruption
+5294,507,Disruption
+5295,506,Disruption
+5296,505,Disruption
+5297,504,Disruption
+5298,503,Disruption
+5299,502,Disruption
+5300,501,Disruption
+5301,500,Disruption
+5302,499,Disruption
+5303,498,Disruption
+5304,497,Data theft
+5305,497,Hijacking with Misuse
+5306,496,Disruption
+5307,495,Data theft
+5308,494,Disruption
+5309,493,Disruption
+5310,492,Disruption
+5311,491,Data theft & Doxing
+5312,490,Data theft
+5313,489,Data theft & Doxing
+5314,489,Disruption
+5315,488,Disruption
+5316,487,Disruption
+5317,486,Disruption
+5318,485,Disruption
+5319,484,Data theft & Doxing
+5320,483,Data theft & Doxing
+5321,482,Disruption
+5322,481,Disruption
+5323,480,Data theft
+5324,480,Hijacking with Misuse
+5325,479,Data theft & Doxing
+5326,479,Disruption
+5327,478,Disruption
+5328,477,Data theft & Doxing
+5329,476,Disruption
+5330,475,Data theft & Doxing
+5331,475,Disruption
+5332,474,Data theft & Doxing
+5333,474,Disruption
+5334,473,Data theft
+5335,472,Disruption
+5336,471,Disruption
+5337,470,Data theft & Doxing
+5338,469,Disruption
+5339,468,Disruption
+5340,467,Data theft & Doxing
+5341,467,Disruption
+5342,466,Data theft & Doxing
+5343,466,Disruption
+5344,465,Disruption
+5345,464,Data theft
+5346,463,Disruption
+5347,462,Disruption
+5348,461,Disruption
+5349,460,Disruption
+5350,459,Disruption
+5351,458,Disruption
+5352,457,Data theft & Doxing
+5353,456,Disruption
+5354,455,Disruption
+5355,454,Disruption
+5356,454,Hijacking with Misuse
+5357,453,Data theft & Doxing
+5358,452,Disruption
+5359,451,Disruption
+5360,450,Data theft & Doxing
+5361,450,Disruption
+5362,449,Data theft
+5363,448,Data theft & Doxing
+5364,447,Data theft
+5365,446,Disruption
+5366,445,Data theft & Doxing
+5367,445,Disruption
+5368,444,Disruption
+5369,443,Disruption
+5370,442,Data theft & Doxing
+5371,441,Disruption
+5372,440,Data theft
+5373,439,Data theft & Doxing
+5374,438,Disruption
+5375,437,Data theft & Doxing
+5376,436,Disruption
+5377,435,Data theft
+5378,435,Hijacking with Misuse
+5379,434,Data theft
+5380,433,Data theft
+5381,432,Data theft
+5382,431,Data theft
+5383,430,Data theft
+5384,429,Data theft & Doxing
+5385,428,Data theft
+5386,428,Hijacking with Misuse
+5387,427,Data theft & Doxing
+5388,426,Data theft
+5389,425,Data theft
+5390,425,Hijacking with Misuse
+5391,424,Data theft
+5392,424,Hijacking with Misuse
+5393,423,Data theft
+5394,423,Hijacking with Misuse
+5395,422,Hijacking without Misuse
+5396,421,Data theft
+5397,421,Hijacking with Misuse
+5398,420,Data theft
+5399,420,Hijacking with Misuse
+5400,419,Hijacking without Misuse
+5401,418,Data theft
+5402,418,Hijacking with Misuse
+5403,417,Data theft
+5404,417,Hijacking with Misuse
+5405,416,Data theft
+5406,416,Hijacking with Misuse
+5407,415,Data theft
+5408,415,Hijacking with Misuse
+5409,414,Data theft
+5410,414,Hijacking with Misuse
+5411,413,Disruption
+5412,412,Disruption
+5413,411,Disruption
+5414,410,Data theft & Doxing
+5415,410,Disruption
+5416,409,Disruption
+5417,408,Disruption
+5418,407,Disruption
+5419,406,Disruption
+5420,405,Data theft & Doxing
+5421,405,Disruption
+5422,404,Data theft & Doxing
+5423,403,Disruption
+5424,402,Disruption
+5425,401,Disruption
+5426,400,Disruption
+5427,399,Data theft
+5428,398,Disruption
+5429,397,Data theft & Doxing
+5430,396,Disruption
+5431,395,Disruption
+5432,394,Disruption
+5433,393,Disruption
+5434,392,Data theft & Doxing
+5435,391,Disruption
+5436,390,Data theft
+5437,389,Disruption
+5438,388,Data theft & Doxing
+5439,387,Disruption
+5440,386,Disruption
+5441,385,Disruption
+5442,384,Disruption
+5443,383,Disruption
+5444,382,Disruption
+5445,381,Disruption
+5446,380,Disruption
+5447,379,Disruption
+5448,379,Hijacking with Misuse
+5449,378,Disruption
+5450,377,Disruption
+5451,376,Disruption
+5452,375,Disruption
+5453,374,Data theft & Doxing
+5454,373,Disruption
+5455,372,Disruption
+5456,371,Disruption
+5457,370,Data theft
+5458,370,Disruption
+5459,369,Disruption
+5460,368,Data theft & Doxing
+5461,367,Data theft
+5462,366,Data theft
+5463,365,Disruption
+5464,364,Disruption
+5465,363,Data theft & Doxing
+5466,362,Data theft
+5467,362,Hijacking with Misuse
+5468,361,Disruption
+5469,360,Disruption
+5470,359,Disruption
+5471,359,Hijacking with Misuse
+5472,358,Data theft & Doxing
+5473,357,Disruption
+5474,356,Data theft
+5475,355,Data theft & Doxing
+5476,355,Disruption
+5477,354,Disruption
+5478,353,Disruption
+5479,352,Disruption
+5480,351,Disruption
+5481,350,Disruption
+5482,349,Disruption
+5483,348,Data theft & Doxing
+5484,347,Disruption
+5485,346,Disruption
+5486,345,Disruption
+5487,344,Data theft & Doxing
+5488,344,Disruption
+5489,343,Hijacking without Misuse
+5490,342,Hijacking without Misuse
+5491,341,Hijacking without Misuse
+5492,340,Disruption
+5493,339,Hijacking without Misuse
+5494,338,Data theft & Doxing
+5495,337,Data theft
+5496,337,Hijacking with Misuse
+5497,336,Disruption
+5498,335,Disruption
+5499,334,Disruption
+5500,333,Disruption
+5501,332,Disruption
+5502,331,Data theft & Doxing
+5503,330,Data theft
+5504,329,Data theft
+5505,328,Data theft
+5506,327,Data theft
+5507,326,Data theft
+5508,326,Hijacking with Misuse
+5509,325,Disruption
+5510,324,Disruption
+5511,323,Data theft
+5512,322,Data theft
+5513,322,Hijacking with Misuse
+5514,321,Data theft
+5515,321,Hijacking with Misuse
+5516,320,Data theft & Doxing
+5517,319,Data theft & Doxing
+5518,318,Data theft & Doxing
+5519,317,Data theft
+5520,316,Data theft
+5521,316,Hijacking without Misuse
+5522,315,Data theft
+5523,315,Hijacking with Misuse
+5524,314,Data theft
+5525,314,Hijacking with Misuse
+5526,313,Data theft
+5527,312,Data theft
+5528,311,Disruption
+5529,310,Data theft
+5530,310,Hijacking with Misuse
+5531,309,Hijacking without Misuse
+5532,308,Data theft
+5533,308,Hijacking with Misuse
+5534,307,Data theft
+5535,306,Data theft & Doxing
+5536,305,Data theft
+5537,305,Hijacking with Misuse
+5538,304,Data theft
+5539,304,Hijacking with Misuse
+5540,303,Data theft
+5541,303,Hijacking with Misuse
+5542,302,Data theft
+5543,302,Hijacking with Misuse
+5544,301,Data theft
+5545,301,Hijacking with Misuse
+5546,300,Data theft
+5547,299,Data theft
+5548,299,Hijacking with Misuse
+5549,298,Data theft
+5550,298,Hijacking with Misuse
+5551,297,Disruption
+5552,296,Data theft & Doxing
+5553,295,Data theft & Doxing
+5554,294,Disruption
+5555,293,Data theft & Doxing
+5556,292,Data theft & Doxing
+5557,292,Disruption
+5558,291,Data theft
+5559,291,Hijacking with Misuse
+5560,290,Data theft & Doxing
+5561,289,Data theft
+5562,289,Disruption
+5563,288,Disruption
+5564,287,Disruption
+5565,286,Disruption
+5566,285,Disruption
+5567,284,Data theft & Doxing
+5568,283,Disruption
+5569,282,Disruption
+5570,281,Disruption
+5571,280,Disruption
+5572,279,Disruption
+5573,278,Data theft & Doxing
+5574,277,Disruption
+5575,276,Disruption
+5576,275,Data theft
+5577,274,Disruption
+5578,273,Disruption
+5579,272,Disruption
+5580,271,Disruption
+5581,270,Data theft & Doxing
+5582,269,Disruption
+5583,268,Disruption
+5584,267,Data theft & Doxing
+5585,266,Disruption
+5586,265,Disruption
+5587,264,Disruption
+5588,263,Disruption
+5589,262,Disruption
+5590,261,Data theft & Doxing
+5591,261,Disruption
+5592,260,Data theft
+5593,260,Hijacking with Misuse
+5594,259,Data theft
+5595,258,Disruption
+5596,257,Disruption
+5597,256,Disruption
+5598,255,Data theft & Doxing
+5599,254,Disruption
+5600,253,Disruption
+5601,252,Disruption
+5602,251,Disruption
+5603,250,Disruption
+5604,249,Disruption
+5605,248,Disruption
+5606,247,Disruption
+5607,246,Data theft
+5608,245,Data theft & Doxing
+5609,244,Disruption
+5610,243,Data theft & Doxing
+5611,242,Data theft & Doxing
+5612,241,Data theft
+5613,241,Hijacking with Misuse
+5614,240,Disruption
+5615,239,Data theft & Doxing
+5616,239,Disruption
+5617,238,Data theft & Doxing
+5618,237,Data theft & Doxing
+5619,236,Disruption
+5620,235,Disruption
+5621,234,Data theft
+5622,233,Data theft & Doxing
+5623,233,Disruption
+5624,232,Disruption
+5625,231,Data theft & Doxing
+5626,230,Data theft & Doxing
+5627,229,Disruption
+5628,228,Data theft
+5629,227,Disruption
+5630,226,Data theft
+5631,225,Disruption
+5632,224,Data theft & Doxing
+5633,223,Data theft & Doxing
+5634,222,Disruption
+5635,221,Disruption
+5636,220,Disruption
+5637,219,Disruption
+5638,218,Disruption
+5639,217,Data theft
+5640,216,Disruption
+5641,215,Disruption
+5642,214,Disruption
+5643,213,Disruption
+5644,212,Data theft & Doxing
+5645,211,Data theft
+5646,211,Hijacking with Misuse
+5647,210,Disruption
+5648,209,Disruption
+5649,208,Disruption
+5650,207,Disruption
+5651,206,Disruption
+5652,205,Disruption
+5653,204,Disruption
+5654,203,Data theft
+5655,202,Disruption
+5656,201,Data theft
+5657,200,Disruption
+5658,199,Disruption
+5659,198,Data theft
+5660,197,Disruption
+5661,196,Disruption
+5662,195,Data theft
+5663,194,Disruption
+5664,193,Disruption
+5665,192,Data theft & Doxing
+5666,191,Disruption
+5667,190,Disruption
+5668,189,Disruption
+5669,188,Disruption
+5670,187,Disruption
+5671,186,Disruption
+5672,185,Data theft
+5673,185,Disruption
+5674,185,Hijacking with Misuse
+5675,184,Disruption
+5676,183,Disruption
+5677,182,Disruption
+5678,181,Data theft
+5679,181,Hijacking with Misuse
+5680,180,Data theft
+5681,179,Data theft
+5682,178,Data theft
+5683,177,Data theft
+5684,176,Data theft
+5685,175,Data theft
+5686,174,Data theft
+5687,174,Hijacking with Misuse
+5688,173,Data theft
+5689,172,Disruption
+5690,171,Disruption
+5691,171,Hijacking without Misuse
+5692,170,Hijacking without Misuse
+5693,169,Data theft
+5694,169,Hijacking with Misuse
+5695,168,Data theft
+5696,167,Data theft
+5697,166,Data theft
+5698,165,Data theft
+5699,164,Data theft
+5700,163,Data theft
+5701,163,Hijacking with Misuse
+5702,162,Data theft
+5703,162,Hijacking with Misuse
+5704,161,Data theft
+5705,160,Disruption
+5706,159,Disruption
+5707,158,Disruption
+5708,157,Data theft
+5709,156,Data theft
+5710,155,Disruption
+5711,154,Data theft
+5712,154,Hijacking without Misuse
+5713,153,Disruption
+5714,152,Disruption
+5715,151,Data theft & Doxing
+5716,150,Data theft
+5717,149,Disruption
+5718,148,Disruption
+5719,147,Data theft
+5720,146,Data theft
+5721,145,Data theft
+5722,145,Hijacking with Misuse
+5723,144,Data theft
+5724,143,Data theft & Doxing
+5725,142,Data theft
+5726,141,Data theft
+5727,141,Disruption
+5728,141,Hijacking with Misuse
+5729,140,Disruption
+5730,139,Data theft
+5731,138,Data theft
+5732,137,Data theft
+5733,137,Hijacking with Misuse
+5734,136,Data theft
+5735,135,Data theft
+5736,134,Data theft
+5737,133,Data theft
+5738,132,Data theft
+5739,131,Data theft
+5740,130,Data theft
+5741,129,Disruption
+5742,128,Data theft
+5743,127,Data theft
+5744,127,Hijacking with Misuse
+5745,126,Data theft
+5746,126,Hijacking with Misuse
+5747,125,Data theft
+5748,125,Hijacking with Misuse
+5749,124,Data theft & Doxing
+5750,123,Data theft
+5751,123,Hijacking with Misuse
+5752,122,Disruption
+5753,121,Disruption
+5754,120,Disruption
+5755,119,Data theft
+5756,118,Hijacking without Misuse
+5757,117,Disruption
+5758,116,Disruption
+5759,115,Data theft
+5760,114,Data theft
+5761,113,Data theft
+5762,112,Disruption
+5763,111,Data theft
+5764,110,Data theft
+5765,109,Data theft
+5766,108,Data theft
+5767,107,Data theft
+5768,106,Data theft
+5769,105,Data theft
+5770,105,Hijacking without Misuse
+5771,104,Data theft
+5772,103,Data theft
+5773,103,Disruption
+5774,103,Hijacking with Misuse
+5775,102,Data theft
+5776,101,Data theft
+5777,100,Data theft
+5778,99,Data theft
+5779,98,Data theft
+5780,97,Data theft
+5781,96,Disruption
+5782,95,Disruption
+5783,94,Disruption
+5784,93,Disruption
+5785,92,Disruption
+5786,91,Data theft
+5787,90,Data theft & Doxing
+5788,89,Data theft
+5789,88,Disruption
+5790,87,Disruption
+5791,86,Data theft
+5792,85,Data theft
+5793,84,Disruption
+5794,83,Data theft & Doxing
+5795,82,Disruption
+5796,81,Disruption
+5797,80,Data theft
+5798,79,Data theft
+5799,78,Data theft
+5800,77,Data theft
+5801,76,Disruption
+5802,75,Data theft
+5803,73,Data theft
+5804,72,Data theft
+5805,71,Data theft
+5806,70,Data theft
+5807,69,Data theft
+5808,68,Data theft
+5809,67,Data theft
+5810,67,Hijacking with Misuse
+5811,66,Data theft
+5812,65,Data theft
+5813,64,Data theft
+5814,63,Disruption
+5815,62,Disruption
+5816,62,Hijacking with Misuse
+5817,61,Data theft
+5818,60,Data theft
+5819,59,Disruption
+5820,58,Data theft
+5821,57,Data theft
+5822,56,Disruption
+5823,55,Data theft
+5824,54,Disruption
+5825,53,Disruption
+5826,52,Disruption
+5827,51,Disruption
+5828,50,Data theft
+5829,49,Data theft
+5830,49,Hijacking with Misuse
+5831,48,Data theft
+5832,46,Disruption
+5833,46,Hijacking with Misuse
+5834,45,Data theft
+5835,44,Data theft
+5836,43,Data theft
+5837,42,Data theft
+5838,41,Data theft
+5839,40,Data theft
+5840,39,Data theft
+5841,38,Disruption
+5842,37,Disruption
+5843,36,Data theft
+5844,35,Data theft
+5845,34,Data theft
+5846,34,Hijacking with Misuse
+5847,33,Data theft
+5848,33,Disruption
+5849,32,Hijacking without Misuse
+5850,31,Data theft
+5851,30,Data theft
+5852,29,Data theft
+5853,29,Hijacking without Misuse
+5854,28,Disruption
+5855,27,Data theft
+5856,26,Data theft
+5857,25,Data theft
+5858,24,Data theft
+5859,23,Data theft
+5860,22,Data theft
+5861,21,Data theft
+5862,20,Disruption
+5863,19,Data theft
+5864,19,Hijacking with Misuse
+5865,18,Data theft
+5866,17,Disruption
+5867,16,Data theft
+5868,16,Hijacking with Misuse
+5869,15,Data theft
+5870,14,Disruption
+5871,13,Disruption
+5872,11,Data theft
+5873,10,Data theft
+5874,9,Disruption
+5875,8,Disruption
+5876,7,Disruption
+5877,6,Disruption
+5878,5,Disruption
+5879,4,Disruption
+5880,3,Disruption
+5881,2,Disruption

@@ -1,0 +1,1 @@
+This dataset makes the confounding decision to compress what appears to be a relational database into a series of columns whose values are lists delimited by semicolons. To resolve this, the related objects, referenced by incident ID, are separated into their own frames for as-needed reference in future.
