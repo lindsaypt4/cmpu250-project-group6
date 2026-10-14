@@ -23,7 +23,7 @@ Missing values: "Not available" / "Not attributed" were recoded to blank (missin
 | Start date, End date | date | Incident start/end, parsed from dd.mm.yyyy |
 | Year | integer | **Created.** Calendar year of Start date |
 | Period | categorical | **Created.** "2017–2019" if Year < 2020, else "2020–2023" |
-| Weighted intensity | numeric | EuRepoC intensity score adjusted by target multiplier [verify] |
+| Weighted intensity | numeric | EuRepoC intensity score adjusted by target multiplier |
 | Impact score | numeric | EuRepoC impact indicator score |
 | Data theft | categorical | Whether data theft occurred for private firms. Labeled as sensitive and non-sensitive |
 | Disruption | categorical | Type/extent of disruption in percentage form |
