@@ -1,0 +1,49 @@
+## Group 3 Peer Review
+
+We really enjoyed reading your paper. Overall, we thought it addressed important questions
+about biases and how human and robotic biases can conflict. The topic was especially compelling
+because of the difference between what people say they want in a partner and what actually
+influences their decisions. The introduction provided a strong background with relevant studies,
+and the research questions were clear and connected well to the overall motivation.
+One of the strongest aspects of the report was the modeling approach. Creating four
+different models to answer the research questions proposed at the beginning was a clear strength,
+and comparing weighted and unweighted logistic regression models was well suited to those
+questions. We also particularly appreciated that the training was repeated over 100 random splits.
+This made the results more reliable and helped ensure the model was as accurate as possible given
+the information provided, without leaning heavily toward one specific group. Including the
+baseline accuracy was also helpful for understanding how well the models performed. We found
+the discussion especially strong, particularly the explanation of your findings, given that your
+conclusions differed from your original hypothesis. The warnings on how the data should be
+interpreted are also highly applicable to this class and to the dangers of treating data as objective
+when it does not tell the full story. We also valued the connection drawn between racial bias and
+the ways in which dating algorithms could reinforce existing stereotypes, which relates well to
+topics we have discussed in class.
+As for criticism, we have relatively little, and most of it concerns providing more detail on
+the data and results rather than changing the overall approach. The main area in which we wanted
+
+more detail was the dataset itself. We may have overlooked this, but we were uncertain as to what
+data was used. The paper states that it comes from a Columbia University speed dating experiment,
+so we wondered whether the Columbia article was the source of the data. Stating more explicitly
+where the data originates would help validate the findings, ideally with a direct citation, the date of
+data collection, and the number of participants involved. The paper explains how the data cleanup
+took place, but we remain curious about what data was actually used. Since rows with missing
+values were removed, we were also curious how many observations were excluded and whether
+this could have affected the results. Additionally, we questioned whether the same participants
+appeared in multiple speed dating interactions and, if so, whether this was accounted for when
+splitting the data into training and testing sets.
+Regarding the research questions, we noted that RQ3 mentions race, gender, and age, but
+the analysis focuses only on race. We saw that this was acknowledged in the limitations, but we
+wondered whether you plan to include gender and age in the final project or to adjust the research
+question. Including sample sizes for each racial group would also provide more context for the
+comparisons, particularly if some groups had fewer observations. The figures were helpful, though
+slightly more descriptive captions would make them easier to interpret. We also believe that
+presenting the regression coefficients for RQ2 and RQ4 in tables would make the results easier to
+compare. One inconsistency we observed is that the Methods section specifies a significance level
+of 0.05, whereas the Discussion states that statistical significance was not tested. Clarifying this in
+the Methods or including the significance results, if available, would make the report more
+consistent. We were also interested in the unexpected negative coefficients for sincerity and
+ambition, and we believe that discussing possible explanations would strengthen that section.
+
+Overall, we found the paper to be well organized and easy to follow. We especially
+appreciated the acknowledgment of the dataset’s limitations and the care taken when interpreting
+the racial differences. We look forward to seeing how the project develops in the final paper.
